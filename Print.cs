@@ -2,12 +2,14 @@ public class Print
 {
    public static void Main()
    {
-      System.Console.WriteLine("This is a statement.");
-      // this is a commetnt 
-      System.Console.WriteLine("This is a second statement.");
-         // this is a commetnt 
-      System.Console.WriteLine("This is a third statement.");
-          // this is a commetnt 
-      System.Console.WriteLine("This is a fourth statement.");
+      System.Console.WriteLine("This is the first statement.");
+      // this is a comment 
+      System.Console.WriteLine("This is the second statement.");
+      // this is a comment 
+      System.Console.WriteLine("This is the third statement.");
+      // this is a comment 
+      System.Console.WriteLine("This is the fourth statement.");
+      // this is a comment 
+      System.Console.WriteLine("This is the fifth statement.");
    }
 }
