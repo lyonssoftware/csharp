@@ -15,5 +15,7 @@ public class Print
       System.Console.WriteLine("This is the sixth statement.");
        // this is a comment 
       System.Console.WriteLine("This is the seventh statement.");
+      // this is a comment 
+      System.Console.WriteLine("This is the eighth statement.");
    }
 }
