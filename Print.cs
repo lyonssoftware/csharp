@@ -20,5 +20,9 @@ public class Print
       // thid is a commwnt
       System.Console.WriteLine("This is the NINTH statement.");
       
+      Console.WriteLine("this is the test program");
+      
+      
+      
    }
 }
