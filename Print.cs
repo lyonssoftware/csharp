@@ -22,6 +22,8 @@ public class Print
       // this is comment
       System.Console.WriteLine("This is the tenth statement.");
       // this is the last comment
+      System.Console.WriteLine("This is the eleventh statement.");
+      // this is a comment
        System.Console.WriteLine("This is the last statement.");
    }
 }
