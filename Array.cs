@@ -15,6 +15,7 @@ public class Array
       array[8] = 9;
       array[9] = 10;
       array[10] = 11;
+      array[11] = 12;
       
       Console.WriteLine(array[0]);
       Console.WriteLine(array[1]);
@@ -27,5 +28,6 @@ public class Array
       Console.WriteLine(array[8]);
       Console.WriteLine(array[9]);
       Console.WriteLine(array[10]);
+      Console.WriteLine(array[11]);
    }
 }
