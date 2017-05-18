@@ -32,7 +32,8 @@ public class Array
       Console.WriteLine(array[9]);
       Console.WriteLine(array[10]);
       Console.WriteLine(array[11]);
-       Console.WriteLine(array[12]);
+      Console.WriteLine(array[12]);
+      Console.WriteLine(array[13]);
       
    }
 }
