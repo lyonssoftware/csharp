@@ -3,7 +3,7 @@ public class Array
    public static void Main()
    {
      // create an int array 
-     int[] array = new int[16];
+     int[] array = new int[17];
       array[0] = 1;
       array[1] = 2;
       array[2] = 3;
@@ -20,6 +20,8 @@ public class Array
       array[13] = 14;
       array[14] = 15;
       array[15] = 16;
+      array[16] = 17;
+      
       
       Console.WriteLine(array[0]);
       Console.WriteLine(array[1]);
