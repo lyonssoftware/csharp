@@ -3,7 +3,7 @@ public class Array
    public static void Main()
    {
      // create an int array 
-     int[] array = new int[22];
+     int[] array = new int[23];
       array[0] = 1;
       array[1] = 2;
       array[2] = 3;
@@ -44,5 +44,7 @@ public class Array
       Console.WriteLine(array[13]);
       Console.WriteLine(array[14]);
       Console.WriteLine(array[15]);
+      Console.WriteLine(array[16]);
+      Console.WriteLine(array[17]);
    }
 }
