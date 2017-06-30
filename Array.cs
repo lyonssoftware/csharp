@@ -54,5 +54,8 @@ public class Array
       Console.WriteLine(array[23]);
       Console.WriteLine(array[24]);
       Console.WriteLine(array[25]);
+      CONSOLE.writeline(array[26]);
+      
+      
    }
 }
