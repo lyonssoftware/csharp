@@ -57,5 +57,6 @@ public class Array
       Console.WRITELINE(arrray[26]);
       Console.WRITELINE(arrray[27]);
        Console.WRITELINE(arrray[28]);
+      Console.WRITELINE(arrray[29]);
    }
 }
