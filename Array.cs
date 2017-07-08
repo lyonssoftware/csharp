@@ -60,5 +60,7 @@ public class Array
       Console.WriteLine(arrray[29]);
       Console.WriteLine(array[30]);
       Console.WriteLine(array[31]);
+      Console.Writelibe(array[32]);
+      Console.WriteLine(array[33]);
    }
 }
