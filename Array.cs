@@ -65,5 +65,6 @@ public class Array
       Console.WriteLine(array[34]);
       Console.WriteLine(array[35]);
       Console.WriteLine(array[36]);
+      console.writeline(array[37]);
    }
 }
