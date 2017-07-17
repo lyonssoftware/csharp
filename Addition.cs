@@ -7,7 +7,12 @@ public class Addition
       
     int c = 7;
     int d = 2;
+      
+    int e = 9;
+    int f = 1;
     Console.WriteLine(a+b);
     Console.WriteLine(c+d);
+    Console.Writeline(a+d);
+    Console.Writeline(e+f);
   }
 }
