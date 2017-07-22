@@ -6,5 +6,6 @@ public class Subtraction
     int b = 3;
 
     Console.WriteLine(a-b);
+      Console.writeline(B-A);
   }
 }
