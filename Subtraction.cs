@@ -4,10 +4,10 @@ public class Subtraction
    {
     int a = 5;
     int b = 3;
-      int c =6;
-      int d = = 1; 
+    int c = 4;
 
     Console.WriteLine(a-b);
-      Console.writeline(B-A);
+    Console.writeline(b-a);
+    Console.WriteLine(a-c);
   }
 }
