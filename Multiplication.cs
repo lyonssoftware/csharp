@@ -7,5 +7,6 @@ Class Multiplication
         int z = -1
     
         Console.WriteLine(x*y);
+        console.writeline(z*y);
     }
 }
