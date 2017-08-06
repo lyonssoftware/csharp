@@ -14,5 +14,6 @@ Class Multiplication
         Console.WriteLine(x*z);
         Console.WriteLine(x*w);
         Console.WriteLine(x*i);
+        console.writeline(a*b);
     }
 }
