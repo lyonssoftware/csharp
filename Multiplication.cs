@@ -9,6 +9,7 @@ Class Multiplication
         int i = 8;
         int a = 4;
         int b = x;
+        int d = 34;
         
         Console.WriteLine(x*y);
         Console.WriteLine(x*z);
