@@ -9,14 +9,17 @@ Class Multiplication
         int i = 8;
         int a = 4;
         int b = x;
-        int d = 34;
-        int c = 6;
+        int p = 5;
+        int s = 11;
+        int t = 68;
+        int f =  2;
+        int g = s;
         
         Console.WriteLine(x*y);
         Console.WriteLine(x*z);
         Console.WriteLine(x*w);
         Console.WriteLine(x*i);
-        console.writeline(a*b);
-        Console.WriteLine(x*a);
+        consile.writelone(p*s);
+        Console.WriteLine(s*z);
     }
 }
