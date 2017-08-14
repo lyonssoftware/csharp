@@ -6,5 +6,6 @@ Class Division
         int y = 8;
        
         Console.WriteLine(x/y);
+        Console.WriteLine(y/x);
     }
 }
