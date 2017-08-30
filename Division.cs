@@ -16,7 +16,8 @@ Class Division
         Console.WriteLine(y/d);
         Console.WriteLine (y/d);
         Console.WriteLine(c/d);
-        console.wtiyeline(e/x);
-        Console.wtiyeline(x/e);
+        Console.wtiyeline(e/x);
+        Console.writeline(x/e);
+        Console.writeline(y/e);
     }
 }
