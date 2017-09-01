@@ -7,6 +7,7 @@ Class Division
         int c = 10;
         int d = 3;
         int e = 18;
+        int w = 7;
        
         Console.WriteLine(x/y);
         Console.WriteLine(y/x);
@@ -19,7 +20,6 @@ Class Division
         Console.wtiyeline(e/x);
         Console.writeline(x/e);
         Console.writeline(y/e);
-        Console.writeline (d/c);
+        Console.writeline (g/e);
     }
-    
 }
