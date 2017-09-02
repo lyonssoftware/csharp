@@ -8,6 +8,7 @@ Class Division
         int d = 3;
         int e = 18;
         int w = 7;
+        int i = 56;
        
         Console.WriteLine(x/y);
         Console.WriteLine(y/x);
