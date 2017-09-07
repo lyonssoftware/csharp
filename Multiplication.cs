@@ -22,5 +22,7 @@ Class Multiplication
         Console.writelone(p*s);
         Console.WriteLine(s*z);
         Console.WriteLine(t*y);
+        // multiply 3 variables 
+        Console.WriteLine(x*y*z;
     }
 }
