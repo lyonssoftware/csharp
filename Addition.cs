@@ -18,6 +18,7 @@ public class Addition
     Console.Writeline(b+d);
     Console.wtiteline (a+e);
       Console.wtiteline (a+b+c);
+      Console.wtiteline (d+e+f);
       
   }
 }
