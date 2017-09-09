@@ -24,5 +24,6 @@ Class Division
         Console.writeline(y/e);
         Console.writeline (g/e);
         Console.writeline (o/i);
+        Console.writeline (d/o);
     }
 }
