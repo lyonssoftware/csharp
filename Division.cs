@@ -10,6 +10,7 @@ Class Division
         int w = 7;
         int i = 56;
         int o = 32;
+        int k = 89;
        
         Console.WriteLine(x/y);
         Console.WriteLine(y/x);
