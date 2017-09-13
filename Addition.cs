@@ -7,7 +7,7 @@ public class Addition
       
     int c = 7;
     int d = 2;
-      IntIng I = 67;
+    int i = 67;
     int e = 9;
     int f = 1;
     Console.WriteLine(a+b);
@@ -17,8 +17,7 @@ public class Addition
     Console.Writeline(a+c);
     Console.Writeline(b+d);
     Console.wtiteline (a+e);
-      Console.wtiteline (a+b+c);
-      Console.wtiteline (d+e+f);
-      
+    Console.wtiteline (a+b+c);
+    Console.wtiteline (e+g+i);   
   }
 }
