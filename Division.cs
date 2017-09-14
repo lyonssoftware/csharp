@@ -11,7 +11,7 @@ Class Division
         int i = 56;
         int o = 32;
         int k = 89;
-        int r = d;
+        int f = e;
        
         Console.WriteLine(x/y);
         Console.WriteLine(y/x);
@@ -27,5 +27,7 @@ Class Division
         Console.writeline (g/e);
         Console.writeline (o/i);
         Console.writeline (d/o);
+        // adding and dividing variables
+        Console.writeline (x+y/o);
     }
 }
