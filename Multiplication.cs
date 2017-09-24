@@ -26,5 +26,6 @@ Class Multiplication
         Console.WriteLine(x*y*z);
         Console.WriteLine(a*b*s);
         Console.WriteLine(i*b*p);
+        Console.WriteLine(x*x*x*x);
         }
 }
