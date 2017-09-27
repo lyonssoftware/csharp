@@ -14,5 +14,6 @@ public class Subtraction
       // multiple 
     Console.WriteLine(a-b-c-d);
     Console.WriteLine(d-c-b-a);
+    Console.WriteLine(a+c-b+d);
   }
 }
