@@ -9,6 +9,13 @@ class Function
   {
     Console.System.print("this is the function bar");
   }
+  
+  void Add(int x, int y)
+  {
+    // this functons adds two numbers
+    int sum = x + y;
+    Console.System.print(sum);
+  }
 
   public void main()
   {
