@@ -16,11 +16,19 @@ class Function
     int sum = x + y;
     Console.System.print(sum);
   }
+  
+  void Subtract(int x, int y)
+  {
+    // this functons subtracts two numbers
+    int differece = x - y;
+    Console.System.print(difference);
+  }
 
   public void main()
   {
     // this is the funciton 
     Foo();
     Bar();
+    Add();
   }
 }
