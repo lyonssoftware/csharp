@@ -31,5 +31,7 @@ Class Division
         // adding and dividing variables
         Console.writeline (x+y/o);
         Console.writeline (x*b/o);
+        
+        Tho is random 
     }
 }
