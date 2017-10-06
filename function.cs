@@ -30,5 +30,6 @@ class Function
     Foo();
     Bar();
     Add();
+    Subtract();
   }
 }
