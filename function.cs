@@ -23,13 +23,19 @@ class Function
     int differece = x - y;
     Console.System.print(difference);
   }
+  
+  void Divide(int x, int y)
+  {
+    Console.System.print(x/y)
+  }
 
   public void main()
   {
+    int x = 5, int y = 7;
     // this is the funciton 
     Foo();
     Bar();
-    Add();
+    Add(x,y);
     Subtract();
   }
 }
