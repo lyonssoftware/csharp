@@ -36,6 +36,7 @@ class Function
     Foo();
     Bar();
     Add(x,y);
-    Subtract();
+    Subtract(x,y);
+    Divide(x,y);
   }
 }
