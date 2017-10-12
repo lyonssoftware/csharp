@@ -31,7 +31,7 @@ class Function
 
   public void main()
   {
-    // variabkes 
+    // varia
     int x = 5, int y = 7;
     // this is the funciton 
     Foo();
