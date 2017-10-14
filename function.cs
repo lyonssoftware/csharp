@@ -28,10 +28,15 @@ class Function
   {
     Console.System.print(x/y)
   }
+  
+  void Multiply(int x, int y)
+  {
+    Console.System.print(x*y)
+  }
 
   public void main()
   {
-    // yhe variabkes 
+    // variables 
     int x = 5, int y = 7;
     // this is the funciton 
     Foo();
@@ -39,5 +44,6 @@ class Function
     Add(x,y);
     Subtract(x,y);
     Divide(x,y);
+    Multiply(x,y);
   }
 }
