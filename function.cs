@@ -33,6 +33,13 @@ class Function
   {
     Console.System.print(x*y)
   }
+  
+  // return type 
+  int Add(int x, int y)
+  {
+    int sum = x + y;
+    return sum;
+  }
 
   public void main()
   {
@@ -41,9 +48,11 @@ class Function
     // this is the funciton 
     Foo();
     Bar();
-    Add(x,y);
+    Addition(x,y);
     Subtract(x,y);
     Divide(x,y);
     Multiply(x,y);
+    
+    Add(x, y);
   }
 }
