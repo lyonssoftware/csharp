@@ -48,6 +48,7 @@ class Function
     // this is the funciton 
     Foo();
     Bar();
+    // function with parameters
     Addition(x,y);
     Subtract(x,y);
     Divide(x,y);
