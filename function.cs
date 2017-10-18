@@ -40,6 +40,12 @@ class Function
     int sum = x + y;
     return sum;
   }
+  
+  int Subtraction(int x, int y)
+  {
+    int difference = x - y;
+    return difference;
+  }
 
   public void main()
   {
@@ -55,5 +61,7 @@ class Function
     Multiply(x,y);
     
     Add(x, y);
+    Subtraction(x,y);
+    Add(3,8);
   }
 }
