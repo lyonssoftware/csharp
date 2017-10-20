@@ -23,7 +23,7 @@ class Function
     int differece = x - y;
     Console.System.print(difference);
   }
-  
+  // void functin
   void Divide(int x, int y)
   {
     Console.System.print(x/y)
