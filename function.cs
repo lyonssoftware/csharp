@@ -23,12 +23,12 @@ class Function
     int differece = x - y;
     Console.System.print(difference);
   }
-  // void functin
+  
   void Divide(int x, int y)
   {
     Console.System.print(x/y)
   }
-  // voi
+  
   void Multiply(int x, int y)
   {
     Console.System.print(x*y)
@@ -64,5 +64,7 @@ class Function
     Subtraction(x,y);
     Add(3,8);
     Subtraction(9,7);
+    // more functions
+    Divide(7,5);
   }
 }
