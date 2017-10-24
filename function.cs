@@ -4,7 +4,7 @@ class Function
   {
     Console.System.print("this is the function foo");
   }
-  // VIID FUN
+  
   void Bar()
   {
     Console.System.print("this is the function bar");
@@ -40,7 +40,7 @@ class Function
     int sum = x + y;
     return sum;
   }
-  
+  // return an int value
   int Subtraction(int x, int y)
   {
     int difference = x - y;
