@@ -4,7 +4,7 @@ class Function
   {
     Console.System.print("this is the function foo");
   }
-  
+  // bar function 
   void Bar()
   {
     Console.System.print("this is the function bar");
