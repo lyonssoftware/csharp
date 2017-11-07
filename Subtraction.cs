@@ -7,6 +7,7 @@ public class Subtraction
     int b = 3;
     int c = 4;
     int d = 7;
+      // print the subtractions
 
     Console.WriteLine(a-b);
     Console.writeline(b-a);
