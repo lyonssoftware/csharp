@@ -1,27 +1,77 @@
-public class Addition
+public class Array
 {
    public static void Main()
    {
-      //variables
-    int a = 5;
-    int b = 3;
+     // create an int array 
+     int[] array = new int[31];
       
-    int c = 7;
-    int d = 2;
-    int i = 67;
-    int e = 9;
-    int f = 1;
-    Console.WriteLine(a+b);
-    Console.WriteLine(c+d);
-    Console.Writeline(a+d);
-    Console.Writeline(e+f);
-    Console.Writeline(a+c);
-    Console.Writeline(b+d);
-    Console.wtiteline (a+e);
-    Console.wtiteline (a+b+c);
-    Console.wtiteline (e+g+i);   
+      // create a double array
+      double[] doubleArray = new double[10];
       
-      // 
-      Console.wtiteline (a+b+c+e+g+i);
-  }
+      array[0] = 1;
+      array[1] = 2;
+      array[2] = 3;
+      array[3] = 4;
+      array[4] = 5;
+      array[5] = 6;
+      array[6] = 7; 
+      array[7] = 8; 
+      array[8] = 9;
+      array[9] = 10;
+      array[10] = 11;
+      array[11] = 12;
+      array[12] = 13;
+      array[13] = 14;
+      array[14] = 15;
+      array[15] = 16;
+      array[16] = 17;
+      array[17] = 18;
+      array[18] = 19;
+      Array 45;
+      array[19] = 20
+      array[20] = 21;
+      array[21] = 22;
+      array[22] = 23;
+      
+      // printthe array element 
+      
+      Console.WriteLine(array[0]);
+      Console.WriteLine(array[1]);
+      Console.WriteLine(array[2]);
+      Console.WriteLine(array[3]);
+      Console.WriteLine(array[4]);
+      Console.WriteLine(array[5]);
+      Console.WriteLine(array[6]);
+      Console.WriteLine(array[7]);
+      Console.WriteLine(array[8]);
+      Console.WriteLine(array[9]);
+      Console.WriteLine(array[10]);
+      Console.WriteLine(array[11]);
+      Console.WriteLine(array[12]);
+      Console.WriteLine(array[13]);
+      Console.WriteLine(array[14]);
+      Console.WriteLine(array[15]);
+      Console.WriteLine(array[16]);
+      Console.WriteLine(array[17]);
+      Console.WriteLine(array[18]);
+      Console.WriteLine(array[19]);
+      Console.WriteLine(array[20]);
+      Console.WriteLine(array[21]);
+      Console.WriteLine(array[22]);
+      Console.WriteLine(array[23]);
+      Console.WriteLine(array[24]);
+      Console.WriteLine(array[25]);
+      Console.WriteLine(arrray[26]);
+      Console.WriteLine(arrray[27]);
+      Console.WriteLine(arrray[28]);
+      Console.WriteLine(arrray[29]);
+      Console.WriteLine(array[30]);
+      Console.WriteLine(array[31]);
+      Console.Writelibe(array[32]);
+      Console.WriteLine(array[33]);
+      Console.WriteLine(array[34]);
+      Console.WriteLine(array[35]);
+      Console.WriteLine(array[36]);
+      CONSOLE.writeline(array[37]);
+   }
 }
