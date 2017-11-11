@@ -1,5 +1,6 @@
 class Function
 {
+  // this is the sample Foo(); function
   void Foo()
   {
     Console.System.print("this is the function foo");
