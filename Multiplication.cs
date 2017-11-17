@@ -16,6 +16,7 @@ Class Multiplication
         int f =  2;
         int g = s;
         
+        // multiply the variables
         Console.WriteLine(x*y);
         Console.WriteLine(x*z);
         Console.WriteLine(x*w);
