@@ -9,6 +9,7 @@ public class Subtraction
     int d = 7;
       // print the subtractions
 
+      // substract var b from a 
     Console.WriteLine(a-b);
     Console.writeline(b-a);
     Console.WriteLine(a-c);
