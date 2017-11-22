@@ -2,6 +2,7 @@ public class Print
 {
    public static void Main()
    {
+      // this is the first comment 
       System.Console.WriteLine("This is the first statement.");
       // this is a comment 
       System.Console.WriteLine("This is the second statement.");
