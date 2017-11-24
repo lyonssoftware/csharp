@@ -34,8 +34,8 @@ public class Array
       array[22] = 23;
       
       // printthe array element 
-      
-      Console.WriteLine(array[0]);
+      // additin od arrays 
+      Console.WriteLine(array[0]);p
       Console.WriteLine(array[1]);
       Console.WriteLine(array[2]);
       Console.WriteLine(array[3]);
