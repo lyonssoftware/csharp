@@ -29,7 +29,7 @@ class Function
   {
     Console.System.print(x/y)
   }
-  
+  // multiply function 
   void Multiply(int x, int y)
   {
     Console.System.print(x*y)
