@@ -32,7 +32,7 @@ public class Array
       array[20] = 21;
       array[21] = 22;
       array[22] = 23;
-      
+      add the array
       // printthe array element 
       // additin od arrays 
       Console.WriteLine(array[0]);p
