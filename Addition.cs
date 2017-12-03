@@ -19,12 +19,10 @@ public class Addition
     Console.Writeline(e+f);
     Console.Writeline(a+c);
     Console.Writeline(b+d);
-    Console.wtiteline (a+e);
+    Console.Writeline (a+e);
     // add three variables 
     Console.wtiteline (a+b+c);
     Console.wtiteline (e+g+i);   
     //add multiple variables
     Console.wtiteline (a+b+c+e+g+i);
-    Console.wtiteline (i+g+e+c+b+a);    
-  }
-}
+    Console.wtiteline (i+g+e+c+
