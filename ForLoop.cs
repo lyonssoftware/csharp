@@ -12,5 +12,11 @@ class ForLoop
     {
       Console.WriteLine("The is a decrement for loop.");
     }
+    
+    // increment by the 2
+    for(int i = 1; i < 10; i*2;
+    {
+       Console.WriteLine("This for loop increments by 2.");
+    }
   }
 }
