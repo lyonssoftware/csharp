@@ -18,5 +18,10 @@ class ForLoop
     {
        Console.WriteLine("This for loop increments by 2.");
     }
+    // print the line 
+    for (int j = 0; j < 5; j++)
+    {
+      Console.WriteLine("This is line " + j);
+    }
   }
 }
