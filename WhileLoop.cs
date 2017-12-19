@@ -10,6 +10,7 @@ public class WhileLoop
          System.Console.WriteLine("The current count is greater than 0.");
          i--;
       }
+      // this is a comment 
       // count int
       int j = 0;
       while(j < 5)
