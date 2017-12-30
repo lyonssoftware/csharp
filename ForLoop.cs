@@ -2,13 +2,13 @@ class ForLoop
 {
   int main()
   {
-    // for loop 
+    // incrementing for loop
     for(int i = 0; i < 10; i++)
     {
        Console.WriteLine("The is an increment for loop.");
     }
     
-    // decrement each for loop iteration 
+    // decrement by one 
     for(int i = 10; i > 0; i--)
     {
       Console.WriteLine("The is a decrement for loop.");
@@ -32,5 +32,4 @@ class ForLoop
       Console.WriteLine("This is line " + k);
     }
   }
-        // merry christmas
 }
