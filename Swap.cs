@@ -5,7 +5,7 @@ public class Swap
       // variables
     int a = 5;
     int b = 3;
-    
+    // swap variable
     int swap = 0;
     
     Console.WriteLine(a);
