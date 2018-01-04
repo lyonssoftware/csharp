@@ -14,6 +14,7 @@ public class Swap
     swap = a;
     a = b;
     b = swap;
+      // print the new numbers
     Console.WriteLine(a);
     Console.WriteLine(b);
   }
