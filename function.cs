@@ -17,7 +17,7 @@ class Function
     int sum = x + y;
     Console.System.print(sum);
   }
-  // subtract
+  // subtract function
   void Subtract(int x, int y)
   {
     // this functons subtracts two numbers
