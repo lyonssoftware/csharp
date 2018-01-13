@@ -2,8 +2,9 @@ public class Swap
 {
    public static void Main()
    {
-    // the initial variables
+    // the initial variable
     int a = 5;
+    // the second variable 
     int b = 3;
     // the swap variable
     int swap = 0;
