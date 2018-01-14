@@ -9,7 +9,7 @@ public class DoWhile
          // increment
         x++;
       }
-      
+      // while loop
      while(x < 10)
      {
         
