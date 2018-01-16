@@ -10,6 +10,7 @@ public class Subtraction
 
     // print the results
     Console.WriteLine(a-b);
+    // 3-5 = -2
     Console.writeline(b-a);
     Console.WriteLine(a-c);
     Console.WriteLine(d-c);
