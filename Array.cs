@@ -4,6 +4,8 @@ public class Array
    {
      // create an int array 
      int[] array = new int[31];
+      
+      // set the first array to 1 
       array[0] = 1;
       array[1] = 2;
       array[2] = 3;
