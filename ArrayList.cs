@@ -2,6 +2,7 @@ public class Addition
 {
    public static void Main()
    {
+      // thus program shows the stastart of an ArrayList
       // create instance of ArrayList
       ArrayList myArrayList = new ArrayList();
       // add the integer 56 to the ArrayList
