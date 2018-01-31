@@ -2,6 +2,7 @@ public class Subtraction
 {
    public static void Main()
    {
+      // subtract two integers
       // four variables to hold int 
     int a = 5;
     int b = 3;
