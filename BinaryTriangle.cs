@@ -7,6 +7,7 @@ class BinaryTriangle
     {
         public static void Main(String[] args)
         {
+         // variables
             int p, lastInt = 0, input;
             Console.WriteLine("Enter the Number of Rows : ");
             input = int.Parse(Console.ReadLine());
