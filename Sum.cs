@@ -2,6 +2,7 @@ class Sum
 {
   static void Main(string[] args)
   {
+    // ints to hold the number and sum
     int num, sum = 0, r;
     Console.WriteLine("Enter a Number : ");
     num = int.Parse(Console.ReadLine());
