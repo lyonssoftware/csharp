@@ -5,6 +5,7 @@ public class IfElse
       // variables 
       int a = 5, b = 5, c = 10;
 
+      // if a is equal to b 
       if (a == b)
         Console.WriteLine(a);
 
