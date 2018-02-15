@@ -11,8 +11,9 @@ public class Addition
       myArrayList.Add("String");
       // create newform
       myArrayList.Add(new Form());  
-      // end of the program
   }
 }
+// end of program
+
 
 
