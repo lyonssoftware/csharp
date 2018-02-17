@@ -6,6 +6,7 @@ Class Multiplication
     // variables
         int x = 3;
         int y = 8;
+        // negative integer
         int z = -1
         int w = 6;
         int i = 8;
