@@ -20,4 +20,5 @@ public class WhileLoop
          j++;
       }
    }
+   // end of the program
 }
