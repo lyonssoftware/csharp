@@ -2,7 +2,8 @@ public class SortArray
 {
    public static void Main()
    {
-      // sort int array
+      // program to sort an integer array
+      // intialize int array
       int[] intArray = new int[5] { 8, 10, 2, 6, 3 };
       Array.Sort(intArray);
       // write array
