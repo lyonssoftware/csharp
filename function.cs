@@ -1,6 +1,6 @@
 class Function
 {
-  // this is the sample Foo(); function
+  // this is a sample function named Foo();
   void Foo()
   {
     Console.System.print("this is the function foo");
@@ -24,12 +24,12 @@ class Function
     int differece = x - y;
     Console.System.print(difference);
   }
-  // divide function 
+  // divide function
   void Divide(int x, int y)
   {
     Console.System.print(x/y)
   }
-  // multiply function 
+  
   void Multiply(int x, int y)
   {
     Console.System.print(x*y)
@@ -47,7 +47,9 @@ class Function
     int difference = x - y;
     return difference;
   }
-// this is the main function
+
+  // this is the main function 
+  
   public void main()
   {
     // variables 
@@ -68,4 +70,5 @@ class Function
     // more functions
     Divide(7,5);
   }
+  // end of the program
 }
