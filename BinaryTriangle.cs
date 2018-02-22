@@ -28,5 +28,5 @@ class BinaryTriangle
                 } Console.Write("\n");
             }
             Console.ReadLine();
-        }
+        } // end of program 
     }
