@@ -10,5 +10,5 @@ class ArrayLength
         int[,] twoD = new int[5, 10];
         Console.WriteLine("The Size of 2D Array is : {0}",twoD.Length);
         Console.ReadLine();
-    }
+    } // end of program
 }
