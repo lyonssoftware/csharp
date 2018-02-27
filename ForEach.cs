@@ -1,7 +1,8 @@
 class ForEach
 {
   static void Main(string[] args)
-  {            
+  {        
+    // arraylist instance 
     ArrayList list = new ArrayList();
     list.Add("John Doe");
     list.Add("Jane Doe");
