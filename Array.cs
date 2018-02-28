@@ -35,7 +35,7 @@ public class Array
       array[22] = 23;
       
       // printthe array element 
-      
+      // print thefirst element 
       Console.WriteLine(array[0]);
       Console.WriteLine(array[1]);
       Console.WriteLine(array[2]);
