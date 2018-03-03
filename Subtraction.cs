@@ -13,6 +13,7 @@ public class Subtraction
     Console.WriteLine(a-b);
     // 3-5 = -2
     Console.writeline(b-a);
+      // 3-5= -2
     Console.WriteLine(a-c);
     Console.WriteLine(d-c);
     // multiple variable subtraction
