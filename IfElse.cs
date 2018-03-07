@@ -2,6 +2,7 @@ public class IfElse
   {
     static void Main(string[] args)
     {
+      // program to demo the if else statement
       // variables 
       int a = 5, b = 5, c = 10;
 
