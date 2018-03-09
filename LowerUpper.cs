@@ -2,6 +2,7 @@ class LowerUpper
 {
   static void Main(string[] args)
   {
+    // create an array
     Array stringArray = Array.CreateInstance(typeof(String), 6);
     stringArray.SetValue("Mango", 0);
     stringArray.SetValue("Orange", 1);
@@ -14,6 +15,5 @@ class LowerUpper
             Console.ReadLine();
  
         }
-    }
-// ens of program
+    } // end of program 
 }
