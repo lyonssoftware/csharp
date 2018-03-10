@@ -12,6 +12,7 @@ class program
     Console.ReadLine();
 }
 }
+// class
 class pro
 {
     public int sum(int num)
