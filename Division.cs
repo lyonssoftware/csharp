@@ -1,3 +1,4 @@
+Using System;
 Class Division
 {
     public static void Main()
