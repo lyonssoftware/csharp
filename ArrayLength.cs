@@ -2,6 +2,7 @@ class ArrayLength
 {
     static void Main()
     {
+        // intitialize array
         int[] arrayA = new int[5];
         int lengthA = arrayA.Length;
         Console.WriteLine("Length of ArrayA : {0}", +lengthA); 
