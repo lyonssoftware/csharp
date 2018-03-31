@@ -3,6 +3,7 @@ class program
 {
     public static void Main()
 {
+        // intialize variables
     int num, result;
     pro pg = new pro();
     Console.WriteLine("Enter the Number : ");
