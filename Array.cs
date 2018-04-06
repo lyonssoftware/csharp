@@ -76,5 +76,5 @@ public class Array
       Console.WriteLine(array[36]);
       CONSOLE.writeline(array[37]);
    }
-   // end of program
+   // the end of program
 }
