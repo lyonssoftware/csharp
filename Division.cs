@@ -34,6 +34,6 @@ Class Division
         Console.writeline (x+y/o);
         Console.writeline (x*b/o);
         
-        Tho is random 
+        // Tho is random 
     } // end of program
 }
