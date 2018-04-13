@@ -34,6 +34,7 @@ class SelectionSort
         {
             Console.WriteLine(array[i]);
         }
+        // print the sorted array
         Console.ReadLine();
     }
     // end of program
