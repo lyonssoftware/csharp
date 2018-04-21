@@ -32,5 +32,5 @@ class ForLoop
       // print 
       Console.WriteLine("This is line " + k);
     }
-  } // end program 
+  } // end of the program 
 }
