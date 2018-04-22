@@ -1,5 +1,4 @@
-using System
-
+using System;
 public class Subtraction
 {
    public static void Main()
@@ -22,6 +21,6 @@ public class Subtraction
     Console.WriteLine(a-b-c-d);
     Console.WriteLine(d-c-b-a);
     Console.WriteLine(a+c-b+d);
-    // end of program
+    // end of the program
   }
 }
