@@ -26,5 +26,5 @@ class pro
         {
             return 0;
         }
-    }// end of program 
+    }// end of the program 
 }
