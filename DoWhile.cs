@@ -7,7 +7,7 @@ public class DoWhile
     int x = 3;
       do 
       {
-         // increment
+         // increment by one 
         x++;
       }
       // while the x variable is less than 10 
