@@ -1,1 +1,8 @@
-// someone might hurt me at 7600 highmeadow in the parking lot female with 6 brothrs 
+// I was not attacked
+class Help
+{
+  public stati void Main()
+  {
+    // print statement
+  }
+}
