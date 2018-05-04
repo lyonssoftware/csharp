@@ -1,8 +1,9 @@
-// I was not attacked
+// program to print help statement
 class Help
 {
-  public stati void Main()
+  public static void Main()
   {
     // print statement
+    System.out.println("Please assist with error");
   }
 }
