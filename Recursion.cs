@@ -20,6 +20,7 @@ class pro
     {
         if (num != 0)
         {
+            // iterate
             return (num % 10 + sum(num / 10));
         }
         else
