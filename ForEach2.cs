@@ -8,5 +8,5 @@ public class ForEach2
       {
         Console.WriteLine(name);
       }
-  } // end of the program 
+  } // end of prigram
 }
