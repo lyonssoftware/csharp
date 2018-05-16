@@ -9,6 +9,7 @@ public class Addition
       // more variables
     int c = 7;
     int d = 2;
+      // more variables
     int i = 67;
     int e = 9;
     int f = 1;
