@@ -23,5 +23,5 @@ class InsertionSort
             Console.WriteLine(item);
         }
         Console.ReadKey();
-    }
+    } // end of program 
 }
