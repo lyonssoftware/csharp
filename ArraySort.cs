@@ -18,4 +18,4 @@ class ArraySort
             Console.WriteLine(color);
         }
     }
-}
+} // end of program
