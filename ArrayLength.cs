@@ -5,6 +5,7 @@ class ArrayLength
     {
         // intitialize array
         int[] arrayA = new int[5];
+        // ger tgr lenfth 
         int lengthA = arrayA.Length;
         Console.WriteLine("Length of ArrayA : {0}", +lengthA); 
         long longLength = arrayA.LongLength;
