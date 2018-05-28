@@ -4,6 +4,7 @@ class Help
   public static void Main()
   {
     // print statement
-    System.out.println("Please assist with error");
+    System.out.print("Please assist with error");
+    
   }
-}
+} // end of program
