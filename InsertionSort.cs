@@ -20,10 +20,10 @@ class InsertionSort
         //display
         foreach (var item in num)
         {
-            // 0"print 
+            // print the current item 
             Console.WriteLine(item);
         }
         // display the key
         Console.ReadKey();
-    } // end of program
+    } // end of the program
 }
