@@ -14,5 +14,5 @@ class ForEach
     }
     Console.ReadLine();
   }
-  // end of program
+  // end of the program
 }
