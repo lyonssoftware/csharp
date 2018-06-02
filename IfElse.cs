@@ -10,6 +10,7 @@ public class IfElse
 
       // if a is equal to b 
       if (a == b)
+        // orint the var 
         Console.WriteLine(a);
 // or statement 
       if ((a > c) || (a == b))
