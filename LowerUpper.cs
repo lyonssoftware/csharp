@@ -11,6 +11,8 @@ class LowerUpper
             stringArray.SetValue("Grape", 3);
             stringArray.SetValue("Cherry", 4);
             stringArray.SetValue("WaterMelon", 4);
+    
+    // more code 
             Console.WriteLine("The Lower Bound of the Array : {0}",stringArray.GetLowerBound(0).ToString());
             Console.WriteLine("The Upper Bound of the Array : {0}",stringArray.GetUpperBound(0).ToString());
             Console.ReadLine();
