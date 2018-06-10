@@ -10,6 +10,7 @@ class ForEach
             
     foreach(string name in list)
     {
+      // print the line 
       Console.WriteLine(name);
     }
     Console.ReadLine();
