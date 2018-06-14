@@ -38,6 +38,7 @@ Class Multiplication
         Console.WriteLine(a*b*s);
         // mutiple vars 
         Console.WriteLine(i*b*p);
+        /: line
         // end of the program 
         }
 }
