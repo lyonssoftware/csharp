@@ -3,6 +3,7 @@ class InsertionSort
 {
     private static void Main(string[] args)
     {
+        // create int array 
         int[] num = { 69, 56, 77, 44, 8, 0, 111, 566 };
         for (int i = 1; i < num.Length; i++)
         {
