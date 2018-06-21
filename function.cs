@@ -44,6 +44,7 @@ class Function
   // return an int value
   int Subtraction(int x, int y)
   {
+    // get difference
     int difference = x - y;
     return difference;
   }
