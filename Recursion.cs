@@ -25,6 +25,7 @@ class pro
         }
         else
         {
+            // return 0 when finished
             return 0;
         }
     }// end of the program 
