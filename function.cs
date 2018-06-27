@@ -57,6 +57,7 @@ class Function
     int x = 5, int y = 7;
     // this is the funciton 
     Foo();
+    // this is another function
     Bar();
     // function with parameters
     Addition(x,y);
