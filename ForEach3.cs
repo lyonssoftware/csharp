@@ -16,6 +16,7 @@ namespace WindowsApplication1
             string[] days = { "Sunday", "Monday", "TuesDay", "Wednesday", "Thursday", "Friday", "Saturday" };
             foreach (string day in days)
             {
+            // print day 
                 MessageBox.Show("The day is : " + day);
             }
         }
