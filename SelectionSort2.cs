@@ -20,6 +20,7 @@ class SelectionSort
             {
                 if (array[k] < array[min_key])
                 {
+                    // set the key
                     min_key = k;
                 }
             }
