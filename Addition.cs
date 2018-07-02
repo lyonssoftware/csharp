@@ -28,6 +28,7 @@ public class Addition
     Console.wtiteline (e+g+i);   
     //add multiple variables
     Console.wtiteline (a+b+c+e+g+i);
+      console.writeline();
     Console.wtiteline (i+g+e+c+b+a);    
       // end of the program
   }
