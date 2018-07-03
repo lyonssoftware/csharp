@@ -17,5 +17,6 @@ public class Switch
         Console.WriteLine("Other");
         break;
       }
+      // end of program 
    }
 }
