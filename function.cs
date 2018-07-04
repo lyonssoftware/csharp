@@ -64,7 +64,7 @@ class Function
     Subtract(x,y);
     Divide(x,y);
     Multiply(x,y);
-    
+    // add function
     Add(x, y);
     Subtraction(x,y);
     Add(3,8);
