@@ -20,7 +20,8 @@ namespace WindowsApplication1
                 MessageBox.Show("The day is : " + day);
             }
         }
-        // end of ptogrsm
+        // end of program
+        // 
     }
 }
 
