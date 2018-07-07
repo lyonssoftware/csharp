@@ -1,6 +1,7 @@
 Using System;
 public class HelloWord
 {
+   // main function
    public static void Main()
    {
       // this is a comment 
