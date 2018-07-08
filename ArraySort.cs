@@ -3,6 +3,7 @@ class ArraySort
 {
     static void Main()
     {
+        // array of strings
         string[] colors = new string[]
         {
             "orange",
@@ -17,5 +18,5 @@ class ArraySort
         {
             Console.WriteLine(color);
         }
-    }
-} // end of program
+    } // end of program 
+}
