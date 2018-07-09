@@ -8,5 +8,5 @@
                if (data [i] > data [i + 1])
                   exchange (data, i, i + 1);
             }
-         }
+         } // end of the program
       }
