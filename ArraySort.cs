@@ -16,6 +16,7 @@ class ArraySort
         Array.Sort(colors);
         foreach (string color in colors)
         {
+            // print the string 
             Console.WriteLine(color);
         }
     } // end of program 
