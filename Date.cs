@@ -2,7 +2,7 @@ Using System;
 class Date 
 {
   public static void Main()
-    {
+    {//print string
     
     // create date time 2008-03-09 16:05:07.123
 DateTime dt = new DateTime(2008, 3, 9, 16, 5, 7, 123);
