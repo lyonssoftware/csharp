@@ -19,6 +19,7 @@ public class Swap
     b = swap;
     // print the new variables
     Console.WriteLine(a);
+      // print variable b 
     Console.WriteLine(b);
       // end of prigram
   }
