@@ -21,6 +21,7 @@ public static void QuickSort (int[] data, int l, int r)
                break;
          }
          if (l < j)
+               // first half 
             IntArrayQuickSort (data, l, j);
          if (i < r)
             IntArrayQuickSort (data, i, r);
