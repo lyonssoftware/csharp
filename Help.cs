@@ -5,6 +5,7 @@ class Help
   {
     // print statement
     System.out.print("Please assist with error");
+    // wait fir reponde 
     
   }
 } // end HELP.cs
