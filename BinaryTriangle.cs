@@ -17,6 +17,7 @@ class BinaryTriangle
                 {
                     if (lastInt == 1)
                     {
+                     // print item
                         Console.Write("0");
                         lastInt = 0;
                     }
