@@ -1,5 +1,6 @@
    public static void BubbleSort (int[] data)
       {
+         // int variables to compare
          int i, j;
          int N = data.Length;
 
