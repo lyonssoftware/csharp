@@ -13,6 +13,7 @@ class ForEach
       // print the line 
       Console.WriteLine(name);
     }
+    // read it 
     Console.ReadLine();
   }
   // end of the program
