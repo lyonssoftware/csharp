@@ -1,7 +1,7 @@
 Using System;
 public class DoWhile
 {
-   // while loops 
+   // main function
    public static void Main()
    {
     int x = 3;
