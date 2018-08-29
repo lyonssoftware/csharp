@@ -19,6 +19,8 @@ Class Multiplication
         int i = 8;
         int a = 4;
         int b = x;
+        
+        // integer
         int p = 5;
         int s = 11;
         int t = 68;
