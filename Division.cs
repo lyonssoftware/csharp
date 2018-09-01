@@ -14,6 +14,7 @@ Class Division
         int o = 32;
         int k = 89;
         int f = e;
+        // negative variable 
         int negativeNum = -12;
        
         Console.WriteLine(x/y);
