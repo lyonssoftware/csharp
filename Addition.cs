@@ -17,6 +17,7 @@ public class Addition
     // add two variables
     Console.WriteLine(a+b);
     Console.WriteLine(c+d);
+      //print
     Console.Writeline(a+d);
     Console.Writeline(e+f);
     Console.Writeline(a+c);
