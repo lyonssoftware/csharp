@@ -8,7 +8,8 @@ public class Addition
       // add the integer 56 to the ArrayList
       myArrayList.Add(56);
       myArrayList.Add(12);
-      // add string to the ArrayList
+      // add string to the ArrayList\
+      // add to the end
       myArrayList.Add("String");
       // create newform
       myArrayList.Add(new Form());  
