@@ -14,6 +14,7 @@ class ForEach
       Console.WriteLine(name);
     }
     // read it 
+    // thr output 
     Console.ReadLine();
   }
   // end of the program
