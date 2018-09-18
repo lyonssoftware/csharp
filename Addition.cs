@@ -11,7 +11,8 @@ public class Addition
     int d = 2;
       // more variables
     int i = 67;
-    int e = 9;
+     // negative variable 
+    int e = -9;
     int f = 1;
     // print the statements
     // add two variables
