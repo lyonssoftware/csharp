@@ -16,6 +16,7 @@ Class Multiplication
         // negative integer
         int z = -1
         int w = 6;
+        // int 
         int i = 8;
         // int 
         int a = 4;
