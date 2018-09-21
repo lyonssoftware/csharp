@@ -29,11 +29,13 @@ public class Array
       array[16] = 17;
       array[17] = 18;
       array[18] = 19;
-      Array 45;
+      
       array[19] = 20
       array[20] = 21;
       array[21] = 22;
       array[22] = 23;
+      // add to the array
+      array[23] = 45;
       
       // printthe array element 
       // print thefirst element 
