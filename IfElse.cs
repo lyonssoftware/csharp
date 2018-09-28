@@ -17,9 +17,8 @@ public class IfElse
         Console.WriteLine(b);
        // and statement
       if ((a >= c) && (b <= c))
-        // print statement 
+        // print c 
         Console.WriteLine(c);
-      // last statement 
     }
   }
 // end of the program
