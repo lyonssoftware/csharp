@@ -1,9 +1,9 @@
 Using System;
 public class Print
 {
+   // this program prints statements
    public static void Main()
    {
-      // this program prints comments 
       // this is the first comment 
       System.Console.WriteLine("This is the first statement.");
       // this is a comment 
