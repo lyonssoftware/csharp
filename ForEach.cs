@@ -8,6 +8,7 @@ class ForEach
     list.Add("Jane Doe");
     list.Add("Someone Else");
             
+    // for each 
     foreach(string name in list)
     {
       // print the line 
