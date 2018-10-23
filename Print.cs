@@ -26,7 +26,7 @@ public class Print
       System.Console.WriteLine("This is the tenth statement.");
       // this is the last comment
       System.Console.WriteLine("This is the eleventh statement.");
-      // this is a comment
+      // this is the last comment
        System.Console.WriteLine("This is the last statement.");
       // end of the program 
    }
