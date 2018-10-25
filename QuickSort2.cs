@@ -1,5 +1,6 @@
 public static void QuickSort (int[] data, int l, int r)
       {
+            // int variables 
          int i, j;
          int x;
  
@@ -10,7 +11,7 @@ public static void QuickSort (int[] data, int l, int r)
          while (true) {
             while (data[i] < x)
                i++;
-            while (x < data[j])
+/             while (x < data[j])
                j--;
             if (i <= j) {
                exchange (data, i, j);
@@ -21,10 +22,8 @@ public static void QuickSort (int[] data, int l, int r)
                break;
          }
          if (l < j)
-               // first half 
             IntArrayQuickSort (data, l, j);
          if (i < r)
-               // if less than
             IntArrayQuickSort (data, i, r);
       }
 
