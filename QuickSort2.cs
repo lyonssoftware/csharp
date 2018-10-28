@@ -21,6 +21,7 @@ public static void QuickSort (int[] data, int l, int r)
             if (i > j)
                break;
          }
+      // check if lessthan
          if (l < j)
             IntArrayQuickSort (data, l, j);
          if (i < r)
