@@ -8,6 +8,7 @@ class LowerUpper
     // insert
     stringArray.SetValue("Mango", 0);
     stringArray.SetValue("Orange", 1);
+    // insert into the array 
     stringArray.SetValue("Apple", 2);
             stringArray.SetValue("Grape", 3);
     // set value 
