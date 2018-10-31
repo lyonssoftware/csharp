@@ -6,6 +6,7 @@ class ForEach
     ArrayList list = new ArrayList();
     list.Add("John Doe");
     list.Add("Jane Doe");
+    // add to list array
     list.Add("Someone Else");
             
     // for each 
