@@ -9,7 +9,7 @@ class InsertionSort
         // for loop
         for (int i = 1; i < num.Length; i++)
         {
-            /: set ghe key 
+            // set the key from the array
             int key = num[i];
             //decrement
             int j = i - 1;
