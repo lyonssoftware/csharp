@@ -6,7 +6,7 @@ class InsertionSort
         // array
         int[] num = { 69, 56, 77, 44, 8, 0, 111, 566 };
         
-        // for loop
+        // for loop end in the size id the array 
         for (int i = 1; i < num.Length; i++)
         {
             // set the key from the array
