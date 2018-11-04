@@ -6,6 +6,7 @@ public class SortArray
       // program to sort an integer array
       // intialize int array
       int[] intArray = new int[5] { 8, 10, 2, 6, 3 };
+      // sort the array
       Array.Sort(intArray);
       // iterate through the array
       // each 
