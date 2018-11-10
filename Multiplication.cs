@@ -28,6 +28,7 @@ Class Multiplication
         int t = 68;
         //int 
         int f =  2;
+        // last int 
         int g = s;
         
         //multiple the variables 
