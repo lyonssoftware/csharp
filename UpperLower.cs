@@ -6,6 +6,7 @@ class UpperLower
     // create an array
     Array stringArray = Array.CreateInstance(typeof(String), 6);
     stringArray.SetValue("Mango", 0);
+    //set ghe value
     stringArray.SetValue("Orange", 1);
     stringArray.SetValue("Apple", 2);
             stringArray.SetValue("Grape", 3);
