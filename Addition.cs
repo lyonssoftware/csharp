@@ -11,17 +11,18 @@ public class Addition
     int d = 2;
       // more variables
     int i = 67;
-     // negative variable 
-    int e = -9;
+    int e = 9;
+    // the last variable 
     int f = 1;
     // print the statements
     // add two variables
     Console.WriteLine(a+b);
     Console.WriteLine(c+d);
-      //print
+      // addition
     Console.Writeline(a+d);
       // print
     Console.Writeline(e+f);
+      // print the additon of the variables
     Console.Writeline(a+c);
       // add variables
     Console.Writeline(b+d);
@@ -31,7 +32,7 @@ public class Addition
     Console.wtiteline (e+g+i);   
     //add multiple variables
     Console.wtiteline (a+b+c+e+g+i);
-      console.writeline();
+      // vars
     Console.wtiteline (i+g+e+c+b+a);    
       // end of the program
   }
