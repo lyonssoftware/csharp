@@ -17,7 +17,7 @@ class LowerUpper
             stringArray.SetValue("WaterMelon", 4);
     //print the lower bound
             Console.WriteLine("The Lower Bound of the Array : {0}",stringArray.GetLowerBound(0).ToString());
-    // upper bounds
+    // upper bounds if the areay 
             Console.WriteLine("The Upper Bound of the Array : {0}",stringArray.GetUpperBound(0).ToString());
     // read line
             Console.ReadLine();
