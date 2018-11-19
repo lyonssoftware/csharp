@@ -14,7 +14,8 @@ namespace WindowsApplication1
         private void button1_Click(object sender, EventArgs e)
         {
         // array of dates // string 
-            string[] days = { "Sunday", "Monday", "TuesDay", "Wednesday", "Thursday", "Friday", "Saturday" };
+            string[] days = { "Sunday", "Monday", "TuesDay", "Wednesday", "Thursday", "Friday", "
+// fix error
             foreach (string day in days)
             {
             // print day 
