@@ -18,6 +18,7 @@ class InsertionSort
             {
                 //loop
                 num[j + 1] = num[j];
+                // iterate
                 j--;
             }
             // set the new key
