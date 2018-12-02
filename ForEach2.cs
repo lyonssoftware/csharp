@@ -8,6 +8,7 @@ public class ForEach2
       // insert
       foreach (string name in names)
       {
+         // print 
         Console.WriteLine(name);
       }
   } // end of the program 
