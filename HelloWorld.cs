@@ -6,10 +6,10 @@ public class HelloWord
    {
       // this is a comment 
 System.Console.WriteLine("Hello, World!");
-      :: probt 
+      // probt 
       // this is another statement
       System.Console.WriteLine("My name is Bob.");
-      // end of tje printvstatements 
+      // end of the print stayemments 
       
    } // end of the program
 }
