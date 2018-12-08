@@ -9,7 +9,7 @@ class InsertionSort
         // setup the forloop based on the length of the array
         for (int i = 1; i < num.Length; i++)
         {
-            // set the key frim the array
+            // create new key from selected item in array
             int key = num[i];
             //decrement
             int j = i - 1;
