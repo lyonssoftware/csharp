@@ -1,23 +1,21 @@
 class ForEach
 {
   static void Main(string[] args)
-  {        
-    // arraylist instance 
+  {            
+    // create instance of array list
     ArrayList list = new ArrayList();
     list.Add("John Doe");
+    // add a new name to array list
     list.Add("Jane Doe");
-    // add to list array
+    //addnae 
     list.Add("Someone Else");
             
-    // for each 
+    // for loop
     foreach(string name in list)
     {
-      // print the line 
+      // print the name
       Console.WriteLine(name);
     }
-    // read it 
-    // thr output 
     Console.ReadLine();
   }
   // end of the program
-}
