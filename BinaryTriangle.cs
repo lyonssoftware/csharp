@@ -11,6 +11,7 @@ class BinaryTriangle
             int p, lastInt = 0, input;
          // get the number of rows
             Console.WriteLine("Enter the Number of Rows : ");
+         // read input
             input = int.Parse(Console.ReadLine());
             for (int i = 1; i <= input; i++)
             {
