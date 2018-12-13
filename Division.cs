@@ -5,16 +5,19 @@ Class Division
     {
         // variables 
         int x = 3;
+        // variables
         int y = 8;
         int c = 10;
         int d = 3;
         int e = 18;
         int w = 7;
+        // more variables
         int i = 56;
         int o = 32;
         int k = 89;
+        // integer
         int f = e;
-        // negative variable 
+        // negative integer
         int negativeNum = -12;
        
         Console.WriteLine(x/y);
@@ -36,5 +39,5 @@ Class Division
         Console.writeline (x*b/o);
         
         // Tho is random 
-    } // end of program
+    } // end of the program 
 }
