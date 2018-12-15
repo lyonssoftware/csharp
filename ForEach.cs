@@ -4,6 +4,7 @@ class ForEach
   {            
     // create instance of array list
     ArrayList list = new ArrayList();
+    // add the first name to the array list
     list.Add("John Doe");
     // add a new name to array list
     list.Add("Jane Doe");
