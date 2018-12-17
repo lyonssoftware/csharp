@@ -30,6 +30,7 @@ class InsertionSort
         {
             // print the current item
             Console.WriteLine(item);
+            // printe the end 
         }
         // display the key
         Console.ReadKey();
