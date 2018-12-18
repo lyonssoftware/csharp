@@ -14,6 +14,7 @@ public static void QuickSort (int[] data, int l, int r)
 /             while (x < data[j])
                j--;
             if (i <= j) {
+                  // $&&$$
                exchange (data, i, j);
                i++;
                j--;
