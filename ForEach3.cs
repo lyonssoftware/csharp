@@ -5,25 +5,24 @@ namespace WindowsApplication1
 {
     public partial class Form1 : Form
     {
+        // create form 
         public Form1()
         {
-            // initialize 
+            // intialize
+            // the component
             InitializeComponent();
         }
-
+p
         private void button1_Click(object sender, EventArgs e)
         {
-        // array of dates // string 
-            string[] days = { "Sunday", "Monday", "TuesDay", "Wednesday", "Thursday", "Friday", "
-// fix error
+        // array of days
+            string[] days = { "Sunday", "Monday", "TuesDay", "Wednesday", "Thursday", "Friday", "Saturday" };
+            // inseet
             foreach (string day in days)
             {
-            // print day 
+            // print message 
                 MessageBox.Show("The day is : " + day);
             }
         }
-        // end of program
-        // 
-    }
+    } // end of the program
 }
-
