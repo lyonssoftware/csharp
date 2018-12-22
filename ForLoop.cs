@@ -19,6 +19,7 @@ class ForLoop
     // increment by the 2
     for(int i = 1; i < 10; i*2;
     {
+      // print the value 
        Console.WriteLine("This for loop increments by 2.");
     }
     // print the line up to 5
