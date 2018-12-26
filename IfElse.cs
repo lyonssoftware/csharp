@@ -10,14 +10,15 @@ public class IfElse
 
       // if a is equal to b 
       if (a == b)
-        // orint the var 
+        // print the a variable
         Console.WriteLine(a);
-// or statement 
+      // or statement 
       if ((a > c) || (a == b))
         Console.WriteLine(b);
-       // and statement
+       // and comparison
       if ((a >= c) && (b <= c))
-        // print c 
+        // more info
+        // print c
         Console.WriteLine(c);
     }
   }
