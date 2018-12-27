@@ -2,8 +2,8 @@ public class Switch
 {
    public static void Main()
    {
+      // set the condition with int i
     int i = 1;
-    
     switch (i)
     {
       case 1:
@@ -17,6 +17,5 @@ public class Switch
         Console.WriteLine("Other");
         break;
       }
-      // end of program 
    }
-}
+}// end of program 
