@@ -1,15 +1,17 @@
 public class Swap
 {
    public static void Main()
-   {// program to swap two ints 
-    // the initial variable
+   {
+      // basic program to swap two int values 
+    // the initial variables
     int a = 5;
     // the second variable 
     int b = 3;
     // the swap variable
     int swap = 0;
-    // print vriabls
+    // print the variables
     Console.WriteLine(a);
+      // print the 
     Console.WriteLine(b);
       // swap the variables
       // set the intial variable to swap
@@ -21,6 +23,6 @@ public class Swap
     Console.WriteLine(a);
       // print variable b 
     Console.WriteLine(b);
-      // end of prigram
+      // end of program 
   }
 }
