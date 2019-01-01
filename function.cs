@@ -3,6 +3,7 @@ class Function
   // this is a sample function named Foo();
   void Foo()
   {
+    // print the statement
     Console.System.print("this is the function foo");
   }
   // bar function 
@@ -57,14 +58,13 @@ class Function
     int x = 5, int y = 7;
     // this is the funciton 
     Foo();
-    // this is another function
     Bar();
     // function with parameters
     Addition(x,y);
     Subtract(x,y);
     Divide(x,y);
     Multiply(x,y);
-    // add function
+    
     Add(x, y);
     Subtraction(x,y);
     Add(3,8);
