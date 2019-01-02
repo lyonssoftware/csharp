@@ -17,6 +17,7 @@ class SelectionSort
  // array to fond selection 
         for (int j = 0; j < array_size - 1; j++)
         {
+            // set the minkey 
             min_key = j;
  
             for (int k = j + 1; k < array_size; k++)
