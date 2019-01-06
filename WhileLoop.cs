@@ -5,6 +5,7 @@ public class WhileLoop
    {
       // int to hold the counter
       int i = 5;
+      // while valid iterate
       while(i > 0)
       {
          System.Console.WriteLine("The current count is greater than 0.");
