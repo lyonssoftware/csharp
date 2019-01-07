@@ -17,6 +17,7 @@ public static void QuickSort (int[] data, int l, int r)
                   // $&&$$
                exchange (data, i, j);
                i++;
+                  // decrement
                j--;
             }
             if (i > j)
