@@ -8,6 +8,8 @@ class ArrayLength
         // ger tgr lenfth 
         int lengthA = arrayA.Length;
         Console.WriteLine("Length of ArrayA : {0}", +lengthA); 
+        
+        // set the array length 
         long longLength = arrayA.LongLength;
         Console.WriteLine("Length of the LongLength Array  : {0}",longLength);
         int[,] twoD = new int[5, 10];
