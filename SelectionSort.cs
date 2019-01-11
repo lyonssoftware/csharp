@@ -28,7 +28,7 @@ class SelectionSort
                     min_key = k;
                 }
             }
- 
+ // set the temporary key
             tmp = array[min_key];
             array[min_key] = array[j];
             array[j] = tmp;
