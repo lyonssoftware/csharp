@@ -1,4 +1,5 @@
-   public static void BubbleSort (int[] data)
+// program to bubble sort an array   
+public static void BubbleSort (int[] data)
       {
       // int variables to compare
          int i, j;
