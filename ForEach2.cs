@@ -8,13 +8,13 @@ public class ForEach2
       // insert
       foreach (string name in names)
       {
-         // print 
+         // print the name in the array 
         Console.WriteLine(name);
       }
   } // end of the program 
    // add more code
    
    
-   
+   1sa21a
    
 }
