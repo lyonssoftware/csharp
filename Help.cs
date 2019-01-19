@@ -3,12 +3,7 @@ class Help
 {
   public static void Main()
   {
-    // print statement
-    System.out.print("Please assist with error");
-    // wait fir reponde 
-    if (!error) 
-    {
-    }
-    
+    // Use the println() to print error message
+    System.out.println("Please assist with error");
   }
-} // end HELP.cs
+}
