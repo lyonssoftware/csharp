@@ -12,6 +12,7 @@ class Sum
     while (num != 0)
     {
       r = num % 10;
+      // set the new num
       num = num / 10;
       sum = sum + r;
     }
