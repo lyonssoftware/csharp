@@ -8,22 +8,22 @@ public static void QuickSort (int[] data, int l, int r)
          j = r;
 
          x = data [(l + r) / 2]; /* find pivot item */
+      
+      // while unsorted begin the sort
          while (true) {
             while (data[i] < x)
                i++;
 /             while (x < data[j])
                j--;
             if (i <= j) {
-                  // $&&$$
+                  //swap
                exchange (data, i, j);
                i++;
-                  // decrement
                j--;
             }
             if (i > j)
                break;
          }
-      // check if lessthan
          if (l < j)
             IntArrayQuickSort (data, l, j);
          if (i < r)
