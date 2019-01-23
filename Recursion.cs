@@ -27,6 +27,7 @@ class pro
         {
             // return 0 when finished
             return 0;
+            // if invalid 
         }
     }// end of the program 
 }
