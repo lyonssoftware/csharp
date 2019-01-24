@@ -1,8 +1,9 @@
+// basic program to swap two int variables 
+
 public class Swap
 {
    public static void Main()
    {
-      // basic program to swap two int values 
     // the initial variables
     int a = 5;
     // the second variable 
