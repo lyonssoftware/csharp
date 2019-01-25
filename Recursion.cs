@@ -9,6 +9,7 @@ class program
     Console.WriteLine("Enter the Number : ");
     num=int.Parse(Console.ReadLine());
     result =pg.sum(num);
+        // print thr sum 
     Console.WriteLine("Sum of Digits in {0} is {1}", num, result);
     Console.ReadLine();
 }
