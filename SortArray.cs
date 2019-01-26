@@ -10,7 +10,8 @@ public class SortArray
       // use the foreach method to iterate through the array
       foreach (int i in intArray) 
       {
-         // output: 2 3 6 8 10 
+         // print this output for the array
+         // output: 2 3 6 8 10
          Console.Write(i + " "); 
       }
       // end of the program
