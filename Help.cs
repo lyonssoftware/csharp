@@ -5,5 +5,6 @@ class Help
   {
     // Use the println() to print error message
     System.out.println("Please assist with error");
+    //this is a helper 
   }
 }
