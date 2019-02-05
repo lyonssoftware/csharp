@@ -25,6 +25,7 @@ class SelectionSort
                 // check the aret
                 if (array[k] < array[min_key])
                 {
+                    // chanfe the min key
                     min_key = k;
                 }
             }
