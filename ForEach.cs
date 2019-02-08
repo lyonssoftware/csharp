@@ -1,3 +1,4 @@
+// program to iterate through names
 class ForEach
 {
   static void Main(string[] args)
@@ -8,14 +9,15 @@ class ForEach
     list.Add("John Doe");
     // add a new name to array list
     list.Add("Jane Doe");
-    //addnae 
+    // add the name "Sometone Else"
     list.Add("Someone Else");
             
     // for loop
     foreach(string name in list)
     {
       // print the name
-      Console.WriteLine(name);
+      Console.WriteLine(name)
+        // end 
     }
     Console.ReadLine();
   }
