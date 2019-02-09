@@ -8,7 +8,8 @@ class Date
 DateTime dt = new DateTime(2008, 3, 9, 16, 5, 7, 123);
 
     // new format
-String.Format("{0:y yy yyy yyyy}", dt);  // "8 08 008 2008"   year
+String.Format("{0:y yy yyy yyyy}", dt);  // "8 08 008 2008"   yea
+    // end 
 String.Format("{0:M MM MMM MMMM}", dt);  // "3 03 Mar March"  month
     thus is dstr 
 String.Format("{0:d dd ddd dddd}", dt);  // "9 09 Sun Sunday" day
