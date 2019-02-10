@@ -19,6 +19,7 @@ String.Format("{0:s ss}",          dt);  // "7 07"            second
 String.Format("{0:f ff fff ffff}", dt);  // "1 12 123 1230"   sec.fraction
 String.Format("{0:F FF FFF FFFF}", dt);  // "1 12 123 123"    without zeroes
 String.Format("{0:t tt}",          dt);  // "P PM"            A.M. or P.M.
+    // set the tome 
 String.Format("{0:z zz zzz}",      dt);  // "-6 -06 -06:00"   time zone
     }
 } // end of program 
