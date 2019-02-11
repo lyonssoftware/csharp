@@ -17,7 +17,7 @@ p
         {
         // array of days
             string[] days = { "Sunday", "Monday", "TuesDay", "Wednesday", "Thursday", "Friday", "Saturday" };
-            // inseet
+            // iterate through the days and print the message
             foreach (string day in days)
             {
             // print message 
