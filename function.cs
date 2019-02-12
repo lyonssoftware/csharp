@@ -1,3 +1,4 @@
+// how to wriye functions in c#
 class Function
 {
   // this is a sample function named Foo();
