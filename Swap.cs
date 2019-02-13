@@ -17,6 +17,7 @@ public class Swap
       // swap the variables
       // set the intial variable to swap
     swap = a;
+      // set the new a value ti b 
     a = b;
     // end the swap
     b = swap;
