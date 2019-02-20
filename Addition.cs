@@ -1,10 +1,11 @@
+// program to add integers
 Using System;
 public class Addition
 {
-   public static void Main()
-   {
+   public static votd Main()
+   { 
+      
       // add things
-
       // integers variables
     int a = 5;
     int b = 3;
@@ -13,13 +14,14 @@ public class Addition
     int d = 2;
       // more variables
     int i = 67;
+      //variables
     int e = 9;
     // the last variable 
     int f = 1;
     // print the statements
     // add two variables
     Console.WriteLine(a+b);
-      // addthesevars
+      // add
     Console.WriteLine(c+d);
       // addition
     Console.Writeline(a+d);
