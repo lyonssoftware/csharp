@@ -8,7 +8,7 @@ public class ForEach2
       // iterate through the names 
       foreach (string name in names)
       {
-         // print the name in the array 
+         // print the name thats in the array list 
         Console.WriteLine(name);
       }
   } // end of the program 
