@@ -25,6 +25,7 @@ class SelectionSort
                 // if correct 
                 if (array[k] < array[min_key])
                 {
+                    // set the min
                     min_key = k;
                 }
             }
