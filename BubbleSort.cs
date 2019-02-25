@@ -8,6 +8,7 @@ public static void BubbleSort (int[] data)
          
       // for loop to bubble value
          for (j=N-1; j>0; j--) {
+               // iterate through the loop
             for (i=0; i<j; i++) {
                if (data [i] > data [i + 1])
                      // if thr adjacebt is greater than current, swap 
