@@ -15,7 +15,7 @@ class SelectionSort
             Console.WriteLine(array[i]);
         }
         int tmp, min_key;
- 
+ //!for loop 
         for (int j = 0; j < array_size - 1; j++)
         {
             min_key = j;
