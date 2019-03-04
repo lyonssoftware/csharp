@@ -24,6 +24,7 @@ Class Multiplication
         
         // integer
         int p = 5;
+        // s integer
         int s = 11;
         // int
         int t = 68;
