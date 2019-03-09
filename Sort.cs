@@ -1,7 +1,7 @@
 Using System;
 public class Sort
 {
-   public static votd Main()
+   public static void Main()
    { 
       // add things
       // integers variables
@@ -10,9 +10,15 @@ public class Sort
       
       // sort code here 
       
-      // more code here
+      void Sort();
+      
       
       
       // end of the program
   }
+   
+   public void Sort()
+   {
+   
+   }
 }
