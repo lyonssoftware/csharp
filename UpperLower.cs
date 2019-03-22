@@ -1,3 +1,4 @@
+
 Using System;
 class UpperLower
 {
@@ -5,21 +6,22 @@ class UpperLower
   {
     // create an array
     Array stringArray = Array.CreateInstance(typeof(String), 6);
+    // set the value of the first array
     stringArray.SetValue("Mango", 0);
-    //set the value
+    // set array
     stringArray.SetValue("Orange", 1);
-    stringArray.SetValue("Apple", 2);
     // set the value
+    stringArray.SetValue("Apple", 2);
             stringArray.SetValue("Grape", 3);
             stringArray.SetValue("Cherry", 4);
-    // set watermelon
+    // set valie
             stringArray.SetValue("WaterMelon", 4);
     
     // more code 
             Console.WriteLine("The Lower Bound of the Array : {0}",stringArray.GetLowerBound(0).ToString());
     // upper bound 
             Console.WriteLine("The Upper Bound of the Array : {0}",stringArray.GetUpperBound(0).ToString());
-    // tead the array 
+    // read the last line of the arraylist
             Console.ReadLine();
         }
-    } // end of the program 
+    } // end of program 
