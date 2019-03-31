@@ -22,7 +22,7 @@ class SelectionSort
  
             for (int k = j + 1; k < array_size; k++)
             {
-                // check the aret
+                // check the index against 
                 if (array[k] < array[min_key])
                 {
                     // chanfe the min key
