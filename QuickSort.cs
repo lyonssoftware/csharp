@@ -32,6 +32,7 @@ namespace Quicksort
             }
             // print the sorted array 
             Console.WriteLine();
+         // tras the input 
  
             Console.ReadLine();
         }
