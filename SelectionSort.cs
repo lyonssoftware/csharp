@@ -5,7 +5,7 @@ class SelectionSort
     {
         // set the array size
         int array_size = 10;
-        // array
+        // insorted array of 10
         int[] array = new int[10] { 100, 50, 20, 40, 10, 60, 80, 70, 90, 30 };
         // print the below array 
         Console.WriteLine("The Array Before Selection Sort is: ");
