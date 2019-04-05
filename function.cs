@@ -1,7 +1,9 @@
-// how to wriye functions in c#
+
+// how to make functions in c#
 class Function
 {
   // this is a sample function named Foo();
+  // the function foo prints the statement "this is the function foo"
   void Foo()
   {
     // print the statement
