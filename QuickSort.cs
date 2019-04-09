@@ -34,6 +34,7 @@ namespace Quicksort
             Console.WriteLine();
          // tras the input 
  
+         // read the array 
             Console.ReadLine();
         }
  
