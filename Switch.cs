@@ -9,6 +9,7 @@ public class Switch
     {
       case 1:
         Console.WriteLine("One");
+          // break
         break;
       case 2:
         Console.WriteLine("Two");
