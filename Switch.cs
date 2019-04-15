@@ -18,6 +18,7 @@ public class Switch
         break;
           // thr final option 
       default:
+          // pront 
         Console.WriteLine("Other");
         break;
       }
