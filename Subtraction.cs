@@ -18,6 +18,7 @@ public class Subtraction
     Console.WriteLine(a-b);
     // 3-5 = -2
     Console.writeline(b-a);
+// new ints
       //3-5 = 2
     Console.WriteLine(a-c);
       // d minus c 
