@@ -60,12 +60,13 @@ class Function
   {
     // variables 
     int x = 5, int y = 7;
-    // this is the funciton 
+    // this is the function 
     Foo();
     Bar();
     // function with parameters
     Addition(x,y);
     Subtract(x,y);
+// call divide function
     Divide(x,y);
     Multiply(x,y);
     
