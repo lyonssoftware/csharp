@@ -9,6 +9,7 @@ Class Division
         // variables
         int y = 8;
         int c = 10;
+// set the int to 3
         int d = 3;
         int e = 18;
         int w = 7;
