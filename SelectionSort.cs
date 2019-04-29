@@ -19,7 +19,7 @@ class SelectionSort
         {
             // set the minkey 
             min_key = j;
- 
+ // for loop to iterate
             for (int k = j + 1; k < array_size; k++)
             {
                 // check the index against 
