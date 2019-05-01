@@ -4,10 +4,9 @@ public class Addition
 {
    public static votd Main()
    { 
-      
-      // add things
       // integers variables
     int a = 5;
+      // int b
     int b = 3;
       // more variables
     int c = 7;
