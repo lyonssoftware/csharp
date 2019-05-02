@@ -13,11 +13,12 @@ public class Array
       array[0] = 1;
       // add to the array
       array[1] = 2;
-      /: add to the array
+      // add to the array
       array[2] = 3;
       array[3] = 4;
-      array[4] = 5;
-      // array
+      //array
+      array[4] = 5;]
+      // add to array 
       array[5] = 6;
       array[6] = 7; 
       array[7] = 8; 
