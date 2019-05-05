@@ -6,14 +6,16 @@ class ArrayLength
         // intitialize array
         int[] arrayA = new int[5];
         // get the length of the array
+// set the length of the array 
         int lengthA = arrayA.Length;
         Console.WriteLine("Length of ArrayA : {0}", +lengthA); 
         
         // set the array length 
-        long longLength = arrayA.LongLength;
+       
+ long longLength = arrayA.LongLength;
         Console.WriteLine("Length of the LongLength Array  : {0}",longLength);
         int[,] twoD = new int[5, 10];
-// write the line
+// wri
         Console.WriteLine("The Size of 2D Array is : {0}",twoD.Length);
         // read the last line
         Console.ReadLine();
