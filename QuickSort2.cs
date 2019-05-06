@@ -2,6 +2,7 @@ public static void QuickSort (int[] data, int l, int r)
       {
             // int variables 
          int i, j;
+// integer
          int x;
  
          i = l;
