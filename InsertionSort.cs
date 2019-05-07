@@ -20,11 +20,12 @@ class InsertionSort
                 //loop
                 num[j + 1] = num[j];
                 // iterate
+// se remite the place 
                 j--;
             }
             // set the new key
             num[j + 1] = key;
-        }
+      }
 
         //display
         foreach (var item in num)
