@@ -1,7 +1,8 @@
 using System;
 class ArraySort
 {
-    static void Main()
+    // main function
+    public static void Main()
     {
         // array of strings
         string[] colors = new string[]
