@@ -9,7 +9,6 @@ Class Division
         // variables
         int y = 8;
         int c = 10;
-// set the int to 3
         int d = 3;
         int e = 18;
         int w = 7;
@@ -24,6 +23,7 @@ Class Division
        
        // divide 3 by 8 
         Console.WriteLine(x/y);
+        // divide 8 / 3 
         Console.WriteLine(y/x);
         Console.WriteLine(x/d);
         Console.WriteLine(d/x);
