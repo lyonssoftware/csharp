@@ -21,6 +21,7 @@ Class Multiplication
         int i = 8;
         // int 
         int a = 4;
+// initialize b to x variable 
         int b = x;
         
         // integer
@@ -49,7 +50,6 @@ Class Multiplication
         Console.WriteLine(a*b*s);
         // mutiple vars 
         Console.WriteLine(i*b*p);
-        /: line
         // end of the program 
         }
 }
