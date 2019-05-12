@@ -6,6 +6,7 @@ public class Sort
       // add things
       // integers variables
       int a = 5;
+// initialize variable b
       int b = 3;
       
       // sort code here 
