@@ -7,6 +7,7 @@ namespace Quicksort
 {
     class Program
     {
+        // main function
         static void Main(string[] args)
         {
             // Create an unsorted array of string elements
@@ -15,26 +16,25 @@ namespace Quicksort
             // Print the unsorted array
             for (int i = 0; i < unsorted.Length; i++)
             {
-             // print 
+             // print the sorted cslue 
                 Console.Write(unsorted[i] + " ");
             }
-            // print the line
+         // print 
+ // outt the array 
             Console.WriteLine();
  
             // Sort the array
             Quicksort(unsorted, 0, unsorted.Length - 1);
  
-            // Print thggge sorted array
+            // Print the sorted array
             for (int i = 0; i < unsorted.Length; i++)
             {
-             // print the inserted list
+             // print the unsorted
                 Console.Write(unsorted[i] + " ");
             }
-            // print the sorted array 
+ // print the insorted list 
             Console.WriteLine();
-         // tras the input 
- 
-         // read the array 
+ // reas the line 
             Console.ReadLine();
         }
  
@@ -49,12 +49,12 @@ namespace Quicksort
                 {
                     i++;
                 }
- 
+                // check the the element in the array then pivot
                 while (elements[j].CompareTo(pivot) > 0)
                 {
                     j--;
                 }
- 
+ // compare if the current 
                 if (i <= j)
                 {
                     // Swap
