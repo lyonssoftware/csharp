@@ -8,7 +8,7 @@ class TestApp
 	  // first comment of the code
 	   Console.WriteLine("this is the test program");
 	   // second comment 
-	   // follow up
+	   // print the line this is the test 
 	   Console.WriteLine("this is the test program");
 	}
   } // end of the program
