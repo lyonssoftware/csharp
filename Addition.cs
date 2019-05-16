@@ -20,7 +20,7 @@ public class Addition
     // print the statements
     // add two variables
     Console.WriteLine(a+b);
-      // add
+      // add 7 + 2
     Console.WriteLine(c+d);
       // addition
     Console.Writeline(a+d);
