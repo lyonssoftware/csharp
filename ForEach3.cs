@@ -3,6 +3,7 @@ using System.Windows.Forms;
 
 namespace WindowsApplication1
 {
+    // create a form
     public partial class Form1 : Form
     {
         // create form 
@@ -17,7 +18,7 @@ p
         {
         // array of days
             string[] days = { "Sunday", "Monday", "TuesDay", "Wednesday", "Thursday", "Friday", "Saturday" };
-            // iterate through the days and print the message
+            // iterate and probt 
             foreach (string day in days)
             {
             // print message 
