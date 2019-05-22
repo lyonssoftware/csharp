@@ -39,6 +39,7 @@ Class Division
         Console.writeline (d/o);
         // adding and dividing variables
         Console.writeline (x+y/o);
+        // print the result of mulitplying x and b then divide o
         Console.writeline (x*b/o);
         
         // Tho is random 
