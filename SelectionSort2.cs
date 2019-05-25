@@ -34,6 +34,7 @@ class SelectionSort
             tmp = array[min_key];
 // set the libk
             array[min_key] = array[j];
+// set the temp
             array[j] = tmp;
         }
  
