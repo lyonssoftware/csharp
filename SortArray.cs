@@ -7,6 +7,8 @@ public class SortArray
       int[] intArray = new int[5] { 8, 10, 2, 6, 3 };
       // sort the array
       Array.Sort(intArray);
+
+// prep
       // use the foreach method to iterate through the array
       foreach (int i in intArray) 
       {
