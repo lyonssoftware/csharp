@@ -32,7 +32,6 @@ class Function
   // divide function
   void Divide(int x, int y)
   {
-// print the result 
     Console.System.print(x/y)
   }
   
@@ -56,6 +55,7 @@ class Function
   }
 
   // this is the main function 
+// main is always public
   
   public void main()
   {
@@ -66,8 +66,8 @@ class Function
     Bar();
     // function with parameters
     Addition(x,y);
+    // call the Subtract function
     Subtract(x,y);
-// call divide function
     Divide(x,y);
     Multiply(x,y);
     
