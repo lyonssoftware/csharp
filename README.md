@@ -1,3 +1,1 @@
-# csharp
-C# Projects
-ongoinf collectij od c sharp projrvhd 
+Collection of C# projects 
