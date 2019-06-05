@@ -14,7 +14,7 @@ class ForLoop
     {
       Console.WriteLine("The is a decrement for loop.");
     }
-    
+    /: print
     // increment by the loop for(int i = 1; i < 10; i*2;
     {
       // print 
