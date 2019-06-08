@@ -15,7 +15,7 @@ class Sum
       r = num % 10;
       // set the new num
       num = num / 10;
-/: calculate the sum
+      // calculate the sum with the remainder
       sum = sum + r;
     }
     // print the sum 
