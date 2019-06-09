@@ -12,12 +12,12 @@ public class Swap
     int swap = 0;
     // print the variables
     Console.WriteLine(a);
-      // print the 
+      // print the original value for b
     Console.WriteLine(b);
       // swap the variables
       // set the intial variable to swap
     swap = a;
-      // set the new a value ti b 
+      // set thrnew a to tjr b value
     a = b;
     // end the swap
     b = swap;
