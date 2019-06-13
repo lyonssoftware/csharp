@@ -1,6 +1,7 @@
-// addition perogram
-public class Addition
+// Array List
+public class ArrayList
 {
+   // main function
    public static void Main()
    {
       // demo how to create ArrayList , create instance of ArrayList
@@ -16,5 +17,3 @@ public class Addition
       // end of the program
   }
 }
-
-
