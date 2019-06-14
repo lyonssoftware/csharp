@@ -13,6 +13,8 @@ class InsertionSort
             // create new key from selected item in array
             int key = num[i];
             //decrement
+
+Make it go down 
             int j = i - 1;
             // while loop
             while (j >= 0 && num[j] > key)
