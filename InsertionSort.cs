@@ -1,10 +1,10 @@
-// how to implement insertion sort
+// how to inplement c #
 Using System;
 class InsertionSort
 {
     private static void Main(string[] args)
     {
-        // array
+        // this is the unsorted array [69,56,77,44,8,0,111,566
         int[] num = { 69, 56, 77, 44, 8, 0, 111, 566 };
         
         // setup the forloop based on the length of the array
@@ -13,8 +13,6 @@ class InsertionSort
             // create new key from selected item in array
             int key = num[i];
             //decrement
-
-Make it go down 
             int j = i - 1;
             // while loop
             while (j >= 0 && num[j] > key)
@@ -22,19 +20,18 @@ Make it go down
                 //loop
                 num[j + 1] = num[j];
                 // iterate
-// se remite the place 
                 j--;
             }
             // set the new key
             num[j + 1] = key;
-      }
+        }
 
         //display
         foreach (var item in num)
         {
             // print the current item
             Console.WriteLine(item);
-            // printe the end 
+            // finish writing
         }
         // display the key
         Console.ReadKey();
