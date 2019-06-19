@@ -1,6 +1,7 @@
 // program to iterate through names
 class ForEach
 {
+  // main function
   static void Main(string[] args)
   {            
     // create instance of array list
@@ -11,6 +12,7 @@ class ForEach
     list.Add("Jane Doe");
     // add the name "Sometone Else"
     list.Add("Someone Else");
+    // begin fge forkoop
             
     // for loop
     foreach(string name in list)
