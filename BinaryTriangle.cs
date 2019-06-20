@@ -5,6 +5,7 @@ using System.Text;
  
 class BinaryTriangle
     {
+ // main function
         public static void Main(String[] args)
         {
          // variables
@@ -24,6 +25,7 @@ class BinaryTriangle
                      // set the int
                         lastInt = 0;
                     }
+                 // find the last int
                     else if (lastInt == 0)
                     {
                         Console.Write("1");
