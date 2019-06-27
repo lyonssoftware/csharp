@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+// create class
 Class Multiplication
 {
     // multiplication 
@@ -38,6 +39,7 @@ Class Multiplication
         
         //multiple the variables 
         Console.WriteLine(x*y);
+// print result
         Console.WriteLine(x*z);
         Console.WriteLine(x*w);
         // variables
