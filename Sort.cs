@@ -1,26 +1,19 @@
+// quick sort in C#
 Using System;
 public class Sort
 {
    public static void Main()
-   { 
-      // add things
-      // integers variables
+   {
+      // initialize integers a and b
       int a = 5;
-// initialize variable b
       int b = 3;
       
-      // sort code here 
-      
-      // method
-      void Sort();
-      
-      
-      
-      // end of the program
-  }
-   
+      // call the method
+      Sort();
+   }
+   // sort
    public void Sort()
    {
-   
+      // sort code
    }
 }
