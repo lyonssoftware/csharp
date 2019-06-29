@@ -23,5 +23,6 @@ class UpperLower
             Console.WriteLine("The Upper Bound of the Array : {0}",stringArray.GetUpperBound(0).ToString());
     // read the last line of the arraylist
             Console.ReadLine();
+// print the result 
         }
     } // end of program 
