@@ -4,23 +4,17 @@ public class Addition
 {
    public static votd Main()
    { 
-      // integers variables
+      // initialize the integers a, b, c, d, e, f and i
     int a = 5;
-      // int b
     int b = 3;
-      // more variables
     int c = 7;
     int d = 2;
-      // more variables
     int i = 67;
-      //variables
-    int e = 9;
-    // the last variable 
+    int e = 9; 
     int f = 1;
     // print the statements
-    // add two variables
     Console.WriteLine(a+b);
-      // add 7 + 2
+      // add
     Console.WriteLine(c+d);
       // addition
     Console.Writeline(a+d);
@@ -38,7 +32,6 @@ public class Addition
     //add multiple variables
     Console.wtiteline (a+b+c+e+g+i);
       // vars
-    Console.wtiteline (i+g+e+c+b+a);    
-      // end of the program
+    Console.wtiteline (i+g+e+c+b+a);      
   }
-}
+} // end of the program
