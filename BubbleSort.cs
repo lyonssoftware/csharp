@@ -1,5 +1,8 @@
 // program to bubble sort an array   
-public static void BubbleSort (int[] data)
+import System;
+public BubbleSort
+{
+      public static void BubbleSort (int[] data)
       {
       // int variables to compare
          int i, j;
@@ -16,3 +19,4 @@ public static void BubbleSort (int[] data)
             }
          } // end of program
       }
+}
