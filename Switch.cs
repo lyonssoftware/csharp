@@ -1,3 +1,4 @@
+import
 // switch functions
 public class Switch
 {
@@ -5,6 +6,7 @@ public class Switch
    {
       // set the condition with int i
     int i = 1;
+      // statement is true iterate through the cases
     switch (i)
     {
       case 1:
