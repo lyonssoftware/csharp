@@ -68,6 +68,7 @@ class Function
     Addition(x,y);
     // call the Subtract function
     Subtract(x,y);
+    // call the Divide method
     Divide(x,y);
     Multiply(x,y);
     
