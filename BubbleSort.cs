@@ -1,7 +1,12 @@
-// program to bubble sort an array   
-import System;
-public BubbleSort
+// program to bubble sort an array 
+Using System;
+
+public class BubbleSort
 {
+      public static void main()
+      {
+            BubbleSort()
+      }
       public static void BubbleSort (int[] data)
       {
       // int variables to compare
@@ -11,10 +16,10 @@ public BubbleSort
          
       // for loop to bubble value
          for (j=N-1; j>0; j--) {
-               // iterate through the loop
+               // iterate through the next level
             for (i=0; i<j; i++) {
                if (data [i] > data [i + 1])
-                     // if thr adjacebt is greater than current, swap 
+                     // if current is greater than adjaceby swap
                   exchange (data, i, i + 1);
             }
          } // end of program
