@@ -25,4 +25,4 @@ class UpperLower
             Console.ReadLine();
 // print the result 
         }
-    } // end of program 
+    } 
