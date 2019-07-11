@@ -20,8 +20,7 @@ namespace Quicksort
              // print the sorted cslue 
                 Console.Write(unsorted[i] + " ");
             }
-         // print 
- // outt the array 
+         // print out the array 
             Console.WriteLine();
  
             // Sort the array
@@ -76,6 +75,7 @@ namespace Quicksort
  
             if (i < right)
             {
+//sort
                 Quicksort(elements, i, right);
             }
         }
