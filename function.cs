@@ -12,6 +12,7 @@ class Function
   // bar function 
   void Bar()
   {
+    // print the statement "This is the function bar"
     Console.System.print("this is the function bar");
   }
   // add function 
