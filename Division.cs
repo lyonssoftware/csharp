@@ -4,13 +4,14 @@ Class Division
 {
     public static void Main()
     {
-        // variables 
+        // initialize x to 3 
         int x = 3;
-        // variables
+         // initialize y to 8
         int y = 8;
         int c = 10;
         int d = 3;
         int e = 18;
+        // another int
         int w = 7;
         // more variables
         int i = 56;
@@ -39,7 +40,6 @@ Class Division
         Console.writeline (d/o);
         // adding and dividing variables
         Console.writeline (x+y/o);
-        // print the result of mulitplying x and b then divide o
         Console.writeline (x*b/o);
         
         // Tho is random 
