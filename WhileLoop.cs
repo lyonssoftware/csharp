@@ -1,3 +1,5 @@
+// C# while loops
+System ;
 public class WhileLoop
 {
    // while loops 
@@ -7,22 +9,24 @@ public class WhileLoop
       int i = 5;
       // while valid iterate
       while(i > 0)
-      {
+      { 
+// write the current count
          System.Console.WriteLine("The current count is greater than 0.");
          i--;
       }
       // this is a comment 
       // count int 
       int j = 0;
+// for the loop
       // while loop
       while(j < 5)
-// set the loop
       {
          // print the current count
          System.Console.WriteLine("The current count is lower than 5.");
-         // increment the j value by 1 
+         // increment the current j
          j++;
       }
+// last line 
    }
    // end of the program
 }
