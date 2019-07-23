@@ -1,6 +1,7 @@
 Using System;
 public class Array
 {
+// main
    public static void Main()
    {
      // create an int array 
