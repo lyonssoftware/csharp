@@ -8,6 +8,7 @@ class program
     pro pg = new pro();
     Console.WriteLine("Enter the Number : ");
     num=int.Parse(Console.ReadLine());
+// her the nim
     result =pg.sum(num);
         // print thr sum 
     Console.WriteLine("Sum of Digits in {0} is {1}", num, result);
