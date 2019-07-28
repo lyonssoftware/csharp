@@ -1,3 +1,4 @@
+// C# showing Selection Sort
 using System;
 class SelectionSort
 {
@@ -32,7 +33,7 @@ class SelectionSort
  
             tmp = array[min_key];
             array[min_key] = array[j];
-// set the New temp
+// set new temp
             array[j] = tmp;
         }
  
