@@ -1,4 +1,4 @@
-// For Loop
+// example of for loop in C#
 class ForLoop
 {
   int main()
@@ -12,9 +12,10 @@ class ForLoop
     // decrement by one 
     for(int i = 10; i > 0; i--)
     {
+      // print the numbers 1-10
       Console.WriteLine("The is a decrement for loop.");
     }
-    /: print
+    
     // increment by the loop for(int i = 1; i < 10; i*2;
     {
       // print 
@@ -29,7 +30,7 @@ class ForLoop
     // print the line up to 10 
     for (int k = 0; k < 10; k++)
     {
-      // print 
+      // print yhr line number 
       Console.WriteLine("This is line " + k);
     }
   } // end of the program 
