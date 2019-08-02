@@ -19,7 +19,7 @@ public class Switch
         Console.WriteLine("Two");
           // break
         break;
-          // thr final option 
+          // the last option if this fails  
       default:
           // pront 
         Console.WriteLine("Other");
