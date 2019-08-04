@@ -44,6 +44,7 @@ Class Multiplication
         Console.WriteLine(x*w);
         // variables
         Console.WriteLine(x*i);
+// Print P times s
         Console.writelone(p*s);
         //multiply
         Console.WriteLine(s*z);
