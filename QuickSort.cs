@@ -1,3 +1,4 @@
+// example of Quicksort in C#
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -75,7 +76,6 @@ namespace Quicksort
  
             if (i < right)
             {
-//sort
                 Quicksort(elements, i, right);
             }
         }
