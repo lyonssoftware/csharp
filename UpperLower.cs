@@ -1,4 +1,4 @@
-
+// C# convert upper case letters to lower case
 Using System;
 class UpperLower
 {
@@ -19,10 +19,9 @@ class UpperLower
     
     // more code 
             Console.WriteLine("The Lower Bound of the Array : {0}",stringArray.GetLowerBound(0).ToString());
-    // upper bound of the limit 
+    // upper bound when it hits limit
             Console.WriteLine("The Upper Bound of the Array : {0}",stringArray.GetUpperBound(0).ToString());
     // read the last line of the arraylist
             Console.ReadLine();
-// print the result 
         }
-    } 
+    } // end of program 
