@@ -1,7 +1,6 @@
 Using System;
 public class Array
 {
-// main
    public static void Main()
    {
      // create an int array 
@@ -22,6 +21,7 @@ public class Array
       // add to array 
       array[5] = 6;
       array[6] = 7; 
+      //set the array value
       array[7] = 8; 
       array[8] = 9;
       array[9] = 10;
@@ -57,7 +57,6 @@ public class Array
       Console.WriteLine(array[10]);
       Console.WriteLine(array[11]);
       Console.WriteLine(array[12]);
-// print the array value
       Console.WriteLine(array[13]);
       Console.WriteLine(array[14]);
       Console.WriteLine(array[15]);
