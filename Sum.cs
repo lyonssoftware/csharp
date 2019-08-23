@@ -1,3 +1,4 @@
+// C# summation of while loop integers
 Using System;
 class Sum
 {
@@ -15,7 +16,7 @@ class Sum
       r = num % 10;
       // set the new num
       num = num / 10;
-      // calculate the sum with the remainder
+      // calculate the new sum
       sum = sum + r;
     }
     // print the sum 
