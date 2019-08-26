@@ -1,4 +1,4 @@
-// program to iterate through names
+// C# program using ForEach to intertate through ArrayList
 class ForEach
 {
   // main function
@@ -10,10 +10,8 @@ class ForEach
     list.Add("John Doe");
     // add a new name to array list
     list.Add("Jane Doe");
-    // add the name "Sometone Else"
+    // add the name "Someone Else" to the ArrayList
     list.Add("Someone Else");
-    // begin fge forkoop
-            
     // for loop
     foreach(string name in list)
     {
