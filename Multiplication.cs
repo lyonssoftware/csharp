@@ -1,52 +1,43 @@
+// C# program showing multiplication 
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-// create class
 Class Multiplication
 {
     // multiplication 
     public static void Main()
     {
         // demostration of multiplying various variables 
-        // variables 
-        // multiply 
-// set the int x to 3
+        // how to multiply variables 
         int x = 3;
         int y = 8;
         // negative integer
         int z = -1
-        // set the integer 
         int w = 6;
-        // int 
+// initialize I to 8
         int i = 8;
-        // int 
+        // integer a
         int a = 4;
-// initialize b to x variable 
+        // variable transfer
         int b = x;
-        
-        // integer
+// set the int
         int p = 5;
-        // s integer
         int s = 11;
-        // int
+        // into
         int t = 68;
-        //int 
         int f =  2;
-        // last int 
         int g = s;
         
         //multiple the variables 
         Console.WriteLine(x*y);
-// print result
         Console.WriteLine(x*z);
+        // multiply
         Console.WriteLine(x*w);
-        // variables
         Console.WriteLine(x*i);
-// Print P times s
+        //pront 
         Console.writelone(p*s);
-        //multiply
         Console.WriteLine(s*z);
         Console.WriteLine(t*y);
         // multiply 3 variables 
