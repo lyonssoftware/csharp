@@ -8,6 +8,7 @@ Class Division
         int x = 3;
          // initialize y to 8
         int y = 8;
+        // initalize c to 10
         int c = 10;
         int d = 3;
         int e = 18;
