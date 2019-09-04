@@ -28,6 +28,7 @@ Class Multiplication
 //i itisñizevarisnle
         // into
         int t = 68;
+//initialize the f variable 
         int f =  2;
         int g = s;
         
