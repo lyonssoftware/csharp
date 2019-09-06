@@ -1,4 +1,4 @@
-// Array List
+// C# program showing example of ArrayList
 public class ArrayList
 {
    // main function
@@ -14,6 +14,5 @@ public class ArrayList
       myArrayList.Add("String");
       // create newform
       myArrayList.Add(new Form());  
-      // end of the program
   }
-}
+} // end of the program
