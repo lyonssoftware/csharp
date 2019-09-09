@@ -21,7 +21,8 @@ class Sum
     }
     // print the sum 
       Console.WriteLine("Sum of Digits of the Number : "+sum);
-      Console.ReadLine();
+     
+// read the next line Console.ReadLine();
   }
   // end of the program
 }
