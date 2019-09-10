@@ -1,5 +1,4 @@
 // basic program to swap two int variables 
-
 public class Swap
 {
    public static void Main()
@@ -17,7 +16,7 @@ public class Swap
       // swap the variables
       // set the intial variable to swap
     swap = a;
-      // set thrnew a to tjr b value
+      // set the value of a to the current value of b 
     a = b;
     // end the swap
     b = swap;
@@ -25,6 +24,5 @@ public class Swap
     Console.WriteLine(a);
       // print variable b 
     Console.WriteLine(b);
-      // end of program 
   }
-}
+}      // end of program 
