@@ -4,16 +4,16 @@ public class Sort
 {
    public static void Main()
    {
-      // initialize integers a and b
+      // initialize the variable a
       int a = 5;
+      // initialize the variable b
       int b = 3;
-      
       // call the method
       Sort();
    }
-   // sort
+   // medthod to sort 
    public void Sort()
    {
       // sort code
    }
-}
+} // end of the program
