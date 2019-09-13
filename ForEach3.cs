@@ -1,6 +1,6 @@
 using System;
 using System.Windows.Forms;
-
+// start
 namespace WindowsApplication1
 {
     // create a form
@@ -13,7 +13,6 @@ namespace WindowsApplication1
             // the component
             InitializeComponent();
         }
-p
         private void button1_Click(object sender, EventArgs e)
         {
         // array of days
