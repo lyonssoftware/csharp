@@ -1,6 +1,7 @@
 // example of for loop in C#
 class ForLoop
 {
+  // main function
   int main()
   {
     // incrementing for loop
