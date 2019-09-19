@@ -1,8 +1,8 @@
 // c# using switch function 
 Using System;
-// switch functions
 public class Switch
 {
+   // main function
    public static void Main()
    {
       // set the condition with int i
@@ -10,6 +10,7 @@ public class Switch
       // statement is true iterate through the cases
     switch (i)
     {
+          // first case
       case 1:
         Console.WriteLine("One");
           // break
