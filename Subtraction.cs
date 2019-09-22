@@ -27,9 +27,7 @@ public class Subtraction
     Console.WriteLine(a-b-c-d);
       // subtract items
     Console.WriteLine(d-c-b-a);
-      // this id subtraction 
+      // add a and c and subtract it by the sum of b and d  
     Console.WriteLine(a+c-b+d);
-// end
-    // end of program
   }
-}
+}    // end of program
