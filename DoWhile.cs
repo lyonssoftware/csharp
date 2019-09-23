@@ -1,7 +1,8 @@
+// C# program to demonstrate do while()
 Using System;
 public class DoWhile
 {
-   // while loops 
+   // main function 
    public static void Main()
    {
       // set the count to 3
@@ -11,14 +12,12 @@ public class DoWhile
       {
         // increment the variable x by 1 
         x++;
+// new number
       }
       // while the x variable is less than 10 
-      // get it 
      while(x < 10)
      {
-        // action
-        
-        // more acrions 
+        // do this is x is less than 10 
      }
    }
 }// end of the program 
