@@ -2,7 +2,7 @@
 Using System;
 public class Print
 {
-   // this program prints statements
+   // this C# program main function
    public static void Main()
    {
       // this is the first comment 
@@ -28,5 +28,5 @@ public class Print
       System.Console.WriteLine("This is the eleventh statement.");
       // this is the last comment
        System.Console.WriteLine("This is the twelth statement.");
-   }
-} // end of the program 
+   } // end of the program 
+} 
