@@ -1,3 +1,4 @@
+// C# program showing how to use foreach() method
 Using System;
 public class ForEach2
 {
