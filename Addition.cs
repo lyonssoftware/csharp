@@ -4,9 +4,11 @@ public class Addition
 {
    public static votd Main()
    { 
-      // initialize the integers a, b, c, d, e, f and i
+    // initialize the integer a
     int a = 5;
+    // initialize the int b
     int b = 3;
+     // initialize the int c
     int c = 7;
     int d = 2;
     int i = 67;
