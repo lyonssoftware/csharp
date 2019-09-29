@@ -1,10 +1,13 @@
-public class Hello
+// first program in C#
+Using System;
+public class HelloWord
 {
+   // main function
    public static void Main()
    {
-// Rony hello world 
+      // print the statement "Hello, World!"
       System.Console.WriteLine("Hello, World!");
-      // second comment 
-      System.Console.WriteLine("bob ");
-   }
+      // print My name is Bob
+      System.Console.WriteLine("My name is Bob.");
+   } // end of the program
 }
