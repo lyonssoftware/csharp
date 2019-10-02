@@ -1,12 +1,13 @@
-// how to inplement c #
+// how to inplement insertion sort in  C#
 Using System;
 class InsertionSort
 {
+// main function
     private static void Main(string[] args)
     {
         // this is the unsorted array [69,56,77,44,8,0,111,566
         int[] num = { 69, 56, 77, 44, 8, 0, 111, 566 };
-        
+ 
         // setup the forloop based on the length of the array
         for (int i = 1; i < num.Length; i++)
         {
@@ -24,6 +25,7 @@ class InsertionSort
             }
             // set the new key
             num[j + 1] = key;
+// end 
         }
 
         //display
@@ -33,8 +35,7 @@ class InsertionSort
             Console.WriteLine(item);
             // finish writing
         }
-        // display the key
+        // print the key of the array
         Console.ReadKey();
     } // end of the program
 }
-// end of the program 
