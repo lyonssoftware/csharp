@@ -14,6 +14,7 @@ class SelectionSort
         {
             // print the array
             Console.WriteLine(array[i]);
+// print 
         }
         int tmp, min_key;
  // array to fond selection 
