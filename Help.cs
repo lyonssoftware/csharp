@@ -1,6 +1,7 @@
 // program to print help statement
 class Help
 {
+  // main function 
   public static void Main()
   {
     // Use the println() to print error message
