@@ -6,7 +6,7 @@ class Recursion
 {
         // intialize variables 
     int num, result;
-        // createnew object
+        // create new pro object 
     pro pg = new pro();
 // entre the number
     Console.WriteLine("Enter the Number : ");
@@ -28,6 +28,7 @@ class pro
             // iterate through shd gey rhe remainder
             return (num % 10 + sum(num / 10));
         }
+// if number does equal 0
         else
         {
             //whenndone tetuen 0
