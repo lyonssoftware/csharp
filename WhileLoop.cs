@@ -10,8 +10,9 @@ public class WhileLoop
       // while valid iterate
       while(i > 0)
       { 
-// write the current count
+         // write the current count
          System.Console.WriteLine("The current count is greater than 0.");
+         // decrement the counter
          i--;
       }
       // this is a comment 
