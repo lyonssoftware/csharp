@@ -62,7 +62,7 @@ namespace Quicksort
                     IComparable tmp = elements[i];
                     elements[i] = elements[j];
                     elements[j] = tmp;
- 
+ // increment 
                     i++;
                     j--;
                 }
