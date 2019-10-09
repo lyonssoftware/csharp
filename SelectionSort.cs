@@ -32,6 +32,7 @@ class SelectionSort
                     min_key = k;
                 }
             }
+// set the reno valué 
  
             tmp = array[min_key];
             array[min_key] = array[j];
