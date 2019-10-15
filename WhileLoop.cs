@@ -15,8 +15,7 @@ public class WhileLoop
          // decrement the counter
          i--;
       }
-      // this is a comment 
-      // count int 
+      // set the j to 0
       int j = 0;
 // for the loop
       // while loop
@@ -27,7 +26,6 @@ public class WhileLoop
          // increment the current j
          j++;
       }
-// last line 
    }
    // end of the program
 }
