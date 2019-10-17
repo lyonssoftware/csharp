@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+// declare the multiplication 
 Class Multiplication
 {
     // multiplication 
@@ -24,11 +25,10 @@ Class Multiplication
         int b = x;
 // set the int
         int p = 5;
+// initialize s variable
         int s = 11;
-//i itisñizevarisnle
         // into
         int t = 68;
-//initialize the f variable 
         int f =  2;
         int g = s;
         
