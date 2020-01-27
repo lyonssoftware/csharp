@@ -10,11 +10,9 @@ namespace WindowsApplication1
         // create form 
         public Form1()
         {
-            // intialize
-            // the component
+            // initialize the component
             InitializeComponent();
         }
-p
         private void button1_Click(object sender, EventArgs e)
         {
         // array of days
