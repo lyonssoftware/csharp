@@ -1,8 +1,8 @@
 // program to bubble sort an array 
 Using System;
-
+// bubble sort
 public class BubbleSort
-{
+{     // main function
       public static void main()
       {
             BubbleSort()
