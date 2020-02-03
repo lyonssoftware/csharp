@@ -7,7 +7,8 @@ class ForLoop
     // incrementing for loop
     for(int i = 0; i < 10; i++)
     {
-       Console.WriteLine("The is an increment for loop.");
+      // print the statement "this is a increment for a loop
+       Console.WriteLine("This is an increment for loop.");
     }
     
     // decrement by one 
