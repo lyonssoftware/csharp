@@ -34,6 +34,7 @@ Class Multiplication
         
         //multiple the variables 
         Console.WriteLine(x*y);
+        // multiply 3 by -1 = -3
         Console.WriteLine(x*z);
         // multiply
         Console.WriteLine(x*w);
