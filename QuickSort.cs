@@ -4,9 +4,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
  
-// quicksort
+// quicksort namespace
 namespace Quicksort
 {
+   // class name
     class Program
     {
         // main function
@@ -23,7 +24,7 @@ namespace Quicksort
             }
          // print out the array 
             Console.WriteLine();
- 
+ // commentary 
             // Sort the array
             Quicksort(unsorted, 0, unsorted.Length - 1);
  
@@ -38,12 +39,16 @@ namespace Quicksort
  // reas the line 
             Console.ReadLine();
         }
- 
+ // main function 
         public static void Quicksort(IComparable[] elements, int left, int right)
         {
+// initialed rhe set 
             int i = left, j = right;
+// set the pivot 
             IComparable pivot = elements[(left + right) / 2];
  
+         
+            // while the elements are in
             while (i <= j)
             {
                 while (elements[i].CompareTo(pivot) < 0)
@@ -58,11 +63,11 @@ namespace Quicksort
  // compare if the current 
                 if (i <= j)
                 {
-                    // Swap
+                    // Swa
                     IComparable tmp = elements[i];
                     elements[i] = elements[j];
                     elements[j] = tmp;
- // increment 
+ 
                     i++;
                     j--;
                 }
