@@ -2,6 +2,7 @@
 using System;
 class Recursion
 {
+    // main function
     public static void Main()
 {
         // intialize variables 
@@ -28,7 +29,7 @@ class pro
             // iterate through shd gey rhe remainder
             return (num % 10 + sum(num / 10));
         }
-// if number does equal 0
+// is number does equal zero 
         else
         {
             //whenndone tetuen 0
