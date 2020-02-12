@@ -16,6 +16,7 @@ public class Switch
         Console.WriteLine("One");
           // break
         break;
+// second case
       case 2:
         Console.WriteLine("Two");
           // print the second line
@@ -24,7 +25,7 @@ public class Switch
         break;
           // the last choice of the others don’t work 
       default:
-          // pront 
+          // print line "other"
         Console.WriteLine("Other");
         break;
       }
