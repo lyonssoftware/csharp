@@ -6,7 +6,7 @@ class LowerUpper
   {
     // create an array
     Array stringArray = Array.CreateInstance(typeof(String), 6);
-    // insert
+    // insert "Mango" into the first array
     stringArray.SetValue("Mango", 0);
     /// insert
     stringArray.SetValue("Orange", 1);
@@ -19,7 +19,8 @@ class LowerUpper
     // ser value 
             stringArray.SetValue("WaterMelon", 4);
     //print the lower bound
-// the lower bound
+// the lower 
+// print 
             Console.WriteLine("The Lower Bound of the Array : {0}",stringArray.GetLowerBound(0).ToString());
     // upper bounds
             Console.WriteLine("The Upper Bound of the Array : {0}",stringArray.GetUpperBound(0).ToString());
