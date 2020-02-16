@@ -10,6 +10,7 @@ class LowerUpper
     stringArray.SetValue("Mango", 0);
     /// insert
     stringArray.SetValue("Orange", 1);
+Vvb
     // insert into the array 
     stringArray.SetValue("Apple", 2);
     // set the value
