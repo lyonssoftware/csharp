@@ -13,12 +13,13 @@ class InsertionSort
         {
             // create new key from selected item in array
             int key = num[i];
+// initialization 
             //initialize the j variable and set to the array list minus 1
             int j = i - 1;
             // while loop
             while (j >= 0 && num[j] > key)
             {
-                //loop
+                // while in the loop update the key 
                 num[j + 1] = num[j];
                 // iterate
                 j--;
@@ -39,3 +40,4 @@ class InsertionSort
         Console.ReadKey();
     } // end of the program
 }
+
