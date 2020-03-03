@@ -1,4 +1,4 @@
-// C# Subtraction 
+// C# example of Subtraction 
 using System;
 public class Subtraction
 {
