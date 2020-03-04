@@ -1,4 +1,4 @@
-// basic program to swap two int variables 
+// c# of swapping two int variables 
 public class Swap
 {
    public static void Main()
