@@ -5,7 +5,7 @@ class Recursion
     // main function
     public static void Main()
 {
-        // intialize variables 
+        // intialize variables number and result
     int num, result;
         // create new pro object 
     pro pg = new pro();
