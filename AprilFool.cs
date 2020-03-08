@@ -1,7 +1,12 @@
+// c# example joke
 class AprilFool
 // class to tell joke
-/ / void static main()
-{
-  // code goes here
-
+  public static void main()
+  {
+    // knock knock 
+    // who's there
+    // april 
+    // april who?
+    int i = 0;
+  }
 }
