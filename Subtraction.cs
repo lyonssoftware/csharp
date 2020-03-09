@@ -20,6 +20,7 @@ public class Subtraction
     // 3-5 = -2
     Console.writeline(b-a);
       //3-5 = ~2
+// 5-4=1
     Console.WriteLine(a-c);
       // d minus c = 7 - 4
     Console.WriteLine(d-c);
