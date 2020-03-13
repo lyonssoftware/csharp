@@ -6,7 +6,7 @@ class QuickSort
       {
          // int variables 
          int i, j;
-          // int
+          // int x to hold var
          int x;
 // initialize int i
  
