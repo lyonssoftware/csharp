@@ -6,14 +6,14 @@ class QuickSort
       {
          // int variables 
          int i, j;
-          // int x to hold var
+          // int
          int x;
-// initialize int i
- 
+ // initialize int i 
          i = l;
-// initialize j to r
+// set j value to r
          j = r;
-
+            // int k = 0;
+//  ser
          x = data [(l + r) / 2]; /* find pivot item */
       
       // while unsorted begin the sort
@@ -27,7 +27,9 @@ class QuickSort
             if (i <= j) {
                   //swap
                exchange (data, i, j);
+                  // increment i 
                i++;
+                  // decrement j
                j--;
             }
             if (i > j)
