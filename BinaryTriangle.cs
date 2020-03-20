@@ -9,14 +9,16 @@ class BinaryTriangle
  // main function
         public static void Main(String[] args)
         {
-         // variables
+         // int variables
             int p, lastInt = 0, input;
          // get the number of rows
             Console.WriteLine("Enter the Number of Rows : ");
           // get the input fo the integer
             input = int.Parse(Console.ReadLine());
+            // for loop to iterate through loop
             for (int i = 1; i <= input; i++)
             {
+                // for loop to iterate
                 for (p = 1; p <= i; p++)
                 {
                     if (lastInt == 1)
