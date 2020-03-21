@@ -63,7 +63,7 @@ namespace Quicksort
  // compare if the current 
                 if (i <= j)
                 {
-                    // Swa
+                    // set the new
                     IComparable tmp = elements[i];
                     elements[i] = elements[j];
                     elements[j] = tmp;
