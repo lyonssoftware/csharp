@@ -9,6 +9,7 @@ class Sum
     int num, sum = 0, r;
     Console.WriteLine("Enter a Number : ");
     // read the int
+// get info 
     num = int.Parse(Console.ReadLine());
     // while loop
     while (num != 0)
