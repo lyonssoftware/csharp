@@ -17,6 +17,7 @@ Class Division
         // more variables
         int i = 56;
         int o = 32;
+// set the variable 
         int k = 89;
         // integer
         int f = e;
@@ -42,7 +43,5 @@ Class Division
         // adding and dividing variables
         Console.writeline (x+y/o);
         Console.writeline (x*b/o);
-        
-        // Tho is random 
     } // end of the program 
 }
