@@ -11,7 +11,7 @@ class SelectionSort
         int[] array = new int[10] { 100, 50, 20, 40, 10, 60, 80, 70, 90, 30 };
         // write the array unsorted 
         Console.WriteLine("The Array Before Selection Sort is: ");
-// print the line
+        // for loop to print out the array list
         for (int i = 0; i < array_size; i++)
         {
             // print the array
@@ -33,7 +33,7 @@ class SelectionSort
                     min_key = k;
                 }
             }
- 
+ // set the temp variable to small value
             tmp = array[min_key];
 // set the libk
             array[min_key] = array[j];
