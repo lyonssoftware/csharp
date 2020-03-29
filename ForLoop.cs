@@ -11,7 +11,7 @@ class ForLoop
        Console.WriteLine("This is an increment for loop.");
     }
     
-    // decrement by one 
+    // For loop to print number
     for(int i = 10; i > 0; i--)
     {
       // print the numbers 1-10
