@@ -10,7 +10,7 @@ class UpperLower
     stringArray.SetValue("Mango", 0);
     // set array
     stringArray.SetValue("Orange", 1);
-    // set the value
+    // set the value of the second in 
     stringArray.SetValue("Apple", 2);
             stringArray.SetValue("Grape", 3);
     // set the value of the String Array
