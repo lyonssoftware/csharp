@@ -11,7 +11,7 @@ public class Sort
       // call the method
       Sort();
    }
-   // medthod to sort 
+   // Define the sort method 
    public void Sort()
    {
       // sort code
