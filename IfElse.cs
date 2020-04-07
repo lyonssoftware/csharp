@@ -1,14 +1,12 @@
-// example program of if else statements in c#
-Using System;
 /*
-  Program to test if else statements
+  Program to demo the if else statement in C#
 */
+Using System;
 public class IfElse
   {
     // main function
     static void Main(string[] args)
     {
-      // program to demo the if else statement
       // intialize variables a, b, and c
       int a = 5, b = 5, c = 10;
 
@@ -18,6 +16,7 @@ public class IfElse
         Console.WriteLine(a);
       // if a is greater than c or a is equal to b 
       if ((a > c) || (a == b))
+        // print the b integer
         Console.WriteLine(b);
       
       if ((a >= c) && (b <= c))
