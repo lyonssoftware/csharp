@@ -10,8 +10,10 @@ public class Addition
     int b = 3;
      // initialize the int c
     int c = 7;
+     // initialize the int d
     int d = 2;
     int i = 67;
+      // intialize variable 
     int e = 9; 
     int f = 1;
     // print the statements
@@ -20,7 +22,7 @@ public class Addition
     Console.WriteLine(c+d);
       // addition
     Console.Writeline(a+d);
-      // print
+      // print the results of 9 + 1 = 10
     Console.Writeline(e+f);
       // print the additon of the variables
     Console.Writeline(a+c);
