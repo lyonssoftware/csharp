@@ -5,7 +5,8 @@ public class BubbleSort
 {     // main function
       public static void main()
       {
-            BubbleSort()
+            // call bubble sort method 
+            BubbleSort();
       }
       public static void BubbleSort (int[] data)
       {
