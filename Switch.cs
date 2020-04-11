@@ -18,6 +18,7 @@ public class Switch
         break;
 // second case
       case 2:
+          // print "Two"
         Console.WriteLine("Two");
           // print the second line
         Console.WriteLine("Two");
