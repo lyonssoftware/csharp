@@ -25,5 +25,4 @@ public class IfElse
       // end of program
     }
   }
-// end of the program
 }
