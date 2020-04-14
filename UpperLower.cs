@@ -6,9 +6,9 @@ class UpperLower
   {
     // create an array
     Array stringArray = Array.CreateInstance(typeof(String), 6);
-    // set the value of the first array
+    // set the value of the first array element to "Mango"
     stringArray.SetValue("Mango", 0);
-    // set array
+    // set a
     stringArray.SetValue("Orange", 1);
     // set the value of the second in 
     stringArray.SetValue("Apple", 2);
