@@ -11,6 +11,7 @@ public class Swap
     // the swap variable
     int swap = 0;
     // print the variables
+// print a
     Console.WriteLine(a);
       // print the original value for b
     Console.WriteLine(b);
