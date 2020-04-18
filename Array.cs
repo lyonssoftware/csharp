@@ -1,4 +1,4 @@
-// c#
+// c#  of using arrays
 Using System;
 public class Array
 {
@@ -16,7 +16,7 @@ public class Array
       array[1] = 2;
       // add to the array
       array[2] = 3;
-// add to the int array
+      // add to the int array
       array[3] = 4;
       //array
       array[4] = 5;]
@@ -25,6 +25,7 @@ public class Array
       array[6] = 7; 
       //set the array value
       array[7] = 8; 
+      // set the array value to 9 
       array[8] = 9;
       array[9] = 10;
       array[10] = 11;
