@@ -24,7 +24,7 @@ class InsertionSort
                 // iterate
                 j--;
             }
-            // set the new key
+            // set the new key to the new value 
             num[j + 1] = key;
 // end 
         }
