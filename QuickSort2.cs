@@ -6,7 +6,7 @@ class QuickSort
       {
          // int variables 
          int i, j;
-          // int
+          // int x variable 
          int x;
  // initialize int i 
          i = l;
@@ -22,7 +22,7 @@ class QuickSort
             while (data[i] < x)
                i++;
                // while loop
-/             while (x < data[j])
+/             while (x < data[j])
                j--;
             if (i <= j) {
                   //swap
