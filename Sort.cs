@@ -2,7 +2,8 @@
 Using System;
 public class Sort
 {
-   public static void Main()
+   // main method 
+   public static void main()
    {
       // initialize the variable a
       int a = 5;
@@ -11,7 +12,7 @@ public class Sort
       // call the method
       Sort();
    }
-   // Define the sort method 
+   // medthod to sort 
    public void Sort()
    {
       // sort code
