@@ -2,6 +2,7 @@
 Using System;
 class LowerUpper
 {
+  // main method
   static void Main(string[] args)
   {
     // create a new Array object and set the size to 6 
@@ -14,11 +15,13 @@ class LowerUpper
     stringArray.SetValue("Apple", 2);
     // set the value
             stringArray.SetValue("Grape", 3);
-    // set the string to cherry
+    // set the string to cherry 
             stringArray.SetValue("Cherry", 4);
     // ser value 
             stringArray.SetValue("WaterMelon", 4);
-    //print the lower bound of the string
+    //print the lower bound
+// the lower 
+// print 
             Console.WriteLine("The Lower Bound of the Array : {0}",stringArray.GetLowerBound(0).ToString());
     // upper bounds
             Console.WriteLine("The Upper Bound of the Array : {0}",stringArray.GetUpperBound(0).ToString());
