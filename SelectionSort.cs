@@ -16,7 +16,7 @@ class SelectionSort
             // print the array
             Console.WriteLine(array[i]);
         }
-// set the temp value 
+// set the temp value and the min key 
         int tmp, min_key;
  // array to fond selection 
         for (int j = 0; j < array_size - 1; j++)
