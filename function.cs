@@ -1,5 +1,4 @@
-// example of a C# function 
-// how to make functions in c#
+// example of a C# functions 
 class Function
 {
   // this is a sample function named Foo();
@@ -72,7 +71,7 @@ class Function
     // call the Divide method
     Divide(x,y);
     Multiply(x,y);
-    
+    // call the add method
     Add(x, y);
     Subtraction(x,y);
     Add(3,8);
