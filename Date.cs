@@ -7,7 +7,7 @@ class Date
     // create new date object and initialize date 2020-01-09 16:05:07.123
     DateTime dt = new DateTime(2020, 1, 9, 16, 5, 7, 123);
 
-    // new format
+    // new format of the date 
     String.Format("{0:y yy yyy yyyy}", dt);  // "8 08 008 2008"   year
     String.Format("{0:M MM MMM MMMM}", dt);  // "3 03 Mar March"  month
     String.Format("{0:d dd ddd dddd}", dt);  // "9 09 Sun Sunday" day
