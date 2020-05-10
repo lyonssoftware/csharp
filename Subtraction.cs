@@ -26,6 +26,7 @@ public class Subtraction
       // d minus c = 7 - 4
     Console.WriteLine(d-c);
     // multiple variable subtraction
+// print
     Console.WriteLine(a-b-c-d);
       // subtract items 7 - 4 - 3 -5
     Console.WriteLine(d-c-b-a);
