@@ -12,10 +12,10 @@ public class WhileLoop
       { 
          // write the current count
          System.Console.WriteLine("The current count is greater than 0.");
-         // decrement the counter
+         // decrement the counter by one 
          i--;
       }
-      // set the j to 0
+      // Set the j to 0
       int j = 0;
 // for the loop
       // while loop
@@ -23,7 +23,7 @@ public class WhileLoop
       {
          // print the current count
          System.Console.WriteLine("The current count is lower than 5.");
-         // increment the current j by one
+         // increment the current j by 1 
          j++;
       }
    }
