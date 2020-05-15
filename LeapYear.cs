@@ -6,7 +6,7 @@ public class LeapYear
    { 
     // initialize the year integer
     int year = 1900;
-   
+   // leap years occur every 4 years 
     Console.Writeline(year);
       // print    
   }
