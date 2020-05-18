@@ -13,6 +13,7 @@ Class Multiplication
         // demostration of multiplying various variables 
         // how to multiply variables 
         int x = 3;
+// set the int
         int y = 8;
         // negative integer
         int z = -1
