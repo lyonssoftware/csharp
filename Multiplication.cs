@@ -10,14 +10,13 @@ Class Multiplication
     // multiplication 
     public static void Main()
     {
-        // demostration of multiplying various variables 
-        // how to multiply variables 
+        // set the int to 3
         int x = 3;
-// set the int
+        // set the int to 8 
         int y = 8;
         // negative integer
         int z = -1
-// initialize
+// set the int 
         int w = 6;
 // initialize I to 8
         int i = 8;
@@ -30,9 +29,10 @@ Class Multiplication
 // initialize s variable
         int s = 11;
         // into
-// initialize variable to 68
         int t = 68;
+// set the variable
         int f =  2;
+// set the int 
         int g = s;
         
         //multiple the variables 
