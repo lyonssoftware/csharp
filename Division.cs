@@ -18,6 +18,7 @@ Class Division
         int w = 7;
         // more variables
         int i = 56;
+        // initialize the variable o 
         int o = 32;
         int k = 89;
         // integer
