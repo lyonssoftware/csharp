@@ -22,6 +22,7 @@ Console.ReadLine();
 }
 class pro
 {
+// define the function
     public int sum(int num)
     {
         if (num != 0)
