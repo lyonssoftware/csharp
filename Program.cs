@@ -2,7 +2,7 @@
 using System;
 class TestApp
 {
-   // main function 
+   // main function of the test app
    public static void Main(string[] args)
    {
 //new statement 
