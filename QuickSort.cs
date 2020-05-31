@@ -42,7 +42,7 @@ namespace Quicksort
  // main function 
         public static void Quicksort(IComparable[] elements, int left, int right)
         {
-// initialed rhe set 
+// initialed the left and right variable 
             int i = left, j = right;
 // set the pivot 
             IComparable pivot = elements[(left + right) / 2];
