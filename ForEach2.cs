@@ -7,7 +7,6 @@ public class ForEach2
    {
       // initialize the List 
       var names = new List<string>() { "John", "Tom", "Peter" };
-      
        // initialize the second List 
       var names2 = new List<string>() { "Laura", "Tanya", "Petra" };
       // use foreach() to iterate through the names 
