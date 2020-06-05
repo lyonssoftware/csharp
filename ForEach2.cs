@@ -2,7 +2,7 @@
 Using System;
 public class ForEach2
 {
-   // main function
+   // main function of the program
    public static void Main()
    {
       // initialize the List 
