@@ -21,6 +21,7 @@ namespace check1
      // read in value            
 Console.Read();
             }
+// else statement 
             else
             {
                 Console.Write("Entered Number is an Odd Number");
