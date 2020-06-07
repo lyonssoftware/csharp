@@ -32,6 +32,7 @@ class Function
   // divide function with two int parameters 
   void Divide(int x, int y)
   {
+// print the results of x divided by y 
     Console.System.print(x/y)
   }
   
