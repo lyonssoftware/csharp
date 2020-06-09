@@ -28,6 +28,7 @@ public class Switch
       default:
           // print line "other"
         Console.WriteLine("Other");
+// break 
         break;
       }
    }
