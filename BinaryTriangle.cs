@@ -21,10 +21,10 @@ class BinaryTriangle
                 // for loop to iterate
                 for (p = 1; p <= i; p++)
                 {
-// check to see if you're at the end 
+                 // if you are at the last int  
                     if (lastInt == 1)
                     {
-                     // print item
+                     // print the current 
                         Console.Write("0");
                      // set the int
                         lastInt = 0;
