@@ -21,7 +21,7 @@ class InsertionSort
             {
                 // while in the loop update the key 
                 num[j + 1] = num[j];
-                // iterate
+                // Decrement by 1
                 j--;
             }
             // set the new key to the new value 
