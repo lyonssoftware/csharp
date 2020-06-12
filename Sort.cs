@@ -16,5 +16,7 @@ public class Sort
    public void Sort()
    {
       // sort code
+      int x = 0;
+      int y = 0;
    }
 } // end of the program
