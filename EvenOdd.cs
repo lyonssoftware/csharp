@@ -10,6 +10,7 @@ namespace check1
 {
     class EvenOdd
     {
+// main
         static void Main(string[] args)
         {
             int i;
