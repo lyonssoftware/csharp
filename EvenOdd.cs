@@ -13,6 +13,7 @@ namespace check1
 // main
         static void Main(string[] args)
         {
+// initialize int 
             int i;
             Console.Write("Enter a Number : ");
             i = int.Parse(Console.ReadLine());
