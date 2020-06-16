@@ -19,7 +19,7 @@ public class IfElse
         // print the b integer
 // new
         Console.WriteLine(b);
-      
+      // if statement 
       if ((a >= c) && (b <= c))
         // is a is greater and b is smaller than c
         Console.WriteLine(c);
