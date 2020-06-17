@@ -1,7 +1,7 @@
 Using System;
 class ArrayLength
 {
-// main 
+    // main 
     static void Main()
     {
         // intitialize the int array with five slots
@@ -13,11 +13,12 @@ class ArrayLength
         
         // set the array length 
         long longLength = arrayA.LongLength;
+        // print the array Length
         Console.WriteLine("Length of the LongLength Array  : {0}",longLength);
+        
         int[,] twoD = new int[5, 10];
         Console.WriteLine("The Size of 2D Array is : {0}",twoD.Length);
         // read the last line
         Console.ReadLine();
     } // end of the program
 }
-// last lines
