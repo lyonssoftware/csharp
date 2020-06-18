@@ -2,6 +2,7 @@
 using System;
 class SelectionSort
 {
+    // main function 
     static void Main(string[] args)
     {
         // set the array size to 10 
@@ -16,9 +17,9 @@ class SelectionSort
             // print the array
             Console.WriteLine(array[i]);
         }
-// set the temp value and the min key 
+        // set the temp value and the min key 
         int tmp, min_key;
- // array to fond selection 
+         // array to fond selection 
         for (int j = 0; j < array_size - 1; j++)
         {
             // set the min key
@@ -36,7 +37,7 @@ class SelectionSort
             // set the temporary value
             tmp = array[min_key];
             array[min_key] = array[j];
-// set new temp
+            // set new temp
             array[j] = tmp;
         }
  
