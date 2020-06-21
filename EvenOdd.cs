@@ -10,7 +10,7 @@ namespace check1
 {
     class EvenOdd
     {
-// main
+        // main function 
         static void Main(string[] args)
         {
 // initialize int 
@@ -32,3 +32,4 @@ Console.Read();
         }
     }
 }
+// end of program 
