@@ -2,7 +2,7 @@
 Using System;
 public class Print
 {
-   // this C# program main function
+   // this C# program main function redistribute
    public static void Main()
    {
       // this is the first comment 
