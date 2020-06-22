@@ -35,7 +35,7 @@ class Function
 // print the results of x divided by y 
     Console.System.print(x/y)
   }
-  
+  // print the result of x multiplied by y 
   void Multiply(int x, int y)
   {
     Console.System.print(x*y)
