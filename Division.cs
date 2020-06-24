@@ -20,6 +20,7 @@ Class Division
         int i = 56;
         // initialize the variable o 
         int o = 32;
+        // initialize the variable
         int k = 89;
         // integer
         int f = e;
