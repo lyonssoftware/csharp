@@ -2,6 +2,7 @@
 Using System;
 Class Division
 {
+    // main function
     public static void Main()
     {
         // initialize x to 3 
