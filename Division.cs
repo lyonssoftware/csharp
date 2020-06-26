@@ -2,7 +2,7 @@
 Using System;
 Class Division
 {
-    // main function
+   // main function 
     public static void Main()
     {
         // initialize x to 3 
@@ -21,9 +21,9 @@ Class Division
         int i = 56;
         // initialize the variable o 
         int o = 32;
-        // initialize the variable
+        //initialize the variable
         int k = 89;
-        // integer
+        // set the int f to the value of e (f = 18)
         int f = e;
         // negative integer
         int negativeNum = -12;
@@ -32,7 +32,6 @@ Class Division
         Console.WriteLine(x/y);
         // divide 8 / 3 
         Console.WriteLine(y/x);
-//divide 
         Console.WriteLine(x/d);
         Console.WriteLine(d/x);
         Console.WriteLine(d/y);
