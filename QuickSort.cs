@@ -24,8 +24,8 @@ namespace Quicksort
             }
          // print out the array 
             Console.WriteLine();
- // commentary 
-            // Sort the array
+
+            // Sort the array using quicksort
             Quicksort(unsorted, 0, unsorted.Length - 1);
  
             // Print the sorted array
@@ -36,13 +36,13 @@ namespace Quicksort
             }
  // print the insorted list 
             Console.WriteLine();
- // reas the line 
+ // read in the new array 
             Console.ReadLine();
         }
  // main function 
         public static void Quicksort(IComparable[] elements, int left, int right)
         {
-// initialed the left and right variable 
+// initialed rhe set 
             int i = left, j = right;
 // set the pivot 
             IComparable pivot = elements[(left + right) / 2];
@@ -50,7 +50,7 @@ namespace Quicksort
          
             // while the elements are in
             while (i <= j)
-            {
+            {   // while loop to compare two elements in the array
                 while (elements[i].CompareTo(pivot) < 0)
                 {
                     i++;
@@ -63,7 +63,7 @@ namespace Quicksort
  // compare if the current 
                 if (i <= j)
                 {
-                    // set the new
+                    // Swa
                     IComparable tmp = elements[i];
                     elements[i] = elements[j];
                     elements[j] = tmp;
