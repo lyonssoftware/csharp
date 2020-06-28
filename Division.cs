@@ -15,7 +15,7 @@ Class Division
         int d = 3;
           // initalize 3 to 18
         int e = 18;
-        // another int
+        // initialize the variable w
         int w = 7;
         // more variables
         int i = 56;
