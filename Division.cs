@@ -36,6 +36,7 @@ Class Division
         Console.WriteLine(x/d);
         // divide 3 by 3 = 1
         Console.WriteLine(d/x);
+// divide 3 by 8
         Console.WriteLine(d/y);
         Console.WriteLine(y/d);
         Console.WriteLine (y/d);
