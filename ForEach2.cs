@@ -2,13 +2,13 @@
 Using System;
 public class ForEach2
 {
-   // main function of the program
+   // main function of the program 
    public static void Main()
    {
-      // initialize the List 
+      // initialize the List with 3 names
       var names = new List<string>() { "John", "Tom", "Peter" };
        // initialize the second List 
-      var names2 = new List<string>() { "Laura", "Tanya", "Petra" };
+      var names2 = new List<string>() { "Laura", "Sam", "Greg" };
       // use foreach() to iterate through the names 
       foreach (string name in names)
       {
