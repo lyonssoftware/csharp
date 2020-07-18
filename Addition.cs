@@ -22,7 +22,7 @@ public class Addition
     Console.WriteLine(a+b);
     // print the result of 7 + 2
     Console.WriteLine(c+d);
-      // addition
+    // addition 5 + 2 = 7
     Console.Writeline(a+d);
       // print the results of 9 + 1 = 10
     Console.Writeline(e+f);
