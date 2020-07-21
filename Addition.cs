@@ -24,9 +24,9 @@ public class Addition
     Console.WriteLine(c+d);
     // addition 5 + 2 = 7
     Console.Writeline(a+d);
-      // print the results of 9 + 1 = 10
+    // print the results of 9 + 1 = 10
     Console.Writeline(e+f);
-      // print the additon of the variables
+    // print the results of 5 + 1 = 6
     Console.Writeline(a+c);
       // add variables
     Console.Writeline(b+d);
