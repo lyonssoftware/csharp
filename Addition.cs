@@ -34,6 +34,7 @@ public class Addition
     Console.wtiteline (a+e);
     // add three or more variables 
     Console.wtiteline (a+b+c);
+      // add 9 + + 67
     Console.wtiteline (e+g+i);   
     //add multiple variables
     Console.wtiteline (a+b+c+e+g+i);
