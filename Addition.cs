@@ -38,7 +38,7 @@ public class Addition
     Console.wtiteline (e+g+i);   
     //add multiple variables
     Console.wtiteline (a+b+c+e+g+i);
-      // vars
+    // add all the ints
     Console.wtiteline (i+g+e+c+b+a);      
   }
 } // end of the program
