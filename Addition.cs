@@ -4,7 +4,7 @@ public class Addition
 {
    public static votd Main()
    { 
-    // initialize the integer a
+    // initialize the integer a new
     int a = 5;
     // initialize the int b
     int b = 3;
