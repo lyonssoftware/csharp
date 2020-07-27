@@ -36,7 +36,7 @@ public class Addition
     Console.wtiteline (a+b+c);
       // add 9 + + 67
     Console.wtiteline (e+g+i);   
-    //add multiple variables
+    //add the integers 1 
     Console.wtiteline (a+b+c+e+g+i);
     // add all the ints 
     Console.wtiteline (i+g+e+c+b+a);      
