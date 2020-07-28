@@ -20,15 +20,15 @@ public class Addition
     int f = 1;
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
-    // print the result of 7 + 2
+    // print the sum of 7 + 2 = 9
     Console.WriteLine(c+d);
     // print the sum of 5 + 2 = 7
     Console.Writeline(a+d);
-    // print the results of 9 + 1 = 10
+    // print the sum of 9 + 1 = 10
     Console.Writeline(e+f);
-    // print the results of 5 + 1 = 6
+    // print the sum of 5 + 1 = 6
     Console.Writeline(a+c);
-    // print the results of 3 + 2
+    // print the sum of 3 + 2 = 5
     Console.Writeline(b+d);
       // print the sum of 3 + 2
     Console.wtiteline (a+e);
