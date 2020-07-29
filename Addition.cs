@@ -16,7 +16,7 @@ public class Addition
     int i = 67;
       // intialize the int e to 9 
     int e = 9; 
-      // intialize 
+      // intialize the int f to 1
     int f = 1;
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
