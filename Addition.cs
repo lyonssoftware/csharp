@@ -30,9 +30,9 @@ public class Addition
     Console.Writeline(a+c);
     // print the sum of 3 + 2 = 5
     Console.Writeline(b+d);
-      // print the sum of 3 + 2
+     // print the sum of 3 + 2
     Console.wtiteline (a+e);
-    // add three or more variables 
+    // print the sum of 5 + 9 = 14
     Console.wtiteline (a+b+c);
       // add 9 + + 67
     Console.wtiteline (e+g+i);   
