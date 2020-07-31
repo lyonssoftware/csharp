@@ -16,8 +16,11 @@ public class Addition
     int i = 67;
       // intialize the int e to 9 
     int e = 9; 
-      // intialize the int f to 1
+    // intialize the int f to 1
     int f = 1;
+      
+    //
+    int g = 8;
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the sum of 7 + 2 = 9
@@ -34,7 +37,7 @@ public class Addition
     Console.wtiteline (a+e);
     // print the sum of 5 + 9 = 14
     Console.wtiteline (a+b+c);
-      // add 9 + + 67
+    // print the sum of 9 + 8 + 67 = 84
     Console.wtiteline (e+g+i);   
     //add the integers 1 
     Console.wtiteline (a+b+c+e+g+i);
