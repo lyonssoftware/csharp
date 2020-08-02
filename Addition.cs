@@ -38,7 +38,7 @@ public class Addition
     Console.wtiteline (a+b+c);
     // print the sum of 9 + 8 + 67 = 84
     Console.wtiteline (e+g+i);   
-    // print th sum of 
+    // print the sum of 5 + 3 + 7 + 9 + 8 + 67 = 
     Console.wtiteline (a+b+c+e+g+i);
     // add all the ints 
     Console.wtiteline (i+g+e+c+b+a);      
