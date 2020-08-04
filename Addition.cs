@@ -40,7 +40,7 @@ public class Addition
     Console.wtiteline (e+g+i);   
     // print the sum of 5 + 3 + 7 + 9 + 8 + 67 = 106
     Console.wtiteline (a+b+c+e+g+i);
-    // print the sum of 
+    // print the sum of 67 + 8 + 9 + 7 + 3  + 5
     Console.wtiteline (i+g+e+c+b+a);      
   }
 } // end of the program
