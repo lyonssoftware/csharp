@@ -18,8 +18,8 @@ public class Array
       array[2] = 3;
       // add to the int array
       array[3] = 4;
-      //array
-      array[4] = 5;]
+      // add to the int array 
+      array[4] = 5;
       // add to array 
       array[5] = 6;
       array[6] = 7; 
