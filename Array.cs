@@ -4,7 +4,7 @@ public class Array
 {
    public static void Main()
    {
-     // create an int array 
+     // create an int array of 31 indexes 
      int[] array = new int[31];
       
       // create a double array
@@ -27,6 +27,7 @@ public class Array
       array[7] = 8; 
       // set the array value to 9 
       array[8] = 9;
+      // set the value of the index 
       array[9] = 10;
       array[10] = 11;
       array[11] = 12;
