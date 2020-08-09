@@ -10,7 +10,7 @@ class ArrayLength
         int lengthA = arrayA.Length;
         // print the array and the length
         Console.WriteLine("Length of ArrayA : {0}", +lengthA); 
-        
+        // new 
         // set the array length 
         long longLength = arrayA.LongLength;
         // print the array Length
