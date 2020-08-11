@@ -17,7 +17,7 @@ Class Division
         int e = 18;
         // initialize the variable w
         int w = 7;
-        // more variables
+        // initialize the variable i = 56
         int i = 56;
         // initialize the variable o 
         int o = 32;
