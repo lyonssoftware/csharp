@@ -7,13 +7,11 @@ class InsertionSort
     {
         // this is the unsorted array [69,56,77,44,8,0,111,566
         int[] num = { 69, 56, 77, 44, 8, 0, 111, 566 };
- 
         // setup the forloop based on the length of the array
         for (int i = 1; i < num.Length; i++)
         {
             // create new key from selected item in array
             int key = num[i];
-// initialization 
             //initialize the j variable and set to the array list minus 1
             int j = i - 1;
             // while loop
@@ -21,14 +19,13 @@ class InsertionSort
             {
                 // while in the loop update the key 
                 num[j + 1] = num[j];
-                // Decrement by 1
+                // Decrement j by 1
                 j--;
             }
             // set the new key to the new value 
             num[j + 1] = key;
-// end 
+            // end 
         }
-
         //display
         foreach (var item in num)
         {
@@ -40,4 +37,3 @@ class InsertionSort
         Console.ReadKey();
     } // end of the program
 }
-
