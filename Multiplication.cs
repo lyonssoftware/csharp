@@ -20,7 +20,7 @@ Class Multiplication
         int w = 6;
 // initialize I to 8
         int i = 8;
-        // integer a
+        // initialize the int a 
         int a = 4;
         // variable transfer
         int b = x;
