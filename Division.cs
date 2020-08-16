@@ -28,7 +28,7 @@ Class Division
         // negative integer
         int negativeNum = -12;
        
-       // divide 3 by 8 
+       // print the result of divide 3 by 8 
         Console.WriteLine(x/y);
         // divide 8 / 3 
         Console.WriteLine(y/x);
