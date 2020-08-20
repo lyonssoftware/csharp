@@ -2,7 +2,7 @@
 Using System;
 public class DoWhile
 {
-   // main function 
+   // main function of the program
    public static void Main()
    {
     // set the count to 3
@@ -16,7 +16,7 @@ public class DoWhile
       // while the x variable is less than 10 
      while(x < 10)
      {
-        // decrement
+        // decrement by 1
         x--; 
      }
    }
