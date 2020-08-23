@@ -20,12 +20,12 @@ class SelectionSort
             Console.WriteLine(array[i]);
         }
         int tmp, min_key;
- // for loop 
+         // for loop 
         for (int j = 0; j < array_size - 1; j++)
         {
-// set the new key
+            // set the new minimum key
             min_key = j;
- // for loop to iterate
+        // for loop to iterate
             for (int k = j + 1; k < array_size; k++)
             {
                 // if correct 
