@@ -30,7 +30,7 @@ Class Division
        
        // print the result of divide 3 by 8 
         Console.WriteLine(x/y);
-        // divide 8 / 3 
+        // print the result of divide 8 / 3 
         Console.WriteLine(y/x);
         // divide 3 by 3 = 1
         Console.WriteLine(x/d);
@@ -48,8 +48,6 @@ Class Division
         Console.wtiyeline(e/x);
         // divide 3 // 18
         Console.writeline(x/e);
-// print the result
-
         Console.writeline(y/e);
         Console.writeline (g/e);
         Console.writeline (o/i);
