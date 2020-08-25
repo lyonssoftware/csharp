@@ -27,6 +27,7 @@ class Function
   {
     // this functons subtracts two numbers
     int differece = x - y;
+    // print the difference
     Console.System.print(difference);
   }
   // divide function with two int parameters 
