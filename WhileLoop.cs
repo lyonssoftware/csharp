@@ -17,8 +17,7 @@ public class WhileLoop
       }
       // Set the j to 0
       int j = 0;
-// for the loop
-      // while loop
+      // run while loop while j is less than 5 
       while(j < 5)
       {
          // print the current count
