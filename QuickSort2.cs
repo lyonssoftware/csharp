@@ -2,18 +2,19 @@
 Using System;
 class QuickSort
 {
+      // main function
       public static void QuickSort (int[] data, int l, int r)
       {
-         // int variables 
+         // intialize int variables 
          int i, j;
           // int x variable 
          int x;
- // initialize int i 
+          // initialize int i 
          i = l;
-// set j value to r
+         // set j value to r
          j = r;
             // int k = 0;
-//  ser
+         // create the pivot point 
          x = data [(l + r) / 2]; /* find pivot item */
       
       // while unsorted begin the sort
@@ -32,6 +33,7 @@ class QuickSort
                   // decrement j
                j--;
             }
+// if statement to check is to break 
             if (i > j)
                break;
          }
