@@ -33,7 +33,7 @@ class pro
 // is number does equal zero 
         else
         {
-            //whenndone tetuen 0
+            //Return 0
             return 0;
             //return if invalid
         }
