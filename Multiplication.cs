@@ -7,7 +7,7 @@ using System.Text;
 // declare the multiplication 
 Class Multiplication
 {
-    // multiplication 
+    // main function 
     public static void Main()
     {
         // set the int to 3
@@ -16,11 +16,11 @@ Class Multiplication
         int y = 8;
         // negative integer
         int z = -1
-// set the int 
+        // set the int w to 6
         int w = 6;
 // initialize I to 8
         int i = 8;
-        // initialize the int a 
+        // initialize the int a
         int a = 4;
         // variable transfer
         int b = x;
@@ -28,7 +28,7 @@ Class Multiplication
         int p = 5;
 // initialize s variable
         int s = 11;
-        // set the int to 68
+        // initialize int to 68
         int t = 68;
 // set the variable
         int f =  2;
