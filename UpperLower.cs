@@ -15,7 +15,7 @@ class UpperLower
             stringArray.SetValue("Grape", 3);
     // set the value of the String Array
             stringArray.SetValue("Cherry", 4);
-    // set valie
+    // set the value of the array 
             stringArray.SetValue("WaterMelon", 4);
     
   // print the lower bound of the array 
