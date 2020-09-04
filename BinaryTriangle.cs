@@ -37,6 +37,7 @@ class BinaryTriangle
                     }
                 } Console.Write("\n");
             }
+// print 
             Console.ReadLine();
         } 
     } // end of program 
