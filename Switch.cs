@@ -20,7 +20,7 @@ public class Switch
       case 2:
           // print "Two"
         Console.WriteLine("Two");
-          // print the second line
+          // print the statement Two
         Console.WriteLine("Two");
           // break
         break;
