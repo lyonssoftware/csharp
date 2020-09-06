@@ -19,10 +19,10 @@ namespace Quicksort
             // Print the unsorted array
             for (int i = 0; i < unsorted.Length; i++)
             {
-             // print the sorted cslue 
+            // print the sorted cslue 
                 Console.Write(unsorted[i] + " ");
             }
-         // print out the array 
+            // print out the array 
             Console.WriteLine();
 
             // Sort the array using quicksort
@@ -39,7 +39,7 @@ namespace Quicksort
  // read in the new array 
             Console.ReadLine();
         }
- // main function 
+        // Quicksort method
         public static void Quicksort(IComparable[] elements, int left, int right)
         {
 // initialed rhe set 
@@ -53,6 +53,7 @@ namespace Quicksort
             {   // while loop to compare two elements in the array
                 while (elements[i].CompareTo(pivot) < 0)
                 {
+                 // increment by 1
                     i++;
                 }
                 // check the the element in the array then pivot
