@@ -2,10 +2,10 @@
 Using System;
 public class Print
 {
-   // this C# program main function redistribute
+   // this C# program main function
    public static void Main()
    {
-      // this is the first comment 
+      // print the statement "This is the first statement."
       System.Console.WriteLine("This is the first statement.");
       // this is the second comment 
       System.Console.WriteLine("This is the second statement.");
@@ -28,6 +28,5 @@ public class Print
       System.Console.WriteLine("This is the eleventh statement.");
       // this is the last comment
        System.Console.WriteLine("This is the twelth statement.");
-      // there are no more statements
-   } // end of the program 
-} 
+   } 
+} // end of the program 
