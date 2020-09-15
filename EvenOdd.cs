@@ -16,6 +16,7 @@ namespace check1
 // initialize int 
             int i;
             Console.Write("Enter a Number : ");
+// set the input
             i = int.Parse(Console.ReadLine());
             if (i % 2 == 0)
             {
@@ -26,6 +27,7 @@ Console.Read();
 // else statement 
             else
             {
+// print
                 Console.Write("Entered Number is an Odd Number");
                 Console.Read();
             }
