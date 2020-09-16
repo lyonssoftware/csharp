@@ -1,30 +1,28 @@
-// c# of swapping two int variables 
+// c# example of swapping two int variables 
 public class Swap
 {
    // main function of the program
    public static void Main()
    {
-    // the initial variables
+    // initialize variable a 
     int a = 5;
     // the second variable 
     int b = 3;
     // the swap variable
     int swap = 0;
-    // print the variables
-// print a
+    // print the origianl value of variable a
     Console.WriteLine(a);
-      // print the original value for b
+      //print the origianl value of variable b
     Console.WriteLine(b);
-      // swap the variables
       // set the intial variable to swap
     swap = a;
       // set the value of a to the current value of b 
     a = b;
     // end the swap
     b = swap;
-    // print the new variables
+    // print the new a variable
     Console.WriteLine(a);
-      // print variable b 
+      // print the new b variable 
     Console.WriteLine(b);
   }
-}      // end of program 
+} // end of program 
