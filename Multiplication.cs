@@ -22,11 +22,11 @@ Class Multiplication
         int i = 8;
         // initialize the int a
         int a = 4;
-        // variable transfer
+        // Initialize the int b to x 
         int b = x;
-// set the int
+        // set the int
         int p = 5;
-// initialize s variable
+        // initialize s variable
         int s = 11;
         // initialize int to 68
         int t = 68;
