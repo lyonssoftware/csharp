@@ -3,6 +3,7 @@
 using System;
 using System.Windows.Forms;
 
+// create namespace
 namespace WindowsApplication1
 {
     // create a form
