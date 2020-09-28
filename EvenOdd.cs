@@ -13,8 +13,8 @@ namespace check1
         // main function 
         static void Main(string[] args)
         {
-// initialize int 
-            int i;
+// initialize the int to 0
+            int i = 0;
             Console.Write("Enter a Number : ");
 // set the input
             i = int.Parse(Console.ReadLine());
