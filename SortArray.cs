@@ -14,6 +14,7 @@ public class SortArray
       // use the foreach method to iterate through the array object intArray
       foreach (int i in intArray) 
       {
+// check it 
          // print the output of the array is: 2 3 6 8 10
          Console.Write(i + " "); 
       }
