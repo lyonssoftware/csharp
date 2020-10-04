@@ -8,6 +8,7 @@ public class SortArray
       // program to sort an integer array; intialize int array
       int[] intArray = new int[5] { 8, 10, 2, 6, 3 };
       // make a second array 
+// x
       int[] intArray2 = new int[6] { 8, 10, 2, 6, 3, 1 };
       // sort the integer array object intArray
       Array.Sort(intArray); 
