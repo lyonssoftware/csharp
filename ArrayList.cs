@@ -6,6 +6,10 @@ public class ArrayList
    {
       // demo how to create ArrayList , create instance of ArrayList
       ArrayList myArrayList = new ArrayList();
+      
+      // create second arrayList 
+      ArrayList myArrayList2 = new ArrayList();
+      
       // add the integer 56 to the ArrayList
       myArrayList.Add(56);
       // add 12 to the current array list
