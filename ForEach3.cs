@@ -9,7 +9,7 @@ namespace WindowsApplication1
     // create a form
     public partial class Form1 : Form
     {
-        // create form 
+        // create the form object
         public Form1()
         {
             // initialize the component
@@ -17,7 +17,7 @@ namespace WindowsApplication1
         }
         private void button1_Click(object sender, EventArgs e)
         {
-        // array of days
+            // intialize an array of type string for the days in the week 
             string[] days = { "Sunday", "Monday", "TuesDay", "Wednesday", "Thursday", "Friday", "Saturday" };
             // iterate and probt 
             foreach (string day in days)
