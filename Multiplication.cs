@@ -18,21 +18,21 @@ Class Multiplication
         int z = -1
         // set the int w to 6
         int w = 6;
-// initialize I to 8
+        // initialize I to 8
         int i = 8;
         // initialize the int a
         int a = 4;
-        // Initialize the int b to x 
+        // Initialize the b variable to x 
         int b = x;
-        // set the int
+// set the int
         int p = 5;
-        // initialize s variable
+// initialize s variable
         int s = 11;
         // initialize int to 68
         int t = 68;
 // set the variable
         int f =  2;
-        // set the int g to equal s
+        // set the int g to s
         int g = s;
         
         //multiple the variables 
@@ -41,6 +41,7 @@ Class Multiplication
         Console.WriteLine(x*z);
         // multiply
         Console.WriteLine(x*w);
+        // multiply x by i 
         Console.WriteLine(x*i);
         //pront 
         Console.writelone(p*s);
