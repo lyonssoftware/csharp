@@ -7,21 +7,21 @@ class LowerUpper
   {
     // create a new Array object and set the size to 6 
     Array stringArray = Array.CreateInstance(typeof(String), 6);
-    // insert "Mango" into the first array
+    // insert the string "Mango" into the first index of array
     stringArray.SetValue("Mango", 0);
-    /// insert
+    // insert the string "Orange" into the second index of array
     stringArray.SetValue("Orange", 1);
-    // insert into the array 
+     // insert the string "Apple" into the third index of array
     stringArray.SetValue("Apple", 2);
-    // set the value
+    // set the value to grape
             stringArray.SetValue("Grape", 3);
     // set the string to cherry 
             stringArray.SetValue("Cherry", 4);
     // ser value 
             stringArray.SetValue("WaterMelon", 4);
-    //print the lower bound
+    //print "the lower" 
             Console.WriteLine("The Lower Bound of the Array : {0}",stringArray.GetLowerBound(0).ToString());
-    // upper bounds
+    // the upper bounds of the array
             Console.WriteLine("The Upper Bound of the Array : {0}",stringArray.GetUpperBound(0).ToString());
     // read line the line and get the data
             Console.ReadLine();
