@@ -9,6 +9,7 @@ class BinaryTriangle
  // main function
         public static void Main(String[] args)
         {
+// set the cord 
          // int variables
             int p, lastInt = 0, input;
          // get the number of rows
