@@ -16,7 +16,7 @@ namespace Quicksort
             // Create an unsorted array of string elements
             string[] unsorted = { "z","e","x","c","m","q","a"};
  
-            // Print the unsorted array
+            // Print the unsorted array from the first array
             for (int i = 0; i < unsorted.Length; i++)
             {
             // print the sorted cslue 
