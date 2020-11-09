@@ -7,7 +7,7 @@ public class Subtraction
    {
       // initialize the int a to 5
       int a = 5;
-// set int b
+      // initialize the int b to 3
     int b = 3;
       // integer
     int c = 4;
