@@ -7,7 +7,7 @@ public class WhileLoop
    {
       // int to hold the counter
       int i = 5;
-      // while valid iterate
+      // while the count is larger than 0
       while(i > 0)
       { 
          // write the current count
