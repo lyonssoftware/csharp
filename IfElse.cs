@@ -7,7 +7,7 @@ public class IfElse
     // main function
     static void Main(string[] args)
     {
-      // intialize variables a, b, and c
+      // intialize variables a, b, and c to 5, 5 and 10 
       int a = 5, b = 5, c = 10;
 
       // if a is equal to b then print equal
@@ -17,8 +17,8 @@ public class IfElse
       // if a is greater than c or a is equal to b 
       if ((a > c) || (a == b))
         // print the b integer
-// new
         Console.WriteLine(b);
+// check it
       // if statement 
       if ((a >= c) && (b <= c))
         // is a is greater and b is smaller than c
@@ -26,4 +26,5 @@ public class IfElse
       // end of program
     }
   }
+// end of the program
 }
