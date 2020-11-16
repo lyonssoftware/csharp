@@ -10,9 +10,8 @@ public class Sort
       // initialize the variable b
       int b = 3;
 
-// create an array 
-Int array1 = Int{3,7, 1, 15,9};
-
+      // create an int array with 5 
+      Int array1 = Int{3,7, 1, 15,9};
       // call the method
       Sort();
    }
@@ -22,5 +21,7 @@ Int array1 = Int{3,7, 1, 15,9};
       // sort code
       int x = 0;
       int y = 0;
+      
+      // sort the array
    }
 } // end of the program
