@@ -8,6 +8,8 @@ public class Swap
     int a = 5;
     // the second variable 
     int b = 3;
+      
+    int c = 9;
     // the swap variable
     int swap = 0;
     // print the origianl value of variable a
@@ -15,9 +17,9 @@ public class Swap
       //print the origianl value of variable b
     Console.WriteLine(b);
       // set the intial variable to swap
-    swap = a;
 
-// set variable 
+// set the variable 
+    swap = a;
       // set the value of a to the current value of b 
     a = b;
     // end the swap
