@@ -10,28 +10,28 @@ namespace check1
 {
     class EvenOdd
     {
-        // main function 
+// main function
         static void Main(string[] args)
         {
-// initialize the int to 0
+// initialize the int i = 0;
             int i = 0;
+// read the number 
             Console.Write("Enter a Number : ");
-// set the input
+         // get the number from user
             i = int.Parse(Console.ReadLine());
             if (i % 2 == 0)
             {
-                Console.Write("Entered Number is an Even Number");
-     // read in value            
+               
+ Console.Write("Entered Number is an Even Number");
+                // read in value
 Console.Read();
             }
 // else statement 
             else
             {
-// print
                 Console.Write("Entered Number is an Odd Number");
                 Console.Read();
             }
         }
     }
 }
-// end of program 
