@@ -39,14 +39,14 @@ class Function
   // print the result of x multiplied by y 
   void Multiply(int x, int y)
   {
-// print the results of x and y 
+// print the results x and y 
     Console.System.print(x*y)
   }
   
   // return type 
   int Add(int x, int y)
   {
-// set the sum 
+// set the sum of the two ints 
     int sum = x + y;
     return sum;
   }
@@ -67,6 +67,7 @@ class Function
     int x = 5, int y = 7;
     // this is the function 
     Foo();
+    // call the function Bar
     Bar();
     // function with parameters
     Addition(x,y);
