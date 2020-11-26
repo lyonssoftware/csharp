@@ -40,7 +40,7 @@ Class Division
         Console.WriteLine(d/y);
         // divide 8 / 3 
         Console.WriteLine(y/d);
-        // divide 8 / 3
+        // divide 8 / 3 = 2.33333
         Console.WriteLine (y/d);
         // divide 10 / 3 
         Console.WriteLine(c/d);
