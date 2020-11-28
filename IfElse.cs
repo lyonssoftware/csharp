@@ -9,6 +9,8 @@ public class IfElse
     {
       // intialize variables a, b, and c to 5, 5 and 10 
       int a = 5, b = 5, c = 10;
+      
+      int d = 8, e = 3, f = 11;
 
       // if a is equal to b then print equal
       if (a == b)
