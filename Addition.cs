@@ -20,6 +20,8 @@ public class Addition
     int f = 1;
     // intialize the int g to 8
     int g = 8;
+
+Int h = 24;
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the sum of 7 + 2 = 9
