@@ -9,11 +9,11 @@ class QuickSort
          int i, j;
           // int x variable 
          int x;
-          // initialize int i 
+          // initialize int i and set it the new value
          i = l;
          // set j value to r
          j = r;
-            // int k = 0;
+         int k = 0;
          // create the pivot point 
          x = data [(l + r) / 2]; /* find pivot item */
       
