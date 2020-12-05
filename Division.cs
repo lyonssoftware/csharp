@@ -48,6 +48,7 @@ Class Division
         Console.wtiyeline(e/x);
         // divide 3 // 18
         Console.writeline(x/e);
+        // print the result of 3 / 18
         Console.writeline(y/e);
         Console.writeline (g/e);
         Console.writeline (o/i);
