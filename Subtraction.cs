@@ -8,18 +8,16 @@ public class Subtraction
       // initialize the int a to 5
       int a = 5;
       // initialize the int b to 3
-    int b = 3;
-      // integer
-    int c = 4;
+      int b = 3;
+      // initialize the int c to 4
+      int c = 4;
       // integer set d to 7
-    int d = 7;
-// add ints 
+      int d = 7;
     // print the results of 3-5 = -2
     Console.WriteLine(a-b);
 //print 
     // print the results of 3-5 = -2
     Console.writeline(b-a);
-
       //5 - 4 = 1
     Console.WriteLine(a-c);
       // d minus c = 7 - 4
