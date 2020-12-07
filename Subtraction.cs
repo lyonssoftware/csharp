@@ -15,10 +15,9 @@ public class Subtraction
       int d = 7;
     // print the results of 3-5 = -2
     Console.WriteLine(a-b);
-//print 
     // print the results of 3-5 = -2
     Console.writeline(b-a);
-      //5 - 4 = 1
+     // print the results of 5 - 4 = 1
     Console.WriteLine(a-c);
       // d minus c = 7 - 4
     Console.WriteLine(d-c);
@@ -28,6 +27,5 @@ public class Subtraction
     Console.WriteLine(d-c-b-a);
       // add a and c and subtract it by the sum of b and d  
     Console.WriteLine(a+c-b+d);
-// addition 
   }
 }    // end of program
