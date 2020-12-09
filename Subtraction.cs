@@ -21,11 +21,11 @@ public class Subtraction
     Console.WriteLine(a-c);
     // print the results of 7 - 4 = 3
     Console.WriteLine(d-c);
-    // multiple variable subtraction
+    // print the results of 5 - 3 - 4 - 7 = -9
     Console.WriteLine(a-b-c-d);
-      // subtract the variables 7-4-3-5
+    // subtract the variables 7-4-3-5
     Console.WriteLine(d-c-b-a);
-      // add a and c and subtract it by the sum of b and d  
+    // add a and c and subtract it by the sum of b and d  
     Console.WriteLine(a+c-b+d);
   }
 }    // end of program
