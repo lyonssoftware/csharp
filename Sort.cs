@@ -21,6 +21,12 @@ public class Sort
       // sort code
       int x = 0;
       int y = 0;
+      int t = 0;
+      
+      t = y;
+      x = y;
+      x = t;
+      
       
       // sort the array
    }
