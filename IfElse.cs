@@ -11,6 +11,10 @@ public class IfElse
       int a = 5, b = 5, c = 10;
       
       int d = 8, e = 3, f = 11;
+      
+      int g = 11, h = 6, i = 15;
+      
+      
 
       // if a is equal to b then print equal
       if (a == b)
