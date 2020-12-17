@@ -23,7 +23,7 @@ class QuickSort
             while (data[i] < x)
                i++;
                // while loop to iterate through the array
-/             while (x < data[j])
+/             while (x < data[j])
                j--;
             if (i <= j) {
                   //swap
@@ -35,6 +35,7 @@ class QuickSort
             }
 // if statement to check is to break 
             if (i > j)
+                  // break the system if the left is larger than rigth
                break;
          }
          if (l < j)
