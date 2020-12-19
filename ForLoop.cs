@@ -10,8 +10,7 @@ class ForLoop
       // print the statement "this is a increment for a loop
        Console.WriteLine("This is an increment for loop.");
     }
-    // For loop to print number 
-    // from int 10 to 0 
+    // For loop to print number from int 10 to 0 
     for(int i = 10; i > 0; i--)
     {
       // print the numbers 1-10
@@ -23,10 +22,8 @@ class ForLoop
       // print the current number 
        Console.WriteLine("This for loop increments by 2.");
     }
-    // print This is line i
+    // for loop to print This is line "variable"
     for (int j = 0; j < 5; j++)
-// info
-
     {
       // print the line number 
       Console.WriteLine("This is line " + j);
