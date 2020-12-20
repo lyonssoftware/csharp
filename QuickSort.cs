@@ -15,11 +15,13 @@ namespace Quicksort
         {
             // Create an unsorted array of string elements
             string[] unsorted = { "z","e","x","c","m","q","a"};
+         
+          string[] unsorted2 = { "j","m","k","i","m","u","z"};
  
-            // Print the unsorted array from the first array
+            // Print the unsorted array
             for (int i = 0; i < unsorted.Length; i++)
             {
-            // print the sorted cslue 
+            // print the unsorted array
                 Console.Write(unsorted[i] + " ");
             }
             // print out the array 
