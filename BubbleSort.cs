@@ -1,4 +1,4 @@
-// program to bubble sort an array 
+// C# program to iterate the bubblesort method to sort an array 
 Using System;
 // bubble sort
 public class BubbleSort
@@ -11,10 +11,10 @@ public class BubbleSort
       {
       // int variables to compare
          int i, j;
-      // length 
+      // int to hold the lenght of the array 
          int N = data.Length;
          
-      // for loop to bubble value
+      // for loop to sort through the array
          for (j=N-1; j>0; j--) {
                // iterate through the next level
             for (i=0; i<j; i++) {
