@@ -7,6 +7,7 @@ public class DoWhile
    {
     // set the count to 3
     int x = 3;
+int d = 6;
       // execute the action at least once 
       do 
       {
