@@ -5,24 +5,25 @@ class Recursion
     // main function
     public static void Main()
 {
-        // intialize variables number and result 
+    // intialize the integer variables number and result 
     int num, result;
-        // create new pro object 
+    // create new pro object 
     pro pg = new pro();
-    // enter the int
+    // prompt the user to enter a number
     Console.WriteLine("Enter the Number : ");
+    // get result 
     num=int.Parse(Console.ReadLine());
-        // result 
+        // Get the result 
     result =pg.sum(num);
         // print
     Console.WriteLine("Sum of Digits in {0} is {1}", num, // read line
-// read in the last 
+// read in the last line
 Console.ReadLine();
 }
 }
 class pro
 {
-// define the function
+// define the function 
     public int sum(int num)
     {
         if (num != 0)
@@ -33,7 +34,7 @@ class pro
 // is number does equal zero 
         else
         {
-            //Return 0
+            //whenndone tetuen 0
             return 0;
             //return if invalid
         }
