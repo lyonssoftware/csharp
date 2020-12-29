@@ -23,7 +23,8 @@ class QuickSort
             while (data[i] < x)
                i++;
                // while loop to iterate through the array
-/             while (x < data[j])
+             while (x < data[j])
+            // decrement j by 1
                j--;
             if (i <= j) {
                   //swap
