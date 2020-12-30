@@ -20,6 +20,7 @@ class Function
   {
     // this functons adds two numbers
     int sum = x + y;
+// print the sum 
     Console.System.print(sum);
   }
   // subtract function
