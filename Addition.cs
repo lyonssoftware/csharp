@@ -20,6 +20,8 @@ public class Addition
     int f = 1;
     // intialize the int g to 8
     int g = 8;
+// new int 
+Int z = 45;
       
     int h = 10;
 
