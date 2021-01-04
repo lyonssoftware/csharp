@@ -50,5 +50,6 @@ Int h = 24;
     Console.wtiteline (i+g+e+c+b+a);  
     // print the sum of 67 + 8 + 9 + 7 + 3 + 5 = 99
     Console.wtiteline (i+g+e+c+b+a);
+// add new numbers 
   }
 } // end of the program
