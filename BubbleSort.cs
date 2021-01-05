@@ -16,11 +16,11 @@ public class BubbleSort
          
       // for loop to sort through the array
          for (j=N-1; j>0; j--) {
-               // iterate through the next level
+            // iterate through the next level
             for (i=0; i<j; i++) {
-                  // check the value of the 
+               // check the current value of the  array with the adjacent value of array
                if (data [i] > data [i + 1])
-                     // if current is greater than adjaceby swap
+                  // if current is greater than swap the two elements
                   exchange (data, i, i + 1);
             }
          } // end of program
