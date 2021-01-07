@@ -17,7 +17,8 @@ class ForEach
     // another person
     list.Add("Another person");
      // add the name "Last Person" to the ArrayList
-    
+      list.Add("Chris Poet");
+     // add the name "Last Person" to the ArrayList
     list.Add("Person");
      // add the name "Last Person" to the ArrayList
     
