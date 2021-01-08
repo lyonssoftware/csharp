@@ -37,6 +37,8 @@ Class Multiplication
         // set the int f to 7
         int f = 7;
         
+        int z = p - s;
+        
         //multiple the variables 
         Console.WriteLine(x*y);
         // multiply 3 by -1 = -3
