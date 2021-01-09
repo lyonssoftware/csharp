@@ -13,14 +13,12 @@ class SelectionSort
          int[] array2 = new int[10] { 100, 50, 20, 40, 10, 60, 80, 70, 90, 30 };
         // initialize the array 3
          int[] array3 = new int[10] { 10, 50, 205, 39, 10, 67, 80, 78, 90, 30 };
-        
-        
+        // initialize the arry 4 
          int[] array4 = new int[10] { 18, 50, 25, 39, 19, 657, 80, 78, 902, 32 };
-        
+         // initialize the arry 5
+         int[] array5 = new int[10] { 3, 5, 25, 3, 19, 7, 8, 78, 2, 32 };
         
         // print the below array 
-        
-        
         Console.WriteLine("The Array Before Selection Sort is: ");
         // for loop to iterate through the array
         for (int i = 0; i < array_size; i++)
