@@ -19,6 +19,8 @@ class ForEach
      // add the name "Last Person" to the ArrayList
       list.Add("Chris Poet");
      // add the name "Last Person" to the ArrayList
+    list.Add("Tom");
+     // add the name "Last Person" to the ArrayList
     list.Add("Person");
      // add the name "Last Person" to the ArrayList
     
