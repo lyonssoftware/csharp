@@ -24,7 +24,9 @@ class LowerUpper
     // set the value 
     stringArray.SetValue("Lemon", 7); 
     // set the value 
-    stringArray.SetValue("Lime", 6);
+    stringArray.SetValue("Lime", 8);
+     // set the value 
+    stringArray.SetValue("Banana", 8);
     
     //print "the lower" 
             Console.WriteLine("The Lower Bound of the Array : {0}",stringArray.GetLowerBound(0).ToString());
