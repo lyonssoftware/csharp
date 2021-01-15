@@ -17,6 +17,8 @@ class SelectionSort
          int[] array4 = new int[10] { 18, 50, 25, 39, 19, 657, 80, 78, 902, 32 };
          // initialize the arry 5
          int[] array5 = new int[10] { 3, 5, 25, 3, 19, 7, 8, 78, 2, 32 };
+         // initialize the array 6
+         int[] array6 = new int[10] { 33, 25, 245, 13, 89, 73, 83, 18, 32, 82 };
         
         // print the below array 
         Console.WriteLine("The Array Before Selection Sort is: ");
