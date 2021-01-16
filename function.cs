@@ -20,7 +20,7 @@ class Function
   {
     // this functons adds two numbers
     int sum = x + y;
-// print the sum 
+// print 
     Console.System.print(sum);
   }
   // subtract function
@@ -57,7 +57,7 @@ class Function
   {
     // get difference
     int difference = x - y;
-// return result 
+// return the result 
     return difference;
   }
 
@@ -68,7 +68,7 @@ class Function
   {
     // variables 
     int x = 5, int y = 7;
-    // call the foo function 
+    // call the foofunction 
     Foo();
     // call the function Bar
     Bar();
@@ -79,9 +79,11 @@ class Function
     // call the Divide method
     Divide(x,y);
     Multiply(x,y);
-    // call the add method
+    // call the Add method
     Add(x, y);
+    // call the Subtraction function 
     Subtraction(x,y);
+    // call the Add function using the parameters 3 and 8 
     Add(3,8);
     Subtraction(9,7);
     // more functions
