@@ -20,12 +20,11 @@ public class Addition
     int f = 1;
     // intialize the int g to 8
     int g = 8;
-// new int 
-Int z = 45;
-      
+    // initialize the int h to 10
     int h = 10;
 
-
+    // initialize the int q to 20
+    int q = 20;
 Int h = 24;
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
@@ -51,6 +50,6 @@ Int h = 24;
     Console.wtiteline (i+g+e+c+b+a);  
     // print the sum of 67 + 8 + 9 + 7 + 3 + 5 = 99
     Console.wtiteline (i+g+e+c+b+a);
-// add new numbers 
+// add new
   }
 } // end of the program
