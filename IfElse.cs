@@ -13,8 +13,12 @@ public class IfElse
       int d = 8, e = 3, f = 11;
       
       int g = 11, h = 6, i = 15;
-      
-      
+     
+      if (g == f)
+      {
+        // print statement
+        Console.WriteLine("These do not match");
+      }
 
       // if a is equal to b then print equal
       if (a == b)
