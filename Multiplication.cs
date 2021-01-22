@@ -38,6 +38,7 @@ Class Multiplication
         int f = 7;
         
         int z = p - s;
+        int u = 105;
         
         //multiple the variables 
         Console.WriteLine(x*y);
