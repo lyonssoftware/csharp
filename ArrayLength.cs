@@ -24,5 +24,6 @@ class ArrayLength
         Console.WriteLine("The Size of 2D Array is : {0}",twoD.Length);
         // read the last line
         Console.ReadLine();
+// end the read 
     } // end of the program
 }
