@@ -12,7 +12,7 @@ class ArrayLength
         // print the array and the length
         Console.WriteLine("Length of ArrayA : {0}", +lengthA); 
         // set the array length 
-        
+        // print the length 
           Console.WriteLine("Length of ArrayB : {0}", +lengthB); 
         
         
