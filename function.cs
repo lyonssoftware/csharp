@@ -49,7 +49,7 @@ class Function
   {
 // set the sum of the two ints 
     int sum = x + y;
-    // returnt the sum
+    // return the int value sum 
     return sum;
   }
   // return an int value
