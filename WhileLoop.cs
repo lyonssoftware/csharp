@@ -8,6 +8,7 @@ public class WhileLoop
       // int to hold the counter
       int i = 5;
       int f = 0;
+      int s = 0;
       // while the count is larger than 0
       while(i > 0)
       { 
