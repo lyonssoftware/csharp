@@ -30,6 +30,7 @@ public class IfElse
         Console.WriteLine(b);
 // check it
       // if statement 
+// check the status
       if ((a >= c) && (b <= c))
         // is a is greater and b is smaller than c
         Console.WriteLine(c);
