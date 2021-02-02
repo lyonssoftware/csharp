@@ -13,12 +13,13 @@ namespace check1
 // main function
         static void Main(string[] args)
         {
-// initialize the int i = 0;
+            // initialize the int i = 0;
             int i = 0;
-// read the number 
+            // read the first int 
             Console.Write("Enter a Number : ");
-         // get the number from user
+            // get the number from user
             i = int.Parse(Console.ReadLine());
+            // check if int is even or odd
             if (i % 2 == 0)
             {
                
