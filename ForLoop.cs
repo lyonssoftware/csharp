@@ -4,13 +4,13 @@ class ForLoop
   // main function
   public static void main()
   {
-    // incrementing for loop
+    // increment the for loop by one and print statement
     for(int i = 0; i < 10; i++)
     {
       // print the statement "this is a increment for a loop
        Console.WriteLine("This is an increment for loop.");
     }
-    // For loop to print number from int 10 to 0 
+      // For loop to print number from int 10 to 0 
     for(int i = 10; i > 0; i--)
     {
       // print the numbers 1-10
