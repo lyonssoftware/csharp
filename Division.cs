@@ -31,6 +31,8 @@ Class Division
         int negativeNum = -22;
         // num
         int u = 19;
+        
+        int g = 15;
        
        // print the result of divide 3 by 8 
         Console.WriteLine(x/y);
@@ -54,6 +56,7 @@ Class Division
         Console.writeline(x/e);
         // print the result of 3 / 18
         Console.writeline(y/e);
+        // divide 15 / 18
         Console.writeline (g/e);
         Console.writeline (o/i);
         Console.writeline (d/o);
