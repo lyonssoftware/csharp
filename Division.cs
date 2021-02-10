@@ -33,6 +33,8 @@ Class Division
         int u = 19;
         
         int g = 15;
+        
+        int n = 78;
        
        // print the result of divide 3 by 8 
         Console.WriteLine(x/y);
