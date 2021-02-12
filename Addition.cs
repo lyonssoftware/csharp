@@ -24,6 +24,8 @@ public class Addition
     int h = 10;
       // iniy 
       int k = 32;
+      
+      int o = 65;
 
     // initialize the int q to 20
     int q = 20;
