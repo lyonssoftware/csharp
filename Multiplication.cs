@@ -40,6 +40,10 @@ Class Multiplication
         int z = p - s;
         int u = 105;
         
+        int b = 35;
+        
+        
+        
         //multiple the variables 
         Console.WriteLine(x*y);
         // multiply 3 by -1 = -3
