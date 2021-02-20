@@ -50,6 +50,7 @@ public class Array
       // print thefirst element 
       Console.WriteLine(array[0]);
       Console.WriteLine(array[1]);
+// print the element 
       Console.WriteLine(array[2]);
       Console.WriteLine(array[3]);
       Console.WriteLine(array[4]);
