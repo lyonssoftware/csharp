@@ -15,6 +15,9 @@ public class ArrayList
       // add 12 to the current array list
       mmyArrayList.Add(12);
       
+         // add 12 to the current array list
+      mmyArrayList.Add(89);
+      
       // add number 13 to the array list
       myArrayList.AddmyArrayList.Add(13);
       
