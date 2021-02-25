@@ -38,6 +38,8 @@ Class Multiplication
         int f = 7;
         
         int z = p - s;
+        
+        // initialize the int variable
         int u = 105;
         
         int b = 35;
