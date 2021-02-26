@@ -1,17 +1,19 @@
-// Example of array sort in C#
+// Example of array sort in C# 
 using System;
 class ArraySort
 {
     static void Main()
     {
-        //create an array of 5 strings for colors
+        // create an array of 7 strings for colors
         string[] colors = new string[]
         {
-            "orange",
-            "blue",
-            "yellow",
-            "aqua",
-            "red"
+            "Orange",
+            "Purple",
+            "Blue",
+            "Yellow",
+            "Aqua",
+            "Hazel",
+            "Red"
         };
         
         // Call Array.Sort method.
