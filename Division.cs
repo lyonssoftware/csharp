@@ -31,8 +31,9 @@ Class Division
         int negativeNum = -22;
         // num
         int u = 19;
-        
+        // set the int g to 15
         int g = 15;
+        // set the int m to 6 
         int m = 6;
         int n = 78;
        
