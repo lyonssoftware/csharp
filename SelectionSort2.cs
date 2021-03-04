@@ -16,10 +16,11 @@ class SelectionSort
         // create new array from array size
         int[] array3 = new int[10] { 115, 15, 27, 48, 90, 60, 59, 48, 34, 30 };  
         
-             // create new array from array size
+        // create new array from array size
         int[] array4 = new int[10] { 1, 15, 27, 8, 90, 60, 9, 48, 34, 3 };  
         
-        
+        // create new array from array size
+        int[] array5 = new int[10] { 8, 32, 27, 64, 90, 83, 9, 42, 34, 36 }; 
         
         Console.WriteLine("The Array Before Selection Sort is: ");
         // for loop to print out the array list
