@@ -25,7 +25,7 @@ class LowerUpper
     stringArray.SetValue("Lemon", 7); 
     // set the value 
     stringArray.SetValue("Lime", 8);
-     // set the value 
+     // set the value to banana
     stringArray.SetValue("Banana", 9);
 
 stringArray.SetValue("Apricot", 10);
