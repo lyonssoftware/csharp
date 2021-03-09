@@ -5,12 +5,12 @@ class UpperLower
   static void Main(string[] args)
   {
     // create an array
-    Array stringArray = Array.CreateInstance(typeof(String), 7);
+    Array stringArray = Array.CreateInstance(typeof(String), 8);
     // set the value of the first array to "Mango"
     stringArray.SetValue("Mango", 0);
     // set array of the second item 
     stringArray.SetValue("Orange", 1);
-    // set the value
+    // set the value of the third element to Apple
     stringArray.SetValue("Apple", 2);
     // set the value of the 
     stringArray.SetValue("Grape", 3);
@@ -20,6 +20,8 @@ class UpperLower
     stringArray.SetValue("Black Berry", 5);
     // set value of the array 
     stringArray.SetValue("Banana", 6);
+    // set value of the array 
+    stringArray.SetValue("Banana", 7);
     
     
   // print the lower bound of the array 
