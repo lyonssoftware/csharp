@@ -17,6 +17,9 @@ class InsertionSort
         // this is the unsorted array [69,56,77,44,8,0,111,566
         int[] num4 = { 92, 69, 10, 44, 8, 0, 21, 596 };
         
+        // this is the unsorted array [69,56,77,44,8,0,111,566
+        int[] num5 = { 92, 69, 10, 44, 8, 0, 21, 596 };
+        
         // setup the forloop based on the length of the array
         for (int i = 1; i < num.Length; i++)
         {
