@@ -6,6 +6,7 @@ class Sum
   {
     // initialize the three variables
     int num, sum = 0, r;
+    // ask the user to input int number 
     Console.WriteLine("Enter a Number : ");
     // read the int from the user
     
@@ -24,7 +25,7 @@ class Sum
     // print the line Sum of Digits of the Number : sum
       Console.WriteLine("Sum of Digits of the Number : "+ sum);
     // read the next line of the program
-    Console.ReadLine();
+      Console.ReadLine();
     // end
   }
   // end of the program
