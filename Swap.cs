@@ -10,6 +10,9 @@ public class Swap
     int b = 3;
       
     int c = 9;
+      
+    int d = 91;
+      
     // the swap variable
     int swap = 0;
     // print the origianl value of variable a
