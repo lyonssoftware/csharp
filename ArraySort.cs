@@ -13,6 +13,7 @@ class ArraySort
             "Yellow",
             "Aqua",
             "Hazel",
+            "Cyan",
             "Red"
         };
         
