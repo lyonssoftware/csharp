@@ -22,6 +22,8 @@ public class BubbleSort
                if (data [i] > data [i + 1])
                   // if current is greater than swap the two elements
                   exchange (data, i, i + 1);
+                  
+                 // end 
             }
          } // end of program
       }
