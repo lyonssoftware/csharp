@@ -13,14 +13,13 @@ public class ArrayList
       // add the integer 56 to the ArrayList
       myArrayList.Add(56);
       // add 12 to the current array list
-      mmyArrayList.Add(12);
-      
-         // add 12 to the current array list
-      mmyArrayList.Add(89);
-      
+      myArrayList.Add(12);
+      // add 12 to the current array list
+      myArrayList.Add(89);      
        // add 12 to the current array list
-      mmyArrayList.Add(61);
-      
+      myArrayList.Add(61);  
+      // add 40 to the current array list
+      myArrayList.Add(40); 
       // add number 13 to the array list
       myArrayList.AddmyArrayList.Add(13);
       
