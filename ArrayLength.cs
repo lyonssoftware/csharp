@@ -4,9 +4,12 @@ class ArrayLength
     // main 
     static void Main()
     {
-        // intitialize the int array with five slots
+        // intitialize the int array with five elements
         int[] arrayA = new int[5];
-         int[] arrayB = new int[10];
+        // intitialize the int array with ten elements
+        int[] arrayB = new int[10];
+        // intitialize the int array with five elements
+         int[] arrayC = new int[15];
         // get the length of the stay 
         int lengthA = arrayA.Length;
         // print the array and the length
