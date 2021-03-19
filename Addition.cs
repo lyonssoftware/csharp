@@ -25,6 +25,8 @@ public class Addition
       // iniy 
       int k = 32;
       
+int s = 14;
+
       int o = 65;
 
     // initialize the int q to 20
