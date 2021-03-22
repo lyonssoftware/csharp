@@ -11,8 +11,13 @@ public class IfElse
       int a = 5, b = 5, c = 10;
       // initalize variables
       int d = 8, e = 3, f = 11;
-           // initalize variables
+      // initalize variables
       int g = 11, h = 6, i = 15;
+      
+      // initalize variables
+      int j = 11, k = 6, l = 15;
+      
+      
      
       if (g == f)
       {
