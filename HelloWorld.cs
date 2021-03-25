@@ -9,6 +9,7 @@ public class HelloWord
       // print the statement "Hello, World!"
       System.Console.WriteLine("Hello, World!");
       // print the second statement"My name is Bob
+// print a name like Bob
       System.Console.WriteLine("My name is Bob.");
    } // end of the program 
 }
