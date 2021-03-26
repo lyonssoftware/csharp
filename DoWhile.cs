@@ -6,7 +6,8 @@ public class DoWhile
    public static void Main()
    {
     // set the count to 3
-    int x = 3;
+    int x = 8;
+    int Y = 2;
 int d = 6;
       // execute the action at least once 
       do 
