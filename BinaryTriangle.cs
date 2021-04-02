@@ -9,7 +9,6 @@ class BinaryTriangle
  // main function
         public static void Main(String[] args)
         {
-// set the cord 
          // int variables
             int p, lastInt = 0, input;
          // get the number of rows
@@ -19,11 +18,13 @@ class BinaryTriangle
             // for loop to iterate through loop
             for (int i = 1; i <= input; i++)
             {
+// set the cord 
                 // for loop to iterate
                 for (p = 1; p <= i; p++)
                 {
                  // if you are at the last int  
                     if (lastInt == 1)
+                     // the last int
                     {
                      // print the current 
                         Console.Write("0");
@@ -33,12 +34,12 @@ class BinaryTriangle
                  // find the last int
                     else if (lastInt == 0)
                     {
+ // print
                         Console.Write("1");
                         lastInt = 1;
                     }
                 } Console.Write("\n");
             }
-// print 
             Console.ReadLine();
         } 
     } // end of program 
