@@ -23,6 +23,8 @@ class SelectionSort
          int[] array7 = new int[10] { 93, 27, 65, 19, 28, 49, 32, 18, 32, 82 };
          // initialize the array 8
          int[] array8 = new int[10] { 7, 43, 65, 19, 103, 93, 32, 78, 39, 12 };
+        // initialize the array 9
+         int[] array9 = new int[10] { 7, 43, 65, 19, 103, 93, 32, 78, 39, 12 };
         
         // print the below array 
         Console.WriteLine("The Array Before Selection Sort is: ");
