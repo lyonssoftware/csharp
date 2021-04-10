@@ -5,6 +5,7 @@ class InsertionSort
 // main function
     private static void Main(string[] args)
     {
+// create the way
         // this is the unsorted array [69,56,77,44,8,0,111,566
         int[] num = { 69, 56, 77, 44, 8, 0, 111, 566 };
         
