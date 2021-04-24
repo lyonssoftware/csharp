@@ -39,12 +39,12 @@ Class Division
         int n = 78;
         // set the int z to 55
         int z = 55;
+// new int 
         
          // set the int w to 42
         int w = 42;
-
-// new int 
-Int c = 78;
+        
+        int m = 101;
        
        // print the result of divide 3 by 8 
         Console.WriteLine(x/y);
