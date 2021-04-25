@@ -24,14 +24,16 @@ public class Addition
     int h = 10;
       // iniy 
       int k = 32;
+      
+      int v = 98;
 
 int s = 45;
-
-int l = 38;
       
       int o = 65;
       
       int m = k;
+
+int l = 38;
 
     // initialize the int q to 20
     int q = 20;
@@ -63,4 +65,3 @@ Int h = 24;
 // add new
   }
 } // end of the program
-
