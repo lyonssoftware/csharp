@@ -40,7 +40,7 @@ Class Division
         // set the int z to 55
         int z = 55;
 // new int 
-        
+        int r = 51;
          // set the int w to 42
         int w = 42;
         
