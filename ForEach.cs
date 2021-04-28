@@ -29,6 +29,9 @@ class ForEach
      // add the name "Last Person" to the ArrayList
      list.Add("Anderson");
     
+    // add the name "Last Person" to the ArrayList
+     list.Add("Michaelson");
+    
 // new line for 
     
     list.Add("Second to Last");
