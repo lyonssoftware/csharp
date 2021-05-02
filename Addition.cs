@@ -26,6 +26,8 @@ public class Addition
       int k = 32;
       
       int v = 98;
+      
+      int y = 15;
 
 int s = 45;
       
