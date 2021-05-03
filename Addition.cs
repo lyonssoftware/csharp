@@ -28,6 +28,8 @@ public class Addition
       int v = 98;
       
       int y = 15;
+      
+      int rr = 295;
 
 int s = 45;
       
