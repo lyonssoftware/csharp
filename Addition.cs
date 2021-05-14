@@ -44,6 +44,8 @@ int l = 38;
       int pp = 989;
       
       int u = 52;
+      
+      int zz = 15;
 
     // initialize the int q to 20
     int q = 20;
