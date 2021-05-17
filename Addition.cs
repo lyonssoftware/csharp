@@ -29,6 +29,8 @@ public class Addition
       
       int y = 15;
       
+      int kk = 324;
+      
       int rr = 295;
       
       int tt = 39;
