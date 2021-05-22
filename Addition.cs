@@ -40,6 +40,8 @@ int cc =69;
 
 int s = 45;
       
+      
+      int oo = 0;
       int o = 65;
       
       int m = k;
