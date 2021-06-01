@@ -52,6 +52,8 @@ int l = 38;
       
       int qq = 48;
       
+      int rr = 689;
+      
       int u = 52;
       
       int yy = 29;
