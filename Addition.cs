@@ -38,6 +38,8 @@ int cc =69;
       
       int rr = 295;
       
+      int oo = 19;
+      
       int tt = 39;
 
 int s = 45;
