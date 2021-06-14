@@ -49,6 +49,8 @@ int s = 45;
       int o = 65;
       int mm = 92;
       
+      int nn = 29;
+      
       int m = k;
 
 int l = 38;
