@@ -49,6 +49,8 @@ int s = 45;
       int o = 65;
       int mm = 92;
       
+      int ot = 78;
+      
       int hl = 98;
       
       int nn = 29;
