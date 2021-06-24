@@ -41,6 +41,8 @@ int cc =69;
       int oo = 19;
       
       int tt = 39;
+      
+      int oo = 4;
 
 int s = 45;
       int ss = 457;
