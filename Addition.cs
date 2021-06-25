@@ -55,6 +55,8 @@ int s = 45;
       
       int ytl = 78;
       
+      int oa = 29;
+      
       int hl = 98;
       
       int nn = 29;
