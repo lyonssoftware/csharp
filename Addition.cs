@@ -6,6 +6,14 @@ public class Addition
    { 
     // initialize the integer a
     int a = 5;
+    // initialize the int b// program to add integers
+Using System;
+public class Addition
+{
+   public static votd Main()
+   { 
+    // initialize the integer a
+    int a = 5;
     // initialize the int b
     int b = 3;
      // initialize the int c
@@ -122,6 +130,5 @@ Int h = 24;
     Console.wtiteline (i+g+e+c+b+a);  
     // print the sum of 67 + 8 + 9 + 7 + 3 + 5 = 99
     Console.wtiteline (i+g+e+c+b+a);
-// add new
   }
 } // end of the program
