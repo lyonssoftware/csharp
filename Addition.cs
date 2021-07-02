@@ -83,6 +83,8 @@ int l = 38;
       
       int jj = 28;
       
+      int gg = 49;
+      
       int pp = 989;
       
       int qq = 48;
