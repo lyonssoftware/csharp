@@ -18,6 +18,8 @@ public class Addition
     int b = 3;
      // initialize the int c
     int c = 7;
+
+int cc = 14;
      // initialize the int d
     int d = 2;
     // initialize the int i 
