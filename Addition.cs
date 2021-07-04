@@ -7,21 +7,12 @@ public class Addition
     // initialize the integer a
     int a = 5;
     // initialize the int b// program to add integers
-Using System;
-public class Addition
-{
-   public static votd Main()
-   { 
-    // initialize the integer a
-    int a = 5;
-    // initialize the int b
-    int b = 3;
-     // initialize the int c
-    int c = 7;
 
 int cc = 14;
      // initialize the int d
     int d = 2;
+      
+      int dd = 4;
     // initialize the int i 
     int i = 67;
       // intialize the int e to 9 
