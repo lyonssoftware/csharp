@@ -25,6 +25,8 @@ int cc = 14;
     int h = 10;
       // iniy 
       int k = 32;
+
+int kk = 64;
       
       int vv = 45;
       int v = 98;
