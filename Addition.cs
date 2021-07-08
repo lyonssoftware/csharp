@@ -6,6 +6,8 @@ public class Addition
    { 
     // initialize the integer a
     int a = 5;
+
+int as = 10;
     // initialize the int b// program to add integers
 
 int cc = 14;
