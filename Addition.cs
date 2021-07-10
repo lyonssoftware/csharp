@@ -21,6 +21,8 @@ int cc = 14;
     int e = 9; 
     // intialize the int f to 1
     int f = 1;
+      
+      int ff = 2;
     // intialize the int g to 8
     int g = 8;
     // initialize the int h to 10
@@ -28,7 +30,7 @@ int cc = 14;
       // iniy 
       int k = 32;
 
-int kk = 64;
+Int kk = 67;
       
       int vv = 45;
       int v = 98;
