@@ -27,6 +27,8 @@ int cc = 14;
     int g = 8;
     // initialize the int h to 10
     int h = 10;
+      
+      int hh = 20;
       // iniy 
       int k = 32;
 
