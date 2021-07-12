@@ -19,6 +19,8 @@ int cc = 14;
     int i = 67;
       // intialize the int e to 9 
     int e = 9; 
+      
+      int ee = 18;
     // intialize the int f to 1
     int f = 1;
       
