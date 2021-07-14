@@ -34,12 +34,14 @@ int cc = 14;
       // iniy 
       int k = 32;
 
-Int kk = 67;
+int kk = 67;
       
       int vv = 45;
       int v = 98;
       
       int l = 19;
+      
+      int ll = 98;
 
       int vv = 932;
 int cc =69;
