@@ -7,8 +7,9 @@ public class Addition
     // initialize the integer a
     int a = 5;
 
-int as = 10;
+    int aa = 10;
     // initialize the int b// program to add integers
+    int bb = 30;
 
 int cc = 14;
      // initialize the int d
