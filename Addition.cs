@@ -28,6 +28,8 @@ int cc = 14;
       int ff = 2;
     // intialize the int g to 8
     int g = 8;
+      
+      int gg = 16;
     // initialize the int h to 10
     int h = 10;
       
