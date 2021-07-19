@@ -15,6 +15,7 @@ class ArraySort
             "Hazel",
             "Cyan",
             "Green",
+            "Pink",
             "Red"
         };
         
