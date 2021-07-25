@@ -118,6 +118,8 @@ int l = 38;
       
       int ff = 5;
       
+      int hg = 89;
+      
       int uu = 67;
       
       int xx = 31;
@@ -128,7 +130,7 @@ int l = 38;
 
     // initialize the int q to 20
     int q = 20;
-    int h = 24;
+Int h = 24;
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the sum of 7 + 2 = 9
