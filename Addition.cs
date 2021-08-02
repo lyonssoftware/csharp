@@ -9,7 +9,9 @@ public class Addition
 
     int aa = 10;
     // initialize the int b// program to add integers
-    int bb = 30;
+   int b = 15;
+
+ int bb = 30;
 
 int cc = 14;
      // initialize the int d
