@@ -8,12 +8,12 @@ public class Addition
     int a = 5;
 
     int aa = 10;
+    int b = 15;
     // initialize the int b// program to add integers
-   int b = 15;
+    int bb = 30;
+      int c = 7;
 
- int bb = 30;
-
-int cc = 14;
+   int cc = 14;
      // initialize the int d
     int d = 2;
       
