@@ -25,6 +25,8 @@ public class Addition
       // intialize the int e to 9 
     int e = 9; 
       
+      int j = 23;
+      
       int ee = 18;
     // intialize the int f to 1
     int f = 1;
