@@ -17,6 +17,8 @@ public class Addition
      // initialize the int d
     int d = 2;
       
+
+int y =4;
       int dd = 4;
     // initialize the int i 
     int i = 67;
