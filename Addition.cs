@@ -17,8 +17,6 @@ public class Addition
      // initialize the int d
     int d = 2;
       
-
-int y =4;
       int dd = 4;
     // initialize the int i 
     int i = 67;
@@ -91,6 +89,8 @@ int s = 45;
       int oa = 29;
       
       int yo = 68;
+
+int d = 56;
       
       int hl = 98;
       
@@ -169,5 +169,9 @@ int l = 38;
     Console.wtiteline (i+g+e+c+b+a);  
     // print the sum of 67 + 8 + 9 + 7 + 3 + 5 = 99
     Console.wtiteline (i+g+e+c+b+a);
+      
+       Console.wtiteline (aa+bb+cc+dd);
+      
+      
   }
 } // end of the program
