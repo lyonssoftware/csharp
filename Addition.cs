@@ -172,6 +172,9 @@ int l = 38;
       
        Console.wtiteline (aa+bb+cc+dd);
       
+      // print
+      Console.wtiteline (bb+ee+ii+dd);
+      
       
   }
 } // end of the program
