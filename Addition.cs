@@ -168,12 +168,16 @@ int l = 38;
     // print the sum of 67 + 8 + 9 + 7 + 3 + 5 = 99
     Console.wtiteline (i+g+e+c+b+a);  
     // print the sum of 67 + 8 + 9 + 7 + 3 + 5 = 99
-    Console.wtiteline (i+g+e+c+b+a);
+    Console.writeline (i+g+e+c+b+a);
       
-       Console.wtiteline (aa+bb+cc+dd);
+       Console.writeline (aa+bb+cc+dd);
       
       // print
       Console.wtiteline (bb+ee+ii+dd);
+      
+       
+      // print
+      Console.wtiteline (ee+aa+gg+dd);
       
       
   }
