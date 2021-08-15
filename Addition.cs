@@ -13,6 +13,8 @@ public class Addition
     int bb = 30;
       int c = 7;
 
+int df = 75;
+
    int cc = 14;
      // initialize the int d
     int d = 2;
