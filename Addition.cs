@@ -13,8 +13,6 @@ public class Addition
     int bb = 30;
       int c = 7;
 
-int df = 75;
-
    int cc = 14;
      // initialize the int d
     int d = 2;
@@ -22,6 +20,7 @@ int df = 75;
       int dd = 4;
     // initialize the int i 
     int i = 67;
+ int kj = 18;
       
       int ii = 134;
       // intialize the int e to 9 
@@ -70,6 +69,8 @@ int cc =69;
       int tt = 39;
       
       int yyu = 24;
+
+   int df = 108;
       
       int oo = 4;
 
@@ -179,6 +180,10 @@ int l = 38;
     Console.wtiteline (ee+aa+gg+dd);  
     // print the sum of 
     Console.wtiteline (bb+k+ii+l);  
+    // print the sum of 
+    Console.wtiteline (cc+kk+dd); 
+    // print the sum of 
+    Console.wtiteline (aa+kk+dd+ii+bb); 
     // print the sum of 
     Console.wtiteline (cc+kk+dd); 
     // print the sum of 
