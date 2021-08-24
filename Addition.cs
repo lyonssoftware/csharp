@@ -13,6 +13,8 @@ public class Addition
     int bb = 30;
       int c = 7;
 
+    int s = 67;
+
    int cc = 14;
      // initialize the int d
     int d = 2;
@@ -21,8 +23,6 @@ public class Addition
     // initialize the int i 
     int i = 67;
  int kj = 18;
-
-   int s = 67;
       
       int ii = 134;
       // intialize the int e to 9 
@@ -54,6 +54,8 @@ int kk = 67;
       int l = 19;
       
       int ll = 98;
+      
+      int lll = 39;
 
       int vv = 932;
 int cc =69;
