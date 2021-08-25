@@ -30,6 +30,9 @@ public class Addition
       
       int j = 23;
       
+      int jj = 83; 
+      
+     
       int ee = 18;
     // intialize the int f to 1
     int f = 1;
