@@ -226,6 +226,8 @@ int l = 38;
       // print the sum of 
      Console.wtiteline (aa+bb); 
     // print the sum of   
-     Console.wtiteline (cc+dd); 
+     Console.wtiteline (dd); 
+            // print the sum of 
+     Console.wtiteline (aa+bb+cc+dd); 
   }
 } // end of the program
