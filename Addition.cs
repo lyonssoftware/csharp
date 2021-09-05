@@ -6,11 +6,13 @@ public class Addition
    { 
     // initialize the integer a
     int a = 5;
-
+    // initialize the integer aa
     int aa = 10;
+    // initialize the integer b
     int b = 15;
     // initialize the int b// program to add integers
     int bb = 30;
+    //
       int c = 7;
 
     int s = 67;
