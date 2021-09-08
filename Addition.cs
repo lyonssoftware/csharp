@@ -20,11 +20,12 @@ public class Addition
     int cc = 14;
     // initialize the int d
     int d = 2;
-      
-      int dd = 4;
+    // initialize the int dd
+    int dd = 4;
     // initialize the int i 
     int i = 67;
- int kj = 18;
+    // initialize the int kj
+    int kj = 18;
       
       int ii = 134;
       // intialize the int e to 9 
