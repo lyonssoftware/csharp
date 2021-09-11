@@ -31,12 +31,11 @@ public class Addition
     // intialize the int e to 9 
     int e = 9; 
     // intialize the int j to 23
-      int j = 23;
-      
-      int jj = 83; 
-      
-     
-      int ee = 18;
+    int j = 23;
+    // intialize the int jj to 83 
+    int jj = 83; 
+    // intialize the int ee to 10
+    int ee = 18;
     // intialize the int f to 1
     int f = 1;
       
