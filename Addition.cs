@@ -39,11 +39,11 @@ public class Addition
     // intialize the int f to 1
     int f = 1;
     // intialize the int ff to 2
-      int ff = 2;
+    int ff = 2;
     // intialize the int g to 8
     int g = 8;
-      
-      int gg = 16;
+    // intialize the int gg to 16
+    int gg = 16;
     // initialize the int h to 10
     int h = 10;
       
