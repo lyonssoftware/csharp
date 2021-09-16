@@ -46,11 +46,11 @@ public class Addition
     int gg = 16;
     // initialize the int h to 10
     int h = 10;
-      
-      int hh = 20;
-      // iniy 
-      int k = 32;
-
+    // initialize the int hh to 10
+    int hh = 20;
+    // initialize the int k to 32
+    int k = 32;
+    // initialize the int kk to 67
 int kk = 67;
       
       int vv = 45;
