@@ -51,10 +51,11 @@ public class Addition
     // initialize the int k to 32
     int k = 32;
     // initialize the int kk to 67
-int kk = 67;
-      
-      int vv = 45;
-      int v = 98;
+    int kk = 67;
+    // initialize the int vv to 45 
+    int vv = 45;
+    // initialize the int v to 98
+    int v = 98;
       
       int l = 19;
       
