@@ -56,9 +56,9 @@ public class Addition
     int vv = 45;
     // initialize the int v to 98
     int v = 98;
-      
-      int l = 19;
-      
+    // initialize the int l to 19
+    int l = 19;
+    // initialize the int ll to 98
       int ll = 98;
       
       int lll = 39;
