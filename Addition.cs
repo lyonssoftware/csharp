@@ -59,12 +59,13 @@ public class Addition
     // initialize the int l to 19
     int l = 19;
     // initialize the int ll to 98
-      int ll = 98;
-      
-      int lll = 39;
-
-      int vv = 932;
-int cc =69;
+    int ll = 98;
+    // initialize the int lll to 39
+    int lll = 39;
+    // initialize the int vv to 932
+    int vv = 932;
+    // initialize the int cc to 69
+    int cc = 69;
       
       int y = 15;
       
