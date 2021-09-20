@@ -66,10 +66,10 @@ public class Addition
     int vv = 932;
     // initialize the int cc to 69
     int cc = 69;
-      
-      int y = 15;
-      
-      int yy = 30;
+    // initialize the int y to 15
+    int y = 15;
+    // initialize the int yy to 30 
+    int yy = 30;
       
       int kk = 324;
       
