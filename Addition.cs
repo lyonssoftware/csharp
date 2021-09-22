@@ -74,7 +74,7 @@ public class Addition
     int kk = 324;
     // initialize the int rr to 30 
     int rr = 30;
-      
+    // initialize the int oo to 19
       int oo = 19;
       
       int tt = 39;
