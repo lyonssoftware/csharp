@@ -75,11 +75,11 @@ public class Addition
     // initialize the int rr to 30 
     int rr = 30;
     // initialize the int oo to 19
-      int oo = 19;
-      
-      int tt = 39;
-      
-      int yyu = 24;
+    int oo = 19;
+    // initialize the int tt to 39
+    int tt = 39;
+    // initialize the int yyu to 24  
+    int yyu = 24;
 
    int df = 108;
       
