@@ -80,9 +80,9 @@ public class Addition
     int tt = 39;
     // initialize the int yyu to 24  
     int yyu = 24;
-
+    // initialize the int df to 108
    int df = 108;
-      
+   // initialize the int yyu to 24 
       int oo = 4;
 
 int s = 45;
