@@ -88,8 +88,9 @@ public class Addition
    int s = 45;
    // initialize the int ss to 457
    int ss = 457;
-      
-      int oo = 0;
+   // initialize the int oo to 0
+   int oo = 0;
+   // initialize the int o to 65
       int o = 65;
       int mm = 92;
       
