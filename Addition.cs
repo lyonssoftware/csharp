@@ -91,10 +91,11 @@ public class Addition
    // initialize the int oo to 0
    int oo = 0;
    // initialize the int o to 65
-      int o = 65;
-      int mm = 92;
-      
-      int ot = 78;
+   int o = 65;
+   // initialize the int mm to 92
+   int mm = 92;
+   // initialize the int ot to 78
+   int ot = 78;
       
       int lk = 64;
       
