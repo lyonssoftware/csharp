@@ -96,12 +96,12 @@ public class Addition
    int mm = 92;
    // initialize the int ot to 78
    int ot = 78;
-      
-      int lk = 64;
-      
-      int jl = 29;
-      
-      int ytl = 78;
+   // initialize the int lk to 64
+   int lk = 64;
+   // initialize the int jl to 29 
+   int jl = 29;
+   // initialize the int ytl to 78
+   int ytl = 78;
       
       int oa = 29;
       
