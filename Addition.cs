@@ -108,9 +108,9 @@ public class Addition
    int yo = 68;
    // initialize the int d to 56
    int d = 56;
-      
-      int hl = 98;
-      
+   // initialize the int hl to 98
+   int hl = 98;
+   // initialize the int nn to 29
       int nn = 29;
       
       int m = k;
