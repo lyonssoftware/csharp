@@ -118,9 +118,9 @@ public class Addition
    int l = 38;
    // initialize the int ll to 89   
    int ll = 89;
-      
-      int jj = 28;
-      
+   // initialize the int jj to 28      
+   int jj = 28;
+   // initialize the int jjj to 56      
       int jjj = 56;
       
       int gg = 49;
