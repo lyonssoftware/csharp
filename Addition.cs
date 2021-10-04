@@ -121,12 +121,11 @@ public class Addition
    // initialize the int jj to 28      
    int jj = 28;
    // initialize the int jjj to 56      
-      int jjj = 56;
-      
-      int gg = 49;
-// initialize
-      
-      int pp = 989;
+   int jjj = 56;
+   // initialize the int gg to 49   
+   int gg = 49;
+   // initialize the int pp to 989 
+   int pp = 989;
       
       int qq = 48;
       
