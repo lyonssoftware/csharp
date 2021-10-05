@@ -126,13 +126,13 @@ public class Addition
    int gg = 49;
    // initialize the int pp to 989 
    int pp = 989;
-      
-      int qq = 48;
-      
-      int ee = 33; 
-      
-      ubt kc = 18;
-      
+   // initialize the int pp to 989 
+   int qq = 48;
+   // initialize the int ee to 33    
+   int ee = 33; 
+   // initialize the int kc to 18    
+   int kc = 18;
+   // initialize the int ww to 38   
       int ww = 38;
       
       int rr = 689;
@@ -234,7 +234,7 @@ public class Addition
      Console.wtiteline (aa+bb); 
     // print the sum of   
      Console.wtiteline (dd); 
-      // print the sum of 
+            // print the sum of 
      Console.wtiteline (aa+bb+cc+dd); 
   }
 } // end of the program
