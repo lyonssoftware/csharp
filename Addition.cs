@@ -133,11 +133,11 @@ public class Addition
    // initialize the int kc to 18    
    int kc = 18;
    // initialize the int ww to 38   
-      int ww = 38;
-      
-      int rr = 689;
-      
-      int tt = 58;
+   int ww = 38;
+   // initialize the int rr to 689 
+   int rr = 689;
+   // initialize the int tt to 58 
+   int tt = 58;
       
       int u = 52;
       
