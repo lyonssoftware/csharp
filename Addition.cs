@@ -142,7 +142,7 @@ public class Addition
    int u = 52;
    // initialize the int uu to 104 
       int uu = 104;
-      
+      // initialize the int ff to 5
       int ff = 5;
       
       int hg = 89;
