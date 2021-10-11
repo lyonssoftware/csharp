@@ -148,9 +148,9 @@ public class Addition
    int hg = 89;
    // initialize the int uu to 67   
    int uu = 67;
-      
-      int xx = 31;
-      
+   // initialize the int xx to 31
+   int xx = 31;
+   // initialize the int yy to 29 
       int yy = 29;
       
       int zz = 15;
