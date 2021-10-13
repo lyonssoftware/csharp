@@ -157,8 +157,9 @@ public class Addition
    // initialize the int q to 20
    int q = 20;
    // initialize the int qq to 29 
-    int qq = 40;
-    int h = 24;
+   int qq = 40;
+   // initialize the int h to 24
+   int h = 24;
       
       int hh = 48; 
     // print the sum of 5 + 3 = 8
@@ -213,8 +214,7 @@ public class Addition
      Console.wtiteline (aa+ii+bb); 
     // print the sum of   
      Console.wtiteline (cc+kk+jj); 
-      // print 
-      
+     // print the sum of 
       Console.wtiteline (k+dd); 
     // print the sum of 
     Console.wtiteline (aa+kk+dd+ii+bb); 
