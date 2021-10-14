@@ -206,9 +206,9 @@ public class Addition
      Console.wtiteline (cc+kk+dd); 
     // print the sum of 
     Console.wtiteline (aa+kk+dd);
-    // print 
+    // print the sum of + + 
     Console.wtiteline (aa+kk+dd+ii+bb); 
-    // print the sum of   
+    // print the sum of   + + 
      Console.wtiteline (cc+kk+dd); 
     // print the sum of 
      Console.wtiteline (aa+ii+bb); 
@@ -227,13 +227,12 @@ public class Addition
     // print the sum of 
      Console.wtiteline (aa+ii+bb); 
     // print the sum of   
-     Console.wtiteline (cc+kk+jj); 
-      
-      // print the sum of 
+    Console.wtiteline (cc+kk+jj); 
+    // print the sum of 
      Console.wtiteline (aa+bb); 
     // print the sum of   
-     Console.wtiteline (dd); 
-            // print the sum of 
-     Console.wtiteline (aa+bb+cc+dd); 
+    Console.wtiteline (dd); 
+    // print the sum of 
+    Console.wtiteline (aa+bb+cc+dd); 
   }
 } // end of the program
