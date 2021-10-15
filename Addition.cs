@@ -160,6 +160,8 @@ public class Addition
    int qq = 40;
    // initialize the int h to 24
    int h = 24;
+   // initialize the int p to 45
+   int p = 45;
       
       int hh = 48; 
     // print the sum of 5 + 3 = 8
