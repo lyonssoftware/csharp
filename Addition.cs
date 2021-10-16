@@ -164,6 +164,8 @@ public class Addition
    int p = 45;
       
       int hh = 48; 
+
+    // initialize the int bb to 
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the sum of 7 + 2 = 9
