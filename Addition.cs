@@ -190,7 +190,7 @@ public class Addition
     Console.wtiteline (i+g+e+c+b+a);  
     // print the sum of 67 + 8 + 9 + 7 + 3 + 5 = 99
     Console.writeline (i+g+e+c+b+a);
-    // print the sum of 
+    // print the sum of 68 + 89 + 99 + 29 + 1 = 
     Console.writeline (aa+bb+cc+dd);
     // print the sum of 
     Console.wtiteline (bb+ee+ii+dd);
