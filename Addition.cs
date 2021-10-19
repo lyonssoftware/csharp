@@ -164,10 +164,10 @@ public class Addition
    int p = 45;
    // initialize the int hh to 48
    int hh = 48; 
-   // 
+   // initialize the int dd to 32
    int dd = 32;
-
-    // initialize the int bb to 
+   // initialize the int bb to 25
+    int bb = 25;  
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the sum of 7 + 2 = 9
