@@ -168,6 +168,8 @@ public class Addition
    int dd = 32;
    // initialize the int bb to 25
     int bb = 25;  
+   // initialize the int zzz to 25
+    int zzz = 78;
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the sum of 7 + 2 = 9
