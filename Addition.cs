@@ -169,7 +169,11 @@ public class Addition
    // initialize the int bb to 25
     int bb = 25;  
    // initialize the int zzz to 25
-    int zzz = 78;
+    int zzz = 25;
+   // initialize the int yyy to 50
+    int zzz = 50;
+      
+      
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the sum of 7 + 2 = 9
