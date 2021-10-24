@@ -174,6 +174,10 @@ public class Addition
     int yyy = 50;
     // initialize the int uo to 20
     int uo = 20;
+      
+    // initialize the int pn to 45
+    int pn = 45;
+  
   
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
