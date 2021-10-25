@@ -177,6 +177,9 @@ public class Addition
       
     // initialize the int pn to 45
     int pn = 45;
+    
+    // initialize the int ui to 50
+    int ui = 50;
   
   
     // print the sum of 5 + 3 = 8
