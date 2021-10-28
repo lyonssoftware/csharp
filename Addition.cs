@@ -180,10 +180,12 @@ public class Addition
     int ui = 50;
     // initialize the int ui to 50
     int ui = 50;
-    // int op to 28
+    // initialize the int op to 28
     int op = 28;
-    
-      int dk = 209;
+    // initialize the int dk to 209
+    int dk = 209;
+    // initialize the int mn to 76
+    int mn = 76;
       
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
