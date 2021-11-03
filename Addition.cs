@@ -185,16 +185,13 @@ public class Addition
     // initialize the int dk to 209
     int dk = 209;
     // initialize the int mn to 76
-    int mn = 6;
-      
-    // initialize the int mn to 6
-    int mnn = 76;
+    int mn = 76;
 
 int df = 89;
-
-int fff = 56;
-
       
+      int od = 32;
+      
+int fff = 56;
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the sum of 7 + 2 = 9
@@ -267,6 +264,5 @@ int fff = 56;
     Console.wtiteline (dd); 
     // print the sum of 
     Console.wtiteline (aa+bb+cc+dd); 
-      
   }
 } // end of the program
