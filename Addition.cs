@@ -194,6 +194,8 @@ public class Addition
     int fff = 56;
        // initialize the int ccc to 35
     int ccc = 35;
+
+int ddd = 86;
       
       
       
