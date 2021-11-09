@@ -192,11 +192,11 @@ public class Addition
     int od = 32;
     // initialize the int fff to 56
     int fff = 56;
-       // initialize the int ccc to 35
+     // initialize the int ccc to 35
     int ccc = 35;
-
-int ddd = 86;
-      
+     // initialize the int ddd to 86
+      int ddd = 86;
+       // initialize the int eee to 29
       int eee = 29;
       
       
