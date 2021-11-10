@@ -199,6 +199,8 @@ public class Addition
        // initialize the int eee to 29
       int eee = 29;
       
+      int qqq = 32;
+      
       
       
     // print the sum of 5 + 3 = 8
