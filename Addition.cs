@@ -201,6 +201,8 @@ public class Addition
       
       int qqq = 32;
       
+      int yyy = 27;
+      
       
       
     // print the sum of 5 + 3 = 8
