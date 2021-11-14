@@ -205,6 +205,8 @@ public class Addition
       
       int zzz = 578;
       
+      int rrr = 34;
+      
       
       
     // print the sum of 5 + 3 = 8
