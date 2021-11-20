@@ -209,8 +209,13 @@ public class Addition
       
       int vvv = 87;
 
+int aaa = 38;
+      
+      int www = 58;
+      
 
-      int ggg = 100;
+int ggg = 100;
+      int aaa = 38;
       
       
     // print the sum of 5 + 3 = 8
