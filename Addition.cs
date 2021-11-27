@@ -6,6 +6,9 @@ public class Addition
    { 
     // initialize the integer a
     int a = 5;
+
+int aaa= 46;
+
     // initialize the integer aa
     int aa = 10;
     // initialize the integer b
