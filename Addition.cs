@@ -6,9 +6,6 @@ public class Addition
    { 
     // initialize the integer a
     int a = 5;
-
-int aaa= 46;
-
     // initialize the integer aa
     int aa = 10;
     // initialize the integer b
@@ -212,17 +209,19 @@ int aaa= 46;
       
       int vvv = 87;
 
+int sss = 67;
+
 int aaa = 38;
       
       int www = 58;
- 
-int sss = 67;
       
 
 int ggg = 100;
       int aaa = 38;
       
       int yy = 90;
+      
+      int yyy = 180;
       
       
     // print the sum of 5 + 3 = 8
