@@ -223,6 +223,8 @@ int ggg = 100;
       
       int yyy = 180;
       
+      int ttt = 48;
+      
       
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
