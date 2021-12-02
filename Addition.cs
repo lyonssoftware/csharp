@@ -225,6 +225,8 @@ int ggg = 100;
       
       int ttt = 48;
       
+      int nnn = 78;
+      
       
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
