@@ -207,6 +207,8 @@ public class Addition
       
       int rrr = 34;
       
+int ggg = 28;
+
       int vvv = 87;
 
 int sss = 67;
@@ -215,6 +217,7 @@ int aaa = 38;
       
       int www = 58;
       
+int rrr= 56;
 
 int ggg = 100;
       int aaa = 38;
@@ -235,15 +238,12 @@ int eee = 55;
 
 int hhh = 28;
 
-int rrr= 56;
-
-int ggg = 29;
-
-
       
     int qqq = 78;
       
       int ttt = 532;
+      
+      int nnn = 32;
       
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
