@@ -249,6 +249,8 @@ int hhh = 28;
       
       int ccc = 87;
       
+      int tnt = 800;
+      
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the sum of 7 + 2 = 9
