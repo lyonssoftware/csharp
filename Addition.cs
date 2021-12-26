@@ -216,9 +216,10 @@ int sss = 67;
 int aaa = 38;
       
       int www = 58;
+      
 
+int = lll = 38;
 
-      int = lll = 38;
 int rrr= 56;
 
 int ggg = 100;
@@ -235,6 +236,9 @@ int ggg = 100;
 int yyy = 20;
 
 int uuu = 5;
+      
+      
+      int mmm = 98;
       
 int eee = 55;
 
