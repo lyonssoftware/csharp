@@ -259,6 +259,8 @@ int hhh = 28;
       
       int zzz = 68;
       
+      int krk = 32;
+      
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the sum of 7 + 2 = 9
