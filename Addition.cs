@@ -227,13 +227,12 @@ int ggg = 100;
       
       int yy = 90;
       
-      int yyy = 180;
+      
       
       int ttt = 48;
       
       int nnn = 78;
 
-int yyy = 20;
 
 int uuu = 5;
       
@@ -257,10 +256,11 @@ int hhh = 28;
       
       int tnt = 800;
       
-      int zzz = 68;
+  
       
       int krk = 32;
-      
+    int yyy = 180;
+    int zzz = 68;
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the sum of 7 + 2 = 9
