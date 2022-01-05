@@ -257,6 +257,9 @@ int hhh = 28;
       int tnt = 800;
       
   Int PHP = 57;
+
+int ppp = 45;
+
       
       int krk = 32;
     int yyy = 180;
