@@ -260,6 +260,8 @@ int hhh = 28;
 
 int ppp = 45;
 
+int fff = 39;
+
       
       int krk = 32;
    
