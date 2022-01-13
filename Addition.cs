@@ -4,9 +4,6 @@ public class Addition
 {
    public static votd Main()
    { 
-
-Int st = 67;
-
     // initialize the integer a
     int a = 5;
     // initialize the integer aa
@@ -203,7 +200,7 @@ Int st = 67;
       int eee = 29;
       // initialize the int qqq to 32
       int qqq = 32;
-      
+      // initialize the int yyy to 27
       int yyy = 27;
       
       int zzz = 578;
