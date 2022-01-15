@@ -204,11 +204,11 @@ public class Addition
     int yyy = 27;
     // initialize the int zzz to 578
     int zzz = 578;
-      
-      int rrr = 34;
-      
-int ggg = 28;
-
+    // initialize the int zzz to 578
+    int rrr = 34;
+    // initialize the int ggg to 28
+    int ggg = 28;
+   
       int vvv = 87;
 
 int sss = 67;
