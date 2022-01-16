@@ -208,10 +208,10 @@ public class Addition
     int rrr = 34;
     // initialize the int ggg to 28
     int ggg = 28;
-   
-      int vvv = 87;
-
-int sss = 67;
+    // initialize the int vvv to 87
+    int vvv = 87;
+    // initialize the int sss to 67
+    int sss = 67;
 
 int aaa = 38;
       
