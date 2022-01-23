@@ -220,9 +220,10 @@ public class Addition
     int = lll = 38;
     // initialize the int rrr to 56
     int rrr= 56;
-
-int ggg = 100;
-      int aaa = 38;
+    // initialize the int ggg to 100
+    int ggg = 100;
+    // initialize the int aaa to 38
+    int aaa = 38;
       
       int yy = 90;
       
