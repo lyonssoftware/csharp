@@ -224,12 +224,10 @@ public class Addition
     int ggg = 100;
     // initialize the int aaa to 38
     int aaa = 38;
-      
-      int yy = 90;
-      
-      
-      
-      int ttt = 48;
+    // initialize the int yy to 90  
+    int yy = 90;
+    // initialize the int ttt to 48
+    int ttt = 48;
       
       int nnn = 78;
 
