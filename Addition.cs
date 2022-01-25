@@ -2,7 +2,7 @@
 Using System;
 public class Addition
 {
-   public static votd Main()
+   public static void Main()
    { 
     // initialize the integer a
     int a = 5; 
@@ -228,14 +228,12 @@ public class Addition
     int yy = 90;
     // initialize the int ttt to 48
     int ttt = 48;
-      
-      int nnn = 78;
-
-
-int uuu = 5;
-      
-      
-      int mmm = 98;
+    // initialize the int nnn to 78
+    int nnn = 78;
+    // initialize the int uuu to 5
+    int uuu = 5;
+    // initialize the int mmm to 98
+    int mmm = 98;
       
 int eee = 55;
 
