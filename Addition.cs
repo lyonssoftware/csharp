@@ -244,10 +244,10 @@ public class Addition
     int ttt = 532;
     // initialize the int nnn to 32
     int nnn = 32;
-      
-      int mmm = 89;
-      
-      int ccc = 87;
+    // initialize the int mmm to 89
+    int mmm = 89;
+    // initialize the int ccc to 87
+    int ccc = 87;
       
       int tnt = 800;
       
