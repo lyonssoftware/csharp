@@ -248,20 +248,17 @@ public class Addition
     int mmm = 89;
     // initialize the int ccc to 87
     int ccc = 87;
-      
-      int tnt = 800;
-      
-  Int PHP = 57;
-
-int ppp = 45;
-
-int fff = 39;
-
-      
-      int krk = 32;
-   
-      
-    // set the int
+    // initialize the int tnt to 800
+    int tnt = 800;
+    // initialize the int PHP to 57
+    int PHP = 57;
+    // initialize the int ppp to 45
+    int ppp = 45;
+    // initialize the int fff to 39
+    int fff = 39;
+    // initialize the int krk to 32
+    int krk = 32;
+    // initialize the int wow to 97
     int wow = 92;
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
