@@ -260,6 +260,8 @@ public class Addition
     int krk = 32;
     // initialize the int wow to 97
     int wow = 92;
+    // initialize the int sns to 23
+    int sns = 23;
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the sum of 7 + 2 = 9
