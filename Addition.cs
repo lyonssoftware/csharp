@@ -262,6 +262,8 @@ public class Addition
     int wow = 92;
     // initialize the int sns to 23
     int sns = 23;
+    // initialize the int iou to 50
+    int iou = 50;
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the sum of 7 + 2 = 9
