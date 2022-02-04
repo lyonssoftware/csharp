@@ -264,6 +264,10 @@ public class Addition
     int sns = 23;
     // initialize the int iou to 50
     int iou = 50;
+    // initialize the int iou to 50
+    int iou = 50;
+    // initialize the int you to 30
+    int iou = 30;
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the sum of 7 + 2 = 9
