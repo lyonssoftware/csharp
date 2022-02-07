@@ -5,7 +5,7 @@ public class Addition
    public static void Main()
    { 
     // initialize the integer a
-    int a = 75;
+    int a = 5;
     // initialize the integer aa
     int aa = 10;
     // initialize the integer b
@@ -270,6 +270,8 @@ public class Addition
     int iou = 30;
     // initialize the int we to 14
     int we = 14;
+    // initialize the int io to 67
+    int io = 67;
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the sum of 7 + 2 = 9
