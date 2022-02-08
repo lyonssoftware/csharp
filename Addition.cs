@@ -272,6 +272,8 @@ public class Addition
     int we = 14;
     // initialize the int io to 67
     int io = 67;
+    // initialize the int zion to 75
+    int zion = 75;
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the sum of 7 + 2 = 9
