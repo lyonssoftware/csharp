@@ -6,8 +6,6 @@ public class Addition
    { 
     // initialize the integer a
     int a = 5;
-
-
     // initialize the integer aa
     int aa = 10;
     // initialize the integer b
@@ -276,6 +274,8 @@ public class Addition
     int io = 67;
     // initialize the int zion to 75
     int zion = 75;
+    // initialize the int lvl to 69
+    int lvl = 69;
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the sum of 7 + 2 = 9
@@ -289,7 +289,10 @@ public class Addition
     // print the sum of 3 + 2 = 5
     Console.Writeline(b+d);
      // print the sum of 3 + 2 = 5
-    Console.wtiteline (a+e);
+    Console.WriteLine(a+e);
+      
+      
+      
     // print the sum of 5 + 9 = 14
     Console.wtiteline (a+b+c);
     // print the sum of 9 + 8 + 67 = 84
