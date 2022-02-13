@@ -276,7 +276,7 @@ public class Addition
     int zion = 75;
     // initialize the int lvl to 69
     int lvl = 69;
-
+    // initialize the int you to 100
     int you = 100;
 
     // print the sum of 5 + 3 = 8
