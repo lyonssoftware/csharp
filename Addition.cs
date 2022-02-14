@@ -278,6 +278,9 @@ public class Addition
     int lvl = 69;
     // initialize the int you to 100
     int you = 100;
+      
+    // initialize the int opo to 25
+    int opo = 25;
 
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
