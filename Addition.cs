@@ -309,21 +309,21 @@ public class Addition
     // print the sum of 67 + 8 + 9 + 7 + 3 + 5 = 99
     Console.WriteLine(i+g+e+c+b+a);
     // print the sum of 68 + 89 + 99 + 29 + 1 = 
-    Console.WriteLine (aa+bb+cc+dd);
+    Console.WriteLine(aa+bb+cc+dd);
     // print the sum of 
-    Console.wtiteline (bb+ee+ii+dd);
+    Console.WriteLine(bb+ee+ii+dd);
     // print the sum of 
-    Console.wtiteline (ee+aa+gg+dd);  
+    Console.WriteLine(ee+aa+gg+dd);  
     // print the sum of 
     Console.wtiteline (bb+k+ii+l);  
     // print the sum of 
-    Console.wtiteline (cc+kk+dd); 
+    Console.WriteLine(cc+kk+dd); 
     // print the sum of 
-    Console.wtiteline (aa+kk+dd+ii+bb); 
+    Console.WriteLine(aa+kk+dd+ii+bb); 
     // print the sum of 
-    Console.wtiteline (k+dd); 
+    Console.WriteLine(k+dd); 
     // print the sum of 
-    Console.wtiteline (aa+kk+dd+ii+bb); 
+    Console.WriteLine(aa+kk+dd+ii+bb); 
     // print the sum of   
      Console.wtiteline (cc+kk+dd); 
     // print the sum of 
