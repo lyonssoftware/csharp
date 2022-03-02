@@ -333,13 +333,13 @@ public class Addition
     // print the sum of   + + 
     Console.WriteLine(cc+kk+dd); 
     // print the sum of 
-     Console.wtiteline (aa+ii+bb); 
+    Console.WriteLine(aa+ii+bb); 
     // print the sum of   
-     Console.wtiteline (cc+kk+jj); 
-     // print the sum of 
-      Console.wtiteline (k+dd); 
+    Console.WriteLine(cc+kk+jj); 
     // print the sum of 
-    Console.wtiteline (aa+kk+dd+ii+bb); 
+    Console.WriteLine(k+dd); 
+    // print the sum of 
+    Console.WriteLine(aa+kk+dd+ii+bb); 
     // print the sum of   
      Console.wtiteline (cc+kk+dd); 
     // print the sum of 
