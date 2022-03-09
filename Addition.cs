@@ -7,9 +7,9 @@ public class Addition
     // initialize the integer a
     int a = 5;
     // initialize the integer aa
-    int aa = 10;
+    int aa = 15;
     // initialize the integer b
-    int b = 15;
+    int b = 20;
     // initialize the int b
     int bb = 30;
     // initialize the int c
@@ -326,9 +326,9 @@ public class Addition
     Console.WriteLine(cc+kk+dd); 
     // print the sum of 
     Console.WriteLine(aa+kk+dd);
-    // print the sum of + + 
+    // print the sum of 
     Console.WriteLine(aa+kk+dd+ii+bb); 
-    // print the sum of   + + 
+    // print the sum of 
     Console.WriteLine(cc+kk+dd); 
     // print the sum of 
     Console.WriteLine(aa+ii+bb); 
