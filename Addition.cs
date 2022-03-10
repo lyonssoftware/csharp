@@ -282,6 +282,10 @@ public class Addition
     int opo = 25;
     // initialize the int iou to 50
     int iou = 50;
+    
+    // initialize the int iop to 30
+    int iop = 30;  
+      
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the sum of 7 + 2 = 9
