@@ -135,6 +135,9 @@ public class Addition
    // initialize the int ww to 38   
    int ww = 38;
    // initialize the int rr to 689 
+      
+   int h = 29;   
+      
    int rr = 689;
    // initialize the int tt to 58 
    int tt = 58;
@@ -282,7 +285,6 @@ public class Addition
     int opo = 25;
     // initialize the int iou to 50
     int iou = 50;
-    
     // initialize the int iop to 30
     int iop = 30;  
       
