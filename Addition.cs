@@ -5,7 +5,7 @@ public class Addition
    public static void Main()
    { 
     // initialize the integer a
-    int a = 15;
+    int a = 5;
     // initialize the integer aa
     int aa = 15;
     // initialize the integer b
