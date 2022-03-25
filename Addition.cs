@@ -289,6 +289,9 @@ public class Addition
     // initialize the int nmo to 63
     int nmo = 63;  
       
+   // initialize the int nmo to 63
+   int =imo = 15;    
+      
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the sum of 7 + 2 = 9
