@@ -5,13 +5,13 @@ public class Addition
    public static void Main()
    { 
     // initialize the integer a
-    int a = 5;
+    int a = 15;
     // initialize the integer aa
-    int aa = 10;
+    int aa = 30;
     // initialize the integer b
     int b = 20;
     // initialize the int b
-    int bb = 30;
+    int bb = 40;
     // initialize the int c
     int c = 17;
     // initialize the int s
