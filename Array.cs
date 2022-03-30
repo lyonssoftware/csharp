@@ -20,15 +20,17 @@ public class Array
       array[3] = 4;
       // add to the int array 
       array[4] = 5;
-      // add to array 
+      // add to the int array 
       array[5] = 6;
+      // add to the int array 
       array[6] = 7; 
-      //set the array value
+      // add to the int array 
       array[7] = 8; 
-      // set the array value to 9 
+      // add to the int array 
       array[8] = 9;
       // set the value of the index 
       array[9] = 10;
+      // add to the int array 
       array[10] = 11;
       array[11] = 12;
       array[12] = 13;
