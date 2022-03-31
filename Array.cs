@@ -32,13 +32,21 @@ public class Array
       array[9] = 10;
       // add to the int array 
       array[10] = 11;
+      // set the value of the index 
       array[11] = 12;
+      // set the value of the index 
       array[12] = 13;
+      // set the value of the index 
       array[13] = 14;
+      // set the value of the index 
       array[14] = 15;
+      // set the value of the index 
       array[15] = 16;
+      // set the value of the index 
       array[16] = 17;
+      // set the value of the index 
       array[17] = 18;
+      // set the value of the index 
       array[18] = 19;
       array[19] = 20;
       array[20] = 21;
