@@ -49,6 +49,7 @@ public class Array
       // set the value of the index 
       array[18] = 19;
       array[19] = 20;
+// set int value
       array[20] = 21;
       array[21] = 22;
       array[22] = 23;
