@@ -48,13 +48,17 @@ public class Array
       array[17] = 18;
       // set the value of the index 
       array[18] = 19;
+       // set the value of the index 
       array[19] = 20;
-// set int value
+      // set int value
       array[20] = 21;
+       // set the value of the index 
       array[21] = 22;
+       // set the value of the index 
       array[22] = 23;
       // add to the array
       array[23] = 45;
+       // set the value of the index 
       array[24] = 25;
       
       // printthe array element 
