@@ -80,6 +80,7 @@ public class Array
       Console.WriteLine(array[13]);
       Console.WriteLine(array[14]);
       Console.WriteLine(array[15]);
+// print result
       Console.WriteLine(array[16]);
       Console.WriteLine(array[17]);
       Console.WriteLine(array[18]);
