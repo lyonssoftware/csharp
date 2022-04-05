@@ -68,7 +68,9 @@ public class Array
       Console.WriteLine(array[2]);
       // print the fourth element 
       Console.WriteLine(array[3]);
+      // print the fifth element 
       Console.WriteLine(array[4]);
+      // print the sixth element 
       Console.WriteLine(array[5]);
       Console.WriteLine(array[6]);
       Console.WriteLine(array[7]);
