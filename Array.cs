@@ -60,17 +60,21 @@ public class Array
       array[23] = 45;
        // set the value of the index 
       array[24] = 25;
-      
-      // printthe array element 
-      // print thefirst element 
+      // print the first element 
       Console.WriteLine(array[0]);
+      // print the second element 
       Console.WriteLine(array[1]);
+      // print the third element 
       Console.WriteLine(array[2]);
-// print the element 
+      // print the fourth element 
       Console.WriteLine(array[3]);
+      // print the fifth element 
       Console.WriteLine(array[4]);
+      // print the sixth element 
       Console.WriteLine(array[5]);
+      // print the seventh element 
       Console.WriteLine(array[6]);
+      // print the eighth element 
       Console.WriteLine(array[7]);
       Console.WriteLine(array[8]);
       Console.WriteLine(array[9]);
@@ -80,8 +84,8 @@ public class Array
       Console.WriteLine(array[13]);
       Console.WriteLine(array[14]);
       Console.WriteLine(array[15]);
-// print result
       Console.WriteLine(array[16]);
+// print the result 
       Console.WriteLine(array[17]);
       Console.WriteLine(array[18]);
       Console.WriteLine(array[19]);
