@@ -76,7 +76,9 @@ public class Array
       Console.WriteLine(array[6]);
       // print the eighth element 
       Console.WriteLine(array[7]);
+      // print the ninth element 
       Console.WriteLine(array[8]);
+      // print the tenth element 
       Console.WriteLine(array[9]);
       Console.WriteLine(array[10]);
       Console.WriteLine(array[11]);
@@ -85,7 +87,7 @@ public class Array
       Console.WriteLine(array[14]);
       Console.WriteLine(array[15]);
       Console.WriteLine(array[16]);
-// print the result 
+      // print the result 
       Console.WriteLine(array[17]);
       Console.WriteLine(array[18]);
       Console.WriteLine(array[19]);
