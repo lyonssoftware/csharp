@@ -80,8 +80,11 @@ public class Array
       Console.WriteLine(array[8]);
       // print the tenth element 
       Console.WriteLine(array[9]);
+      // print the eleventh element 
       Console.WriteLine(array[10]);
+      // print the twelth element 
       Console.WriteLine(array[11]);
+      // print the thirteenth element 
       Console.WriteLine(array[12]);
       Console.WriteLine(array[13]);
       Console.WriteLine(array[14]);
