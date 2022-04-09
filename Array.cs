@@ -86,7 +86,9 @@ public class Array
       Console.WriteLine(array[11]);
       // print the thirteenth element 
       Console.WriteLine(array[12]);
+      // print the fourteenth element 
       Console.WriteLine(array[13]);
+      // print the fifteenth element 
       Console.WriteLine(array[14]);
       Console.WriteLine(array[15]);
       Console.WriteLine(array[16]);
