@@ -94,8 +94,9 @@ public class Array
       Console.WriteLine(array[15]);
        // print the seventeenth element
       Console.WriteLine(array[16]);
-      // print the result 
+      // print the eighteenth element
       Console.WriteLine(array[17]);
+       // print the nineteenth element
       Console.WriteLine(array[18]);
       Console.WriteLine(array[19]);
       Console.WriteLine(array[20]);
