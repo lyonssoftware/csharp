@@ -100,6 +100,7 @@ public class Array
       Console.WriteLine(array[18]);
       // print the twenieth element
       Console.WriteLine(array[19]);
+      // print the twenieth first element
       Console.WriteLine(array[20]);
       Console.WriteLine(array[21]);
       Console.WriteLine(array[22]);
