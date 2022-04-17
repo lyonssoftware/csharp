@@ -108,6 +108,7 @@ public class Array
       Console.WriteLine(array[22]);
       // print the twenty-fourth element
       Console.WriteLine(array[23]);
+      // print the twenty-fifth element
       Console.WriteLine(array[24]);
       Console.WriteLine(array[25]);
       Console.WriteLine(arrray[26]);
