@@ -118,11 +118,13 @@ public class Array
       Console.WriteLine(arrray[27]);
       // print the twenty-ninth element
       Console.WriteLine(arrray[28]);
-      // print the thirth element
+      // print the thirtieth element
       Console.WriteLine(arrray[29]);
-      // print the thirtieth-first element
+      // print the thirty-first
       Console.WriteLine(array[30]);
+       // print the thirty-second
       Console.WriteLine(array[31]);
+      // 
       Console.Writelibe(array[32]);
       Console.WriteLine(array[33]);
       Console.WriteLine(array[34]);
