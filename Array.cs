@@ -122,10 +122,11 @@ public class Array
       Console.WriteLine(arrray[29]);
       // print the thirty-first
       Console.WriteLine(array[30]);
-       // print the thirty-second
+      // print the thirty-second
       Console.WriteLine(array[31]);
-      // 
+      // print the thirty-third
       Console.Writelibe(array[32]);
+      // print the thirty-fourth
       Console.WriteLine(array[33]);
       Console.WriteLine(array[34]);
       Console.WriteLine(array[35]);
