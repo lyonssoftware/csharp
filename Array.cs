@@ -128,6 +128,7 @@ public class Array
       Console.Writelibe(array[32]);
       // print the thirty-fourth
       Console.WriteLine(array[33]);
+      // print the thirty-fifth
       Console.WriteLine(array[34]);
       Console.WriteLine(array[35]);
       Console.WriteLine(array[36]);
