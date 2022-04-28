@@ -130,6 +130,7 @@ public class Array
       Console.WriteLine(array[33]);
       // print the thirty-fifth
       Console.WriteLine(array[34]);
+      // print the thirty-sixth
       Console.WriteLine(array[35]);
       Console.WriteLine(array[36]);
       CONSOLE.writeline(array[37]);
