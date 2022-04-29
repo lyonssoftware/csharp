@@ -133,6 +133,8 @@ public class Array
       // print the thirty-sixth
       Console.WriteLine(array[35]);
       Console.WriteLine(array[36]);
+
+// print the array 
       CONSOLE.writeline(array[37]);
    }
    // the end of program
