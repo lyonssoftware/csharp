@@ -132,6 +132,7 @@ public class Array
       Console.WriteLine(array[34]);
       // print the thirty-sixth
       Console.WriteLine(array[35]);
+// print the value
       Console.WriteLine(array[36]);
 
 // print the array 
