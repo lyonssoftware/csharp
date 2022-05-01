@@ -137,6 +137,7 @@ public class Array
 
 // print the array 
       CONSOLE.writeline(array[37]);
+// end
    }
    // the end of program
 }
