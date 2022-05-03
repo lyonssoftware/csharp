@@ -135,7 +135,9 @@ public class Array
       // print the thirty-seventh
       Console.WriteLine(array[36]);
       // print the thirty-eighth
-      CONSOLE.writeline(array[37]);
+      Console.WriteLine(array[37]);
+      // print the thirty-ninth
+      Console.WriteLine(array[38]);
    }
    // the end of program
 }
