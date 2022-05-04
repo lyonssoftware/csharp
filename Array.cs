@@ -138,6 +138,8 @@ public class Array
       Console.WriteLine(array[37]);
       // print the thirty-ninth
       Console.WriteLine(array[38]);
+      // print the fourtieth
+      Console.WriteLine(array[39]);
    }
    // the end of program
 }
