@@ -142,6 +142,8 @@ public class Array
       Console.WriteLine(array[39]);
       // print the forty-first
       Console.WriteLine(array[40]);
+      // print the forty-second
+      Console.WriteLine(array[40]);
    }
    // the end of program
 }
