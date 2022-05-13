@@ -154,6 +154,8 @@ public class Array
       Console.WriteLine(array[45]);
       // print the forty-seventh
       Console.WriteLine(array[46]);
+      // print the forty-eighth
+      Console.WriteLine(array[47]);
    }
    // the end of program
 }
