@@ -160,6 +160,8 @@ public class Array
       Console.WriteLine(array[48]);
        // print the fifthieth
       Console.WriteLine(array[49]);
+      // print the fifty-first
+      Console.WriteLine(array[50]);
    }
    // the end of program
 }
