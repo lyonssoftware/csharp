@@ -13,7 +13,7 @@ public class Array
       // set the first array entry to 1
       array[0] = 6;
       // add to the array
-      array[1] = 2;
+      array[1] = 10;
       // add to the array
       array[2] = 3;
       // add to the int array
