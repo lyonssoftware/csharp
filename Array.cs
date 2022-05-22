@@ -21,7 +21,7 @@ public class Array
       // add to the int array 
       array[4] = 5;
       // add to the int array 
-      array[5] = 6;
+      array[5] = 16;
       // add to the int array 
       array[6] = 7; 
       // add to the int array 
