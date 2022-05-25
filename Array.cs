@@ -25,7 +25,7 @@ public class Array
       // add to the int array 
       array[6] = 17; 
       // add to the int array 
-      array[7] = 8; 
+      array[7] = 18; 
       // add to the int array 
       array[8] = 19;
       // set the value of the index 
