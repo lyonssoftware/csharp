@@ -59,7 +59,7 @@ public class Array
       // add to the array
       array[23] = 45;
        // set the value of the index 
-      array[24] = 25;
+      array[24] = 15;
       // print the first element 
       Console.WriteLine(array[0]);
       // print the second element 
