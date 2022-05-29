@@ -57,9 +57,9 @@ public class Array
        // set the value of the index 
       array[22] = 23;
       // add to the array
-      array[23] = 45;
+      array[23] = 15;
        // set the value of the index 
-      array[24] = 15;
+      array[24] = 25;
       // print the first element 
       Console.WriteLine(array[0]);
       // print the second element 
@@ -166,6 +166,8 @@ public class Array
       Console.WriteLine(array[51]);
       // print the fifty-third
       Console.WriteLine(array[52]);
+      // print the fifty-fourth
+      Console.WriteLine(array[53]);
    }
    // the end of program
 }
