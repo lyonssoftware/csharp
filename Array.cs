@@ -11,7 +11,7 @@ public class Array
       double[] doubleArray = new double[10];
       
       // set the first array entry to 1
-      array[0] = 6;
+      array[0] = 16;
       // add to the array
       array[1] = 10;
       // add to the array
