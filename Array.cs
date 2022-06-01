@@ -60,6 +60,9 @@ public class Array
       array[23] = 15;
        // set the value of the index 
       array[24] = 25;
+
+array[25] = 25;
+
       // print the first element 
       Console.WriteLine(array[0]);
       // print the second element 
