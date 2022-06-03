@@ -57,7 +57,7 @@ public class Array
        // set the value of the index 
       array[22] = 23;
       // add to the array
-      array[23] = 15;
+      array[23] = 25;
        // set the value of the index 
       array[24] = 25;
 
