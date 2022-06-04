@@ -48,20 +48,20 @@ public class Array
       array[17] = 18;
       // set the value of the index 
       array[18] = 19;
-       // set the value of the index 
+      // set the value of the index 
       array[19] = 20;
-      // set int value
+      // set the value of the index
       array[20] = 21;
-       // set the value of the index 
+      // set the value of the index 
       array[21] = 22;
-       // set the value of the index 
-      array[22] = 23;
-      // add to the array
-      array[23] = 25;
-       // set the value of the index 
-      array[24] = 25;
-
-array[25] = 25;
+       // set the value of the index
+      array[22] = 22;
+      // set the value of the index
+      array[23] = 23;
+      // set the value of the index
+      array[24] = 24;
+      // set the value of the index
+      array[25] = 25;
 
       // print the first element 
       Console.WriteLine(array[0]);
