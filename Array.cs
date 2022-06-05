@@ -62,7 +62,8 @@ public class Array
       array[24] = 24;
       // set the value of the index
       array[25] = 25;
-
+      // set the value of the index
+      array[26] = 26;
       // print the first element 
       Console.WriteLine(array[0]);
       // print the second element 
