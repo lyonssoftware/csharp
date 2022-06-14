@@ -78,6 +78,8 @@ public class Array
       array[32] = 32;
       // set the value of the index
       array[33] = 33;
+      // set the value of the index
+      array[34] = 34;
 
       // print the first element 
       Console.WriteLine(array[0]);
