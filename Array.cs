@@ -13,9 +13,9 @@ public class Array
       // set the first array entry to 1
       array[0] = 16;
       // add to the array
-      array[1] = 10;
+      array[1] = 20;
       // add to the array
-      array[2] = 3;
+      array[2] = 23;
       // add to the int array
       array[3] = 45;
       // add to the int array 
