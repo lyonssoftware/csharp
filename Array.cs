@@ -80,9 +80,10 @@ public class Array
       array[33] = 33;
       // set the value of the index
       array[34] = 34;
-
-
-array[35] = 35;
+      // set the value of the index
+      array[35] = 35;
+      // set the value of the index
+      array[36] = 36;
 
       // print the first element 
       Console.WriteLine(array[0]);
