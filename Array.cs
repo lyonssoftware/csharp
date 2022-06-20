@@ -88,6 +88,8 @@ public class Array
       array[37] = 37;
 
 array[38] = 38;
+      
+      array[39] = 39;
 
       // print the first element 
       Console.WriteLine(array[0]);
