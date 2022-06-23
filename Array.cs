@@ -92,8 +92,10 @@ public class Array
       array[39] = 39;
       // set the value of the index
       array[40] = 40;
-
-array[41] = 41;
+      // set the value of the index
+      array[41] = 41;
+      // set the value of the index
+      array[42] = 42;
 
       // print the first element 
       Console.WriteLine(array[0]);
