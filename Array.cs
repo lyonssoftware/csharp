@@ -10,6 +10,8 @@ public class Array
       // create a double array
       double[] doubleArray = new double[10];
       
+
+int y  = 78;
       // set the first array entry to 1
       array[0] = 16;
       // add to the array
