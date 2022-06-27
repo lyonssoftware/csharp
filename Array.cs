@@ -99,6 +99,10 @@ public class Array
       
       // set the value of the index
       array[43] = 43;
+      
+      // set the value of the index
+      array[44] = 44;
+
 
       // print the first element 
       Console.WriteLine(array[0]);
