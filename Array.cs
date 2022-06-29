@@ -102,6 +102,9 @@ public class Array
       array[44] = 44;
       // set the value of the index
       array[45] = 45;
+      // set the value of the index
+      array[46] = 46;
+
 
 
       // print the first element 
