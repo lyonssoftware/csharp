@@ -104,6 +104,8 @@ public class Array
       array[45] = 45;
       // set the value of the index
       array[46] = 46;
+      // set the value of the index
+      array[47] = 47;
 
 
 
