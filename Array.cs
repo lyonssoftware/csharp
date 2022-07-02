@@ -106,11 +106,11 @@ public class Array
       array[46] = 46;
       // set the value of the index
       array[47] = 47;
-
-array[48] = 48;
-
-
-
+      // set the value of the index
+      array[48] = 48;
+      // set the value of the index
+      array[49] = 49;
+      
       // print the first element 
       Console.WriteLine(array[0]);
       // print the second element 
