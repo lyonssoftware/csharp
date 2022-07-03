@@ -110,6 +110,9 @@ public class Array
       array[48] = 48;
       // set the value of the index
       array[49] = 49;
+
+array[50] = 50;
+
       
       // print the first element 
       Console.WriteLine(array[0]);
