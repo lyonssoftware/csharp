@@ -112,6 +112,9 @@ public class Array
       array[49] = 49;
 
 array[50] = 50;
+      
+      
+array[51] = 51;
 
       
       // print the first element 
