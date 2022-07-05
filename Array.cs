@@ -110,11 +110,12 @@ public class Array
       array[48] = 48;
       // set the value of the index
       array[49] = 49;
-
-array[50] = 50;
-      
-      
-array[51] = 51;
+      // set the value of the index
+      array[50] = 50;
+       // set the value of the index
+      array[51] = 51;
+      // set the value of the index
+      array[52] = 52;
 
       
       // print the first element 
