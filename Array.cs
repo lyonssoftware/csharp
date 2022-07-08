@@ -118,9 +118,10 @@ public class Array
       array[52] = 52;
       // set the value of the index
       array[53] = 53;
-      
-         // set the value of the index
+      // set the value of the index
       array[54] = 54;
+      
+      array[55] = 55;
 
       // print the first element 
       Console.WriteLine(array[0]);
