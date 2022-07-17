@@ -124,25 +124,23 @@ public class Array
       array[55] = 55;
       // set the value of the index
       array[56] = 56;
-
-array[57] = 57;
-      
-      
-array[58] = 58;
-
-array[59] = 59;
-      
+      // set the value of the index
+      array[57] = 57;
+      // set the value of the index
+      array[58] = 58;
+      // set the value of the index
+      array[59] = 59;
+      // set the value of the index
       array[60] = 60;
-
-array[61] = 61;
-      
+      // set the value of the index
+      array[61] = 61;
+      // set the value of the index
       array[62] = 62;
-      
+      // set the value of the index
       array[62] = 62;
-      
-      
+      // set the value of the index
       array[62] = 62;
-
+      // set the value of the index
       
       // print the first element 
       Console.WriteLine(array[0]);
