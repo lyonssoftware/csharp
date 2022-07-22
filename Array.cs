@@ -146,6 +146,8 @@ public class Array
       array[66] = 66;
       // set the value of the index
       array[67] = 67;
+      // set the value of the index
+      array[68] = 68;
       
       // print the first element 
       Console.WriteLine(array[0]);
