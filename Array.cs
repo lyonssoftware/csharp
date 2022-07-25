@@ -148,13 +148,13 @@ public class Array
       array[67] = 67;
       // set the value of the index
       array[68] = 68;
-      
       // set the value of the index
       array[69] = 69;
+      // set the value of the index
+      array[69] = 69;
+      // set the value of the index
+      array[70] = 70;
 
-array[69] = 69;
-
-      
       // print the first element 
       Console.WriteLine(array[0]);
       // print the second element 
