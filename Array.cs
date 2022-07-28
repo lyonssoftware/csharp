@@ -160,6 +160,8 @@ public class Array
         // set the value of the index
       array[72] = 72;
 
+array[];
+
       // print the first element 
       Console.WriteLine(array[0]);
       // print the second element 
