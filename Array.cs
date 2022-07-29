@@ -162,6 +162,8 @@ public class Array
 
 array[];
 
+array[] = 73;
+
       // print the first element 
       Console.WriteLine(array[0]);
       // print the second element 
