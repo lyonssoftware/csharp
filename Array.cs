@@ -154,22 +154,21 @@ public class Array
       array[69] = 69;
       // set the value of the index
       array[70] = 70;
-         // set the value of the index
+      // set the value of the index
       array[71] = 71;
-      
-        // set the value of the index
+      // set the value of the index
       array[72] = 72;
-
-array[] = 73;
-
-arrays[] = 73;
-
-arrays[] = 74;
-      
-      arrays[] = 75;
-      
-            arrays[] = 76;
-
+      // set the value of the index
+      array[73] = 73;
+      // set the value of the index
+      arrays[74] = 73;
+      // set the value of the index
+      arrays[75] = 74;
+      // set the value of the index
+      arrays[76] = 75;
+      // set the value of the index
+      arrays[77] = 76;
+  
 
       // print the first element 
       Console.WriteLine(array[0]);
