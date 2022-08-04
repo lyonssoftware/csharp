@@ -168,6 +168,8 @@ public class Array
       arrays[76] = 75;
       // set the value of the index
       arrays[77] = 76;
+       // set the value of the index
+      arrays[78] = 77;
   
 
       // print the first element 
