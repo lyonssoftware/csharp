@@ -172,6 +172,8 @@ public class Array
       arrays[78] = 77;
 
 arrays[78] = 77;
+      
+      arrays[78] = 77;
 
   
 
