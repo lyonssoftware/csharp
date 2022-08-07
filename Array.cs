@@ -174,7 +174,7 @@ public class Array
 arrays[78] = 77;
       
       arrays[78] = 77;
-
+44
   
 
       // print the first element 
