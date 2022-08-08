@@ -176,6 +176,7 @@ arrays[78] = 77;
       arrays[78] = 77;
 44
   
+56
 
       // print the first element 
       Console.WriteLine(array[0]);
