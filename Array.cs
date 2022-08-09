@@ -168,16 +168,13 @@ public class Array
       arrays[76] = 75;
       // set the value of the index
       arrays[77] = 76;
-       // set the value of the index
+      // set the value of the index
       arrays[78] = 77;
-
-arrays[78] = 77;
+      // set the value of the index
+      arrays[78] = 77;
+      // set the value of the index
+      arrays[78] = 77;
       
-      arrays[78] = 77;
-44
-  
-56
-
       // print the first element 
       Console.WriteLine(array[0]);
       // print the second element 
