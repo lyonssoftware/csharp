@@ -174,6 +174,8 @@ public class Array
       arrays[78] = 77;
       // set the value of the index
       arrays[78] = 77;
+
+78
       
       // print the first element 
       Console.WriteLine(array[0]);
