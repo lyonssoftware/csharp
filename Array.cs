@@ -176,8 +176,11 @@ public class Array
       arrays[78] = 77;
 
 78
-      
+
 80
+   
+   82
+      
       // print the first element 
       Console.WriteLine(array[0]);
       // print the second element 
