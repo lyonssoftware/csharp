@@ -180,6 +180,9 @@ public class Array
 80
    
    82
+    
+   
+   90
       
       // print the first element 
       Console.WriteLine(array[0]);
