@@ -171,24 +171,17 @@ public class Array
       // set the value of the index
       arrays[78] = 77;
       // set the value of the index
-      arrays[78] = 77;
+      arrays[79] = 77;
       // set the value of the index
-      arrays[78] = 77;
-
-78
-
-   79
-   
-80
-   
-   82
-    
-   
-   90
- 
-92
-
-   94
+      arrays[80] = 78;
+      // set the value of the index
+      arrays[81] = 79;
+      // set the value of the index
+      arrays[82] = 80;
+      // set the value of the index
+      arrays[83] = 81;
+      // set the value of the index
+      arrays[84] = 82;
       
       // print the first element 
       Console.WriteLine(array[0]);
