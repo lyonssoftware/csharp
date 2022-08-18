@@ -182,6 +182,8 @@ public class Array
       arrays[83] = 81;
       // set the value of the index
       arrays[84] = 82;
+      // set the value of the index
+      arrays[85] = 83;
       
       // print the first element 
       Console.WriteLine(array[0]);
