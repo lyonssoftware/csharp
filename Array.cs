@@ -161,39 +161,41 @@ public class Array
       // set the value of the index
       array[73] = 73;
       // set the value of the index
-      arrays[74] = 73;
+      array[74] = 73;
       // set the value of the index
-      arrays[75] = 74;
+      array[75] = 74;
       // set the value of the index
-      arrays[76] = 75;
+      array[76] = 75;
       // set the value of the index
-      arrays[77] = 76;
+      array[77] = 76;
       // set the value of the index
-      arrays[78] = 77;
+      array[78] = 77;
       // set the value of the index
-      arrays[79] = 77;
+      array[79] = 77;
       // set the value of the index
-      arrays[80] = 78;
+      array[80] = 78;
       // set the value of the index
-      arrays[81] = 79;
+      array[81] = 79;
       // set the value of the index
-      arrays[82] = 80;
+      array[82] = 80;
       // set the value of the index
-      arrays[83] = 81;
+      array[83] = 81;
       // set the value of the index
-      arrays[84] = 82;
+      array[84] = 82;
       // set the value of the index
-      arrays[85] = 83;
+      array[85] = 83;
       // set the value of the index
-      arrays[86] = 84;
+      array[86] = 84;
       // set the value of the index
-      arrays[87] = 84;
+      array[87] = 84;
       // set the value of the index
-      arrays[88] = 84;
-       // set the value of the index
-      arrays[89] = 84;
-      
-      arrays[90] = 85;
+      array[88] = 84;
+      // set the value of the index
+      array[89] = 84;
+      // set the value of the index
+      array[90] = 85;
+      // set the value of the index
+      array[90] = 85;
       
       // print the first element 
       Console.WriteLine(array[0]);
