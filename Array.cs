@@ -197,6 +197,9 @@ public class Array
       // set the value of the index
       array[90] = 85;
       
+      // set the value of the index
+      array[91] = 85;
+      
       // print the first element 
       Console.WriteLine(array[0]);
       // print the second element 
