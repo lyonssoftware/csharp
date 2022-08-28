@@ -203,6 +203,9 @@ public class Array
       
       // set the value of the index
       array[93] = 90;
+
+arraye[93] = 90;
+
       
       // print the first element 
       Console.WriteLine(array[0]);
