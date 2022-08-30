@@ -200,14 +200,14 @@ public class Array
       array[91] = 85;
       // set the value of the index
       array[92] = 85;
-      
       // set the value of the index
-      arraye[93] = 90;
-      
-
-arraye[93] = 90;
-      
-      arraye[94] = 91;
+      array[93] = 90;
+      // set the value of the index
+      array[93] = 90;
+      // set the value of the index
+      array[94] = 91;
+      // set the value of the index
+      array[95] = 92;
 
       // print the first element 
       Console.WriteLine(array[0]);
