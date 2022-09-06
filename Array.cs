@@ -218,6 +218,8 @@ public class Array
       array[99] = 94;
       // set the value of the index    
       array[100] = 94;
+      // set the value of the index    
+      array[101] = 94;
 
       // print the first element 
       Console.WriteLine(array[0]);
