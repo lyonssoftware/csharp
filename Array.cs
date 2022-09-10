@@ -227,6 +227,8 @@ public class Array
       // set the value of the index    
       array[104] = 95;
 
+Int 96;
+
       // print the first element 
       Console.WriteLine(array[0]);
       // print the second element 
