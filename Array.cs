@@ -230,6 +230,8 @@ public class Array
       array[105] = 95;
       // set the value of the index 
       array[106] = 95;
+      // set the value of the index 
+      array[106] = 95;
 
 
       // print the first element 
