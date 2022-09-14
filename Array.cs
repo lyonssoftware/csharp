@@ -232,6 +232,8 @@ public class Array
       array[106] = 95;
       // set the value of the index 
       array[106] = 95;
+      // set the value of the index 
+      array[107] = 95;
 
 
       // print the first element 
