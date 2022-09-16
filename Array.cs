@@ -236,7 +236,8 @@ public class Array
       array[107] = 95;
       // set the value of the index 
       array[108] = 99;
-
+      // set the value of the index 
+      array[109] = 100;
 
       // print the first element 
       Console.WriteLine(array[0]);
