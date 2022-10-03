@@ -224,8 +224,10 @@ public class Array
       array[104] = 104;
       // set the value of the index    
       array[105] = 105;
-     // set the value of the index    
+      // set the value of the index    
       array[106] = 105;
+      // set the value of the index    
+      array[107] = 105;
 
       // print the first element 
       Console.WriteLine(array[0]);
