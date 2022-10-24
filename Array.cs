@@ -265,7 +265,11 @@ public class Array
          // set the value of the index 
       array[123] = 105;
   // set the value of the index 
+      array[124] = 105;]
+         
+           // set the value of the index 
       array[124] = 105;
+         
       // print the first element 
       Console.WriteLine(array[0]);
       // print the second element 
