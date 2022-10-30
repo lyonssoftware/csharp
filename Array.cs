@@ -275,7 +275,9 @@ public class Array
       // set the value of the index 
       array[128] = 105;
 
-array[128] = 105;
+array[129] = 105;
+      
+      array[130] = 105;
 
          
       // print the first element 
