@@ -5,10 +5,7 @@ public class Array
    public static void Main()
    {
      // create an int array of 31 indexes 
-     int[] array = new int[25];
-      
-      // create a double array
-      double[] doubleArray = new double[10];
+     int[] array = new int[200];
     
       // set the first array entry to 1
       array[0] = 16;
@@ -280,6 +277,8 @@ public class Array
       array[130] = 105;
       // set the value of the index 
       array[131] = 105;
+      // set the value of the index 
+      array[132] = 105;
          
       // print the first element 
       Console.WriteLine(array[0]);
