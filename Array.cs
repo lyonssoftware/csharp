@@ -281,7 +281,9 @@ public class Array
       array[132] = 105;
       // set the value of the index 
       array[133] = 105;
-      
+        // set the value of the index 
+      array[134] = 105;
+    
          
       // print the first element 
       Console.WriteLine(array[0]);
