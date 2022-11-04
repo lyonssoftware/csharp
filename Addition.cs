@@ -5,10 +5,7 @@ public class Array
    public static void Main()
    {
      // create an int array of 31 indexes 
-     int[] array = new int[25];
-      
-      // create a double array
-      double[] doubleArray = new double[10];
+     int[] array = new int[200];
     
       // set the first array entry to 1
       array[0] = 16;
@@ -161,32 +158,134 @@ public class Array
       // set the value of the index
       array[73] = 73;
       // set the value of the index
-      arrays[74] = 73;
+      array[74] = 73;
       // set the value of the index
-      arrays[75] = 74;
+      array[75] = 75;
       // set the value of the index
-      arrays[76] = 75;
+      array[76] = 76;
       // set the value of the index
-      arrays[77] = 76;
+      array[77] = 77;
       // set the value of the index
-      arrays[78] = 77;
+      array[78] = 78;
       // set the value of the index
-      arrays[79] = 77;
+      array[79] = 79;
       // set the value of the index
-      arrays[80] = 78;
+      array[80] = 80;
       // set the value of the index
-      arrays[81] = 79;
+      array[81] = 81;
       // set the value of the index
-      arrays[82] = 80;
+      array[82] = 82;
       // set the value of the index
-      arrays[83] = 81;
+      array[83] = 83;
       // set the value of the index
-      arrays[84] = 82;
+      array[84] = 84;
       // set the value of the index
-      arrays[85] = 83;
+      array[85] = 85;
       // set the value of the index
-      arrays[86] = 84;
-      
+      array[86] = 86;
+      // set the value of the index
+      array[87] = 87;
+      // set the value of the index
+      array[88] = 88;
+      // set the value of the index
+      array[89] = 89;
+      // set the value of the index
+      array[90] = 90;
+      // set the value of the index
+      array[91] = 91;
+      // set the value of the index
+      array[92] = 92;
+      // set the value of the index
+      array[93] = 93;
+      // set the value of the index
+      array[94] = 94;
+      // set the value of the index
+      array[95] = 95;
+      // set the value of the index
+      array[96] = 96;
+      // set the value of the index
+      array[97] = 97;
+      // set the value of the index
+      array[98] = 98;
+      // set the value of the index    
+      array[99] = 99;
+      // set the value of the index    
+      array[100] = 100;
+      // set the value of the index
+      array[101] = 101;
+      // set the value of the index    
+      array[102] = 102;
+      // set the value of the index    
+      array[103] = 103;
+      // set the value of the index    
+      array[104] = 104;
+      // set the value of the index    
+      array[105] = 105;
+      // set the value of the index    
+      array[106] = 105;
+      // set the value of the index    
+      array[107] = 105;
+      // set the value of the index    
+      array[108] = 105;
+      // set the value of the index    
+      array[109] = 105;
+      // set the value of the index    
+      array[110] = 105;
+      // set the value of the index    
+      array[111] = 105;
+      // set the value of the index 
+      array[112] = 105;
+      // set the value of the index 
+      array[113] = 105;
+      // set the value of the index 
+      array[114] = 105;
+      // set the value of the index 
+      array[115] = 105;
+      // set the value of the index 
+      array[116] = 105;
+      // set the value of the index 
+      array[117] = 105;
+      // set the value of the index 
+      array[118] = 105;
+      // set the value of the index 
+      array[118] = 105;
+      // set the value of the index 
+      array[118] = 105;
+      // set the value of the index 
+      array[119] = 105;
+      // set the value of the index 
+      array[120] = 105;
+      // set the value of the index 
+      array[121] = 105;
+      // set the value of the index 
+      array[122] = 105;
+      // set the value of the index 
+      array[123] = 105;
+      // set the value of the index 
+      array[124] = 105;]
+      // set the value of the index 
+      array[125] = 105;
+      // set the value of the index 
+      array[126] = 105;
+      // set the value of the index 
+      array[127] = 105;
+      // set the value of the index 
+      array[128] = 105;
+      // set the value of the index 
+      array[129] = 105;
+      // set the value of the index 
+      array[130] = 105;
+      // set the value of the index 
+      array[131] = 105;
+      // set the value of the index 
+      array[132] = 105;
+      // set the value of the index 
+      array[133] = 105;
+      // set the value of the index 
+      array[134] = 105;
+      // set the value of the index 
+      array[135] = 105;
+    
       // print the first element 
       Console.WriteLine(array[0]);
       // print the second element 
