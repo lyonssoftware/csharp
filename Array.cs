@@ -295,6 +295,8 @@ public class Array
       array[139] = 158;
       // set the value of the index 
       array[140] = 158;
+      // set the value of the index 
+      array[141] = 158;
     
       // print the first element 
       Console.WriteLine(array[0]);
