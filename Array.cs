@@ -312,6 +312,11 @@ public class Array
       
               // set the value of the index 
       array[142] = 158;
+
+   // set the value of the index 
+      array[142] = 158;
+      
+
       
       
       
