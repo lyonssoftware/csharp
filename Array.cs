@@ -299,25 +299,21 @@ public class Array
       array[141] = 158;
          // set the value of the index 
       array[142] = 158;
-      
-           // set the value of the index 
-      array[142] = 158;
-
-
+      // set the value of the index 
+      array[143] = 158;
        // set the value of the index 
-      array[142] = 158;
+      array[144] = 158;
       
           // set the value of the index 
-      array[142] = 158;
+      array[145] = 158;
       
               // set the value of the index 
-      array[142] = 158;
+      array[146] = 158;
 
-   // set the value of the index 
-      array[142] = 158;
-      
 
       
+         // set the value of the index 
+      array[147] = 158;
       
       
       // print the first element 
