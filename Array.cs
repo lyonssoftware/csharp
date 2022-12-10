@@ -305,41 +305,28 @@ public class Array
       array[144] = 158;
       // set the value of the index 
       array[145] = 158;
-
-// set the value of the index 
-      array[145] = 158;
-
-// set the value of the index 
-      array[145] = 158;
-
       // set the value of the index 
-      array[145] = 158;
-      
-        // set the value of the index 
-      array[145] = 158;
-
-
-  // set the value of the index 
-      array[145] = 158;
-      
-        // set the value of the index 
-      array[145] = 158;
-      
+      array[146] = 158;
       // set the value of the index 
-      array[145] = 158;
-      
+      array[147] = 158;
       // set the value of the index 
-      array[145] = 158;
-      
-        // set the value of the index 
-      array[145] = 158;
-      
-           // set the value of the index 
-      array[145] = 158;
-
+      array[148] = 158;
       // set the value of the index 
-      array[145] = 158;
-
+      array[149] = 158;
+      // set the value of the index 
+      array[150] = 158;
+      // set the value of the index 
+      array[151] = 158;
+      // set the value of the index 
+      array[152] = 158;
+      // set the value of the index 
+      array[153] = 158;
+      // set the value of the index 
+      array[154] = 158;
+      // set the value of the index 
+      array[155] = 158;
+      // set the value of the index 
+      array[156] = 158;
       
       // print the first element 
       Console.WriteLine(array[0]);
@@ -352,7 +339,6 @@ public class Array
       // print the fifth element 
       Console.WriteLine(array[4]);
       // print the sixth element 
-
       Console.WriteLine(array[5]);
       // print the seventh element 
       Console.WriteLine(array[6]);
