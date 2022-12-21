@@ -341,7 +341,7 @@ public class Array
       array[157] = 158;
 
 
-      Array  alpha 
+      Array  = 2
       
 
                 // set the value of the index 
