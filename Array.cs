@@ -340,7 +340,7 @@ public class Array
                 // set the value of the index 
       array[157] = 158;
 
-Array = 57
+Array = 59
       
       
 
@@ -361,6 +361,8 @@ Array = 57
                // set the value of the index 
       array[157] = 158;
 
+            // set the value of the index 
+      array[157] = 158;
 
 
 
