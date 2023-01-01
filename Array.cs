@@ -335,19 +335,13 @@ public class Array
       array[159] = 158;
       // set the value of the index 
       array[160] = 160;
-
       // set the value of the index 
       array[161] = 160;
-
- // set the value of the index 
-      array[161] = 160;
-
-
-
- // set the value of the index 
+      // set the value of the index 
       array[162] = 160;
+      // set the value of the index 
+      array[163] = 160;
 
-      
       // print the first element 
       Console.WriteLine(array[0]);
       // print the second element 
