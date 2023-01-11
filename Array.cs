@@ -347,26 +347,18 @@ public class Array
       array[165] = 160;
       // set the value of the index 
       array[166] = 166;
-
       // set the value of the index 
       array[167] = 166;
-      
-        // set the value of the index 
+      // set the value of the index 
       array[168] = 166;
-
-// set the value of the index 
-      array[168] = 166;
-
-
-// set the value of the index 
-      array[168] = 166;
-
-// set the value of the index 
-      array[168] = 166;
-      
-      / set the value of the index 
+      // set the value of the index 
       array[169] = 166;
-
+      // set the value of the index 
+      array[170] = 166;
+      // set the value of the index 
+      array[171] = 166;      
+      // set the value of the index 
+      array[172] = 166;
 
       // print the first element 
       Console.WriteLine(array[0]);
