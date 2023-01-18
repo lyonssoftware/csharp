@@ -360,22 +360,25 @@ public class Array
       // set the value of the index 
       array[172] = 166;
       
-         // set the value of the index 
+      // set the value of the index 
       array[172] = 166;
       
-          // set the value of the index 
+      // set the value of the index 
       array[172] = 166;
       
           // set the value of the index 
       array[173] = 166;
       
-          // set the value of the index 
+      // set the value of the index 
       array[174] = 166;
       
-          // set the value of the index 
+      // set the value of the index 
       array[175] = 166;
       
-        // set the value of the index 
+      // set the value of the index 
+      array[176] = 166;
+      
+      // set the value of the index 
       array[176] = 166;
 
       // print the first element 
