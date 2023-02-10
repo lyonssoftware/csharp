@@ -439,10 +439,13 @@ public class Array
       array[190] = 166;
       
       // set the value of the index 
-      array[191] = 166;
+      array[192] = 166;
 
    // set the value of the index 
-      array[191] = 166;
+      array[193] = 166;
+      
+       // set the value of the index 
+      array[194] = 166;
 
 
       // print the first element 
