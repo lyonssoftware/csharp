@@ -449,6 +449,9 @@ public class Array
       
         // set the value of the index 
       array[195] = 166;
+      
+      // set the value of the index 
+      array[196] = 166;
 
 
       // print the first element 
