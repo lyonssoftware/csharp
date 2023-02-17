@@ -102,10 +102,8 @@ public class Array
       // set the value of the index
       array[46] = 46;
       // set the value of the index
-      array[47] = 47;dds
+      array[47] = 47;
       // set the value of the index
-      
-      
       array[48] = 48;
       // set the value of the index
       array[49] = 49;
@@ -461,6 +459,9 @@ public class Array
 
 // set the value of the index 
       array[198] = 166;
+      
+// set the value of the index 
+      array[199] = 166;
 
 
       // print the first element 
