@@ -461,7 +461,7 @@ public class Array
       array[198] = 166;
       
 // set the value of the index 
-      array[199] = 166;
+      array[199] = 200;
 
 
       // print the first element 
