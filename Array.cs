@@ -6,6 +6,8 @@ public class Array
    {
      // create an int array of 31 indexes 
      int[] array = new int[200];
+
+int
     
       // set the first array entry to 1
       array[0] = 16;
