@@ -359,110 +359,22 @@ public class Array
       array[171] = 166;      
       // set the value of the index 
       array[172] = 166;
-      
       // set the value of the index 
-      array[172] = 166;
-      
-      // set the value of the index 
-      array[172] = 166;
-      
-          // set the value of the index 
       array[173] = 166;
-      
       // set the value of the index 
       array[174] = 166;
-      
       // set the value of the index 
       array[175] = 166;
-      
       // set the value of the index 
       array[176] = 166;
-      
-      // set the value of the index 
-      array[176] = 166;
-      
       // set the value of the index 
       array[177] = 166;
-      
       // set the value of the index 
       array[178] = 166;
-      
       // set the value of the index 
       array[179] = 166;
-      
-        // set the value of the index 
-      array[180] = 166;
-      
-            // set the value of the index 
-      array[180] = 166;
-      
       // set the value of the index 
-      array[181] = 166;
-      
-         // set the value of the index 
-      array[182] = 166;
-      
-         // set the value of the index 
-      array[183] = 166;
-      
-            // set the value of the index 
-      array[184] = 166;
-      
-            // set the value of the index 
-      array[185] = 166;
-
-           // set the value of the index 
-      array[185] = 166;     
-      
-      // set the value of the index 
-      array[186] = 166;
-      
-         // set the value of the index 
-      array[187] = 166;
-      
-               // set the value of the index 
-      array[188] = 166;
-      
-              // set the value of the index 
-      array[189] = 166;
-
- // set the value of the index 
-      array[189] = 166;
-
- // set the value of the index 
-      array[189] = 166;
-      
-       // set the value of the index 
-      array[190] = 166;
-      
-        // set the value of the index 
-      array[190] = 166;
-      
-      // set the value of the index 
-      array[192] = 166;
-
-   // set the value of the index 
-      array[193] = 166;
-      
-       // set the value of the index 
-      array[194] = 166;
-      
-        // set the value of the index 
-      array[195] = 166;
-      
-      // set the value of the index 
-      array[196] = 166;
-
-// set the value of the index 
-      array[197] = 166;
-
-
-// set the value of the index 
-      array[198] = 199;
-      
-// set the value of the index 
-      array[199] = 200;
-
+      array[180] = 180;
 
       // print the first element 
       Console.WriteLine(array[0]);
