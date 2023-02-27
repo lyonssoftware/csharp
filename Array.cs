@@ -385,6 +385,9 @@ public class Array
 array[183] = 183;
       
       array[183] = 183;
+      
+            array[182] = 182;
+
 
       // print the first element 
       Console.WriteLine(array[0]);
