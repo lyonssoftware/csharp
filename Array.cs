@@ -381,13 +381,12 @@ public class Array
       array[182] = 182;
       // set the value of the index 
       array[183] = 183;
-
-array[183] = 183;
-      
-      array[183] = 183;
-      
-            array[182] = 182;
-
+      // set the value of the index 
+      array[184] = 183;
+      // set the value of the index 
+      array[184] = 183;
+      // set the value of the index 
+      array[185] = 183;
 
       // print the first element 
       Console.WriteLine(array[0]);
