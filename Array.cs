@@ -389,6 +389,9 @@ public class Array
       array[185] = 183;
       // set the value of the index 
       array[186] = 183;
+      
+      // set the value of the index 
+      array[187] = 183;
 
       // print the first element 
       Console.WriteLine(array[0]);
