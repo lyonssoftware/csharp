@@ -402,9 +402,9 @@ public class Array
       // set the value of the index 
       array[192] = 183;
        // set the value of the index 
-      array[193] = 183;
+      array[193] = 193;
       // set the value of the index 
-      array[194] = 183;
+      array[194] = 194;
       // set the value of the index 
       array[195] = 195;
       // set the value of the index 
