@@ -285,10 +285,137 @@ public class Array
       array[134] = 105;
       // set the value of the index 
       array[135] = 105;
-      
+      // set the value of the index 
+      array[136] = 105;
+      // set the value of the index 
+      array[137] = 158;
+      // set the value of the index 
+      array[138] = 158;
+      // set the value of the index 
+      array[139] = 158;
+      // set the value of the index 
+      array[140] = 158;
+      // set the value of the index 
+      array[141] = 158;
+      // set the value of the index 
+      array[142] = 158;
+      // set the value of the index 
+      array[143] = 158;
+      // set the value of the index 
+      array[144] = 158;
       // set the value of the index 
       array[145] = 158;
-    
+      // set the value of the index 
+      array[146] = 158;
+      // set the value of the index 
+      array[147] = 158;
+      // set the value of the index 
+      array[148] = 158;
+      // set the value of the index 
+      array[149] = 158;
+      // set the value of the index 
+      array[150] = 158;
+      // set the value of the index 
+      array[151] = 158;
+      // set the value of the index 
+      array[152] = 158;
+      // set the value of the index 
+      array[153] = 158;
+      // set the value of the index 
+      array[154] = 158;
+      // set the value of the index 
+      array[155] = 158;
+      // set the value of the index 
+      array[156] = 158;
+      // set the value of the index 
+      array[157] = 158;
+      // set the value of the index 
+      array[158] = 158;
+      // set the value of the index 
+      array[159] = 158;
+      // set the value of the index 
+      array[160] = 160;
+      // set the value of the index 
+      array[161] = 160;
+      // set the value of the index 
+      array[162] = 160;
+      // set the value of the index 
+      array[163] = 160;
+      // set the value of the index 
+      array[164] = 160;
+      // set the value of the index 
+      array[165] = 160;
+      // set the value of the index 
+      array[166] = 166;
+      // set the value of the index 
+      array[167] = 166;
+      // set the value of the index 
+      array[168] = 166;
+      // set the value of the index 
+      array[169] = 166;
+      // set the value of the index 
+      array[170] = 166;
+      // set the value of the index 
+      array[171] = 166;      
+      // set the value of the index 
+      array[172] = 166;
+      // set the value of the index 
+      array[173] = 166;
+      // set the value of the index 
+      array[174] = 166;
+      // set the value of the index 
+      array[175] = 166;
+      // set the value of the index 
+      array[176] = 166;
+      // set the value of the index 
+      array[177] = 166;
+      // set the value of the index 
+      array[178] = 166;
+      // set the value of the index 
+      array[179] = 166;
+      // set the value of the index 
+      array[180] = 180;
+      // set the value of the index 
+      array[181] = 181;
+      // set the value of the index 
+      array[182] = 182;
+      // set the value of the index 
+      array[183] = 183;
+      // set the value of the index 
+      array[184] = 183;
+      // set the value of the index 
+      array[184] = 183;
+      // set the value of the index 
+      array[185] = 183;
+      // set the value of the index 
+      array[186] = 186;
+      // set the value of the index 
+      array[187] = 187;
+      // set the value of the index 
+      array[188] = 188;
+      // set the value of the index 
+      array[189] = 189;
+      // set the value of the index 
+      array[190] = 190;
+      // set the value of the index 
+      array[191] = 191;
+      // set the value of the index 
+      array[192] = 192;
+       // set the value of the index 
+      array[193] = 193;
+      // set the value of the index 
+      array[194] = 194;
+      // set the value of the index 
+      array[195] = 195;
+      // set the value of the index 
+      array[196] = 196;
+      // set the value of the index 
+      array[197] = 197;
+       // set the value of the index 
+      array[198] = 198;
+       // set the value of the index 
+      array[199] = 199;
+     
       // print the first element 
       Console.WriteLine(array[0]);
       // print the second element 
