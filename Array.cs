@@ -4,7 +4,7 @@ public class Array
 {
    public static void Main()
    {
-     // create an int array of 31 indexes 
+     // create an int array of 200 indexes 
      int[] array = new int[200];
     
       // set the first array entry to 1
@@ -376,25 +376,25 @@ public class Array
       // set the value of the index 
       array[180] = 180;
       // set the value of the index 
+      array[180] = 1809;
+      // set the value of the index 
       array[181] = 181;
       // set the value of the index 
       array[182] = 182;
       // set the value of the index 
       array[183] = 183;
       // set the value of the index 
-      array[184] = 183;
+      array[184] = 184;
       // set the value of the index 
-      array[184] = 183;
+      array[185] = 185;
       // set the value of the index 
-      array[185] = 183;
+      array[186] = 186;
       // set the value of the index 
-      array[186] = 183;
+      array[187] = 187;
       // set the value of the index 
-      array[187] = 183;
+      array[188] = 188;
       // set the value of the index 
-      array[188] = 183;
-      // set the value of the index 
-      array[189] = 183;
+      array[189] = 189;
       // set the value of the index 
       array[190] = 190;
       // set the value of the index 
