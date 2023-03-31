@@ -14,11 +14,11 @@ public class Array
       // add to the array
       array[2] = 2;
       // add to the int array
-      array[3] = 45;
+      array[3] = 3;
       // add to the int array 
-      array[4] = 15;
+      array[4] = 4;
       // add to the int array 
-      array[5] = 16;
+      array[5] = 5;
       // add to the int array 
       array[6] = 17; 
       // add to the int array 
