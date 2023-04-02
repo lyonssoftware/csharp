@@ -19,7 +19,7 @@ public class Array
       array[4] = 4;
       // add to the int array 
       array[5] = 5;
-      // add to the int array 
+      // fadd to the int array 
       array[6] = 6; 
       // add to the int array 
       array[7] = 7; 
@@ -30,15 +30,15 @@ public class Array
       // add to the int array 
       array[10] = 10;
       // set the value of the index 
-      array[11] = 12;
+      array[11] = 11;
       // set the value of the index 
-      array[12] = 13;
+      array[12] = 12;
       // set the value of the index 
-      array[13] = 14;
+      array[13] = 13;
       // set the value of the index 
-      array[14] = 15;
+      array[14] = 14;
       // set the value of the index 
-      array[15] = 16;
+      array[15] = 15;
       // set the value of the index 
       array[16] = 17;
       // set the value of the index 
