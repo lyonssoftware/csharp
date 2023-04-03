@@ -40,15 +40,15 @@ public class Array
       // set the value of the index 
       array[15] = 15;
       // set the value of the index 
-      array[16] = 17;
+      array[16] = 16;
       // set the value of the index 
-      array[17] = 18;
+      array[17] = 17;
       // set the value of the index 
-      array[18] = 19;
+      array[18] = 18;
       // set the value of the index 
-      array[19] = 20;
+      array[19] = 19;
       // set the value of the index
-      array[20] = 21;
+      array[20] = 20;
       // set the value of the index 
       array[21] = 22;
        // set the value of the index
