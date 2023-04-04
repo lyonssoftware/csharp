@@ -50,7 +50,7 @@ public class Array
       // set the value of the index
       array[20] = 20;
       // set the value of the index 
-      array[21] = 22;
+      array[21] = 21;
        // set the value of the index
       array[22] = 22;
       // set the value of the index
