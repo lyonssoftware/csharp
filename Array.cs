@@ -158,7 +158,7 @@ public class Array
       // set the value of the index
       array[73] = 73;
       // set the value of the index
-      array[74] = 73;
+      array[74] = 74;
       // set the value of the index
       array[75] = 75;
       // set the value of the index
@@ -222,21 +222,21 @@ public class Array
       // set the value of the index    
       array[105] = 105;
       // set the value of the index    
-      array[106] = 105;
+      array[106] = 106;
       // set the value of the index    
-      array[107] = 105;
+      array[107] = 107;
       // set the value of the index    
-      array[108] = 105;
+      array[108] = 108;
       // set the value of the index    
-      array[109] = 105;
+      array[109] = 109;
       // set the value of the index    
-      array[110] = 105;
+      array[110] = 110;
       // set the value of the index    
-      array[111] = 105;
+      array[111] = 111;
       // set the value of the index 
-      array[112] = 105;
+      array[112] = 112;
       // set the value of the index 
-      array[113] = 105;
+      array[113] = 113;
       // set the value of the index 
       array[114] = 105;
       // set the value of the index 
