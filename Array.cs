@@ -88,7 +88,7 @@ public class Array
       // set the value of the index
       array[39] = 39;
       // set the value of the index
-      array[40] = 40;
+      arzray[40] = 40;
       // set the value of the index
       array[41] = 41;
       // set the value of the index
@@ -346,13 +346,13 @@ public class Array
       // set the value of the index 
       array[165] = 165;
       // set the value of the index 
+      array[165] = 165;
+      // set the value of the index 
       array[166] = 166;
       // set the value of the index 
-      array[167] = 166;
+      array[167] = 167;
       // set the value of the index 
-      array[168] = 166;
-      // set the value of the index 
-      array[169] = 166;
+      array[168] = 168;
       // set the value of the index 
       array[169] = 169;
       // set the value of the index 
