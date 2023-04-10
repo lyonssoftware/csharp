@@ -314,15 +314,15 @@ public class Array
       // set the value of the index 
       array[149] = 158;
       // set the value of the index 
-      array[150] = 158;
+      array[150] = 150;
       // set the value of the index 
-      array[151] = 158;
+      array[151] = 151;
       // set the value of the index 
-      array[152] = 158;
+      array[152] = 152;
       // set the value of the index 
-      array[153] = 158;
+      array[153] = 153;
       // set the value of the index 
-      array[154] = 158;
+      array[154] = 154;
       // set the value of the index 
       array[155] = 155;
       // set the value of the index 
