@@ -294,9 +294,9 @@ public class Array
       // set the value of the index 
       array[139] = 158;
       // set the value of the index 
-      array[140] = 158;
+      array[140] = 140;
       // set the value of the index 
-      array[141] = 158;
+      array[141] = 141;
       // set the value of the index 
       array[142] = 142;
       // set the value of the index 
