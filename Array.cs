@@ -288,11 +288,11 @@ public class Array
       // set the value of the index 
       array[136] = 105;
       // set the value of the index 
-      array[137] = 158;
+      array[137] = 137;
       // set the value of the index 
-      array[138] = 158;
+      array[138] = 138;
       // set the value of the index 
-      array[139] = 158;
+      array[139] = 139;
       // set the value of the index 
       array[140] = 140;
       // set the value of the index 
