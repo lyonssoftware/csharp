@@ -254,33 +254,33 @@ public class Array
       // set the value of the index 
       array[119] = 105;
       // set the value of the index 
-      array[120] = 105;
+      array[120] = 120;
       // set the value of the index 
-      array[121] = 105;
+      array[121] = 121;
       // set the value of the index 
-      array[122] = 105;
+      array[122] = 122;
       // set the value of the index 
-      array[123] = 105;
+      array[123] = 123;
       // set the value of the index 
-      array[124] = 105;]
+      array[124] = 124;]
       // set the value of the index 
-      array[125] = 105;
+      array[125] = 125;
       // set the value of the index 
-      array[126] = 105;
+      array[126] = 126;
       // set the value of the index 
-      array[127] = 105;
+      array[127] = 127;
       // set the value of the index 
-      array[128] = 105;
+      array[128] = 128;
       // set the value of the index 
-      array[129] = 105;
+      array[129] = 129;
       // set the value of the index 
-      array[130] = 105;
+      array[130] = 130;
       // set the value of the index 
-      array[131] = 105;
+      array[131] = 131;
       // set the value of the index 
-      array[132] = 105;
+      array[132] = 132;
       // set the value of the index 
-      array[133] = 105;
+      array[133] = 133;
       // set the value of the index 
       array[134] = 134;
       // set the value of the index 
