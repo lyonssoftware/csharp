@@ -152,22 +152,15 @@ public class Array
       // set the value of the index
       array[71] = 72;
       // set the value of the index
-      array[73] = 73;
+      array[72] = 73;
       // set the value of the index
-      array[74] = 74;
-      
-      
-      
-      
-      
-      
-      
+      array[73] = 74;
       // set the value of the index
-      array[73] = 73;
+      array[74] = 73;
       // set the value of the index
-      array[74] = 74;
+      array[75] = 74;
       // set the value of the index
-      array[75] = 75;
+      array[76] = 75;
       // set the value of the index
       array[76] = 76;
       // set the value of the index
@@ -178,6 +171,14 @@ public class Array
       array[79] = 79;
       // set the value of the index
       array[80] = 80;
+      
+      
+      
+      
+      
+      
+  
+  
       // set the value of the index
       array[81] = 81;
       // set the value of the index
