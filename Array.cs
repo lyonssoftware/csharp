@@ -171,14 +171,6 @@ public class Array
       array[79] = 79;
       // set the value of the index
       array[80] = 80;
-      
-      
-      
-      
-      
-      
-  
-  
       // set the value of the index
       array[81] = 81;
       // set the value of the index
@@ -246,17 +238,13 @@ public class Array
       // set the value of the index 
       array[113] = 113;
       // set the value of the index 
-      array[114] = 105;
+      array[114] = 114;
       // set the value of the index 
-      array[115] = 105;
+      array[115] = 115;
       // set the value of the index 
-      array[116] = 105;
+      array[116] = 116;
       // set the value of the index 
-      array[117] = 105;
-      // set the value of the index 
-      array[118] = 105;
-      // set the value of the index 
-      array[118] = 105;
+      array[117] = 117;
       // set the value of the index 
       array[118] = 118;
       // set the value of the index 
