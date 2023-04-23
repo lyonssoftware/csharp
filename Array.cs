@@ -412,7 +412,7 @@ public class Array
        // set the value of the index 
       array[199] = 199;
               // set the value of the index 
-      array[200] = 199;
+      array[200] = 200;
      
       // print the first element 
       Console.WriteLine(array[0]);
