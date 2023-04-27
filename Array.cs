@@ -419,7 +419,7 @@ public class Array
       array[202] = 202;
       // set the value of the index 
       array[203] = 203;
-               // set the value of the index 
+      // set the value of the index 
       array[204] = 204;
             
       // print the first element 
