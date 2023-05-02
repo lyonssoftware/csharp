@@ -421,9 +421,18 @@ public class Array
       array[203] = 203;
       // set the value of the index 
       array[204] = 204;
-      // set the value of the index 
+            
+                // set the value of the index 
       array[205] = 205;
+
+            
+            
+            
+            
   // c#  of using arrays
+            
+            
+            
 Using System;
 public class Array
 {
