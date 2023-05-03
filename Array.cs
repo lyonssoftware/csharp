@@ -425,6 +425,9 @@ public class Array
                 // set the value of the index 
       array[205] = 205;
 
+ // set the value of the index 
+      array[205] = 205;
+
             
             
             
