@@ -421,12 +421,14 @@ public class Array
       array[203] = 203;
       // set the value of the index 
       array[204] = 204;
-            
-                // set the value of the index 
+      // set the value of the index 
       array[205] = 205;
 
- // set the value of the index 
-      array[205] = 205;
+      // set the value of the index 
+      array[206] = 206;
+            
+      // set the value of the index 
+      array[207] = 207;
 
             
             
