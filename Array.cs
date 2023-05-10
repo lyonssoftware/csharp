@@ -443,6 +443,10 @@ public class Array
       
             // set the value of the index 
       array[210] = 210;
+      
+      
+            // set the value of the index 
+      array[210] = 210;
 
             
             
