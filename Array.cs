@@ -423,41 +423,20 @@ public class Array
       array[204] = 204;
       // set the value of the index 
       array[205] = 205;
-
       // set the value of the index 
-      array[206] = 206;
-            
+      array[206] = 206;  
       // set the value of the index 
       array[207] = 207;
-            
-             // set the value of the index 
+      // set the value of the index 
       array[208] = 208;
-              // set the value of the index 
+      // set the value of the index 
       array[209] = 209;
-
-            
-             // set the value of the index 
-      array[209] = 209;
-                 // set the value of the index 
+      // set the value of the index 
       array[210] = 210;
+      // set the value of the index 
+      array[211] = 211;
       
-            // set the value of the index 
-      array[210] = 210;
-      
-      
-            // set the value of the index 
-      array[212] = 212;
-      
-      
-            // set the value of the index 
-      array[213] = 213;
-
-            
-            
-            
-            
-  // c#  of using arrays
-            
+     
             
             
 Using System;
