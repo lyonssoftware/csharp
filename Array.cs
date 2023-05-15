@@ -442,7 +442,8 @@ public class Array
       // set the value of the index 
       array[212] = 212;
       
-      
+          // set the value of the index 
+      array[213] = 212;
      
             
             
