@@ -443,7 +443,7 @@ public class Array
       array[212] = 212;
       
           // set the value of the index 
-      array[213] = 212;
+      array[214] = 214;
      
             
             
