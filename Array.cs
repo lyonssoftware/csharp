@@ -415,15 +415,14 @@ public class Array
       array[200] = 200;
       // set the value of the index 
       array[201] = 201;
-      
-       // set the value of the index 
+      // set the value of the index 
       array[202] = 202;
-      
-       // set the value of the index 
+      // set the value of the index 
       array[203] = 203;
-      
-         // set the value of the index 
+      // set the value of the index 
       array[204] = 204;
+      // set the value of the index 
+      array[205] = 205;
             
       // print the first element 
       Console.WriteLine(array[0]);
