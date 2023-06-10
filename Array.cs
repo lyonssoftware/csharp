@@ -433,17 +433,12 @@ public class Array
       array[209] = 209;  
       // set the value of the index       
       array[210] = 210;  
-       // set the value of the index  
+      // set the value of the index  
       array[211] = 211; 
-            
-            array[212] = 212; 
-            
-            array[213] = 213; 
-            
-            array[214] = 214; 
-            
-            array[215] = 215;
-            
+      // set the value of the index
+      array[212] = 212; 
+      // set the value of the index 
+      array[213] = 213; 
             
       // print the first element 
       Console.WriteLine(array[0]);
