@@ -443,8 +443,10 @@ public class Array
       array[214] = 214; 
       // set the value of the index 
       array[215] = 215; 
-            
-               array[216] = 216;    
+      // set the value of the index 
+      array[216] = 216;    
+      // set the value of the index 
+      array[217] = 217; 
             
       // print the first element 
       Console.WriteLine(array[0]);
