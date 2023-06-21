@@ -459,6 +459,8 @@ public class Array
             array[222] = 222;
 
             array[223] = 223; 
+
+            array[224] = 224;
             
       // print the first element 
       Console.WriteLine(array[0]);
