@@ -469,6 +469,8 @@ public class Array
                array[227] = 227;   
       // set the value of the index
       array[228] = 228;   
+
+            array[229] = 229; 
             
       // print the first element 
       Console.WriteLine(array[0]);
