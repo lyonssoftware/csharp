@@ -455,22 +455,22 @@ public class Array
       array[220] = 220; 
       // set the value of the index 
       array[221] = 221; 
-            
-            array[222] = 222;
-
-            array[223] = 223; 
-
-            array[224] = 224;
-
-            array[225] = 225;
-
-            array[226] = 226;   
-
-               array[227] = 227;   
+      // set the value of the index
+      array[222] = 222; 
+      // set the value of the index
+      array[223] = 223; 
+      // set the value of the index
+      array[224] = 224;   
+      // set the value of the index
+      array[225] = 225;
+      // set the value of the index
+      array[226] = 226;   
+      // set the value of the index
+      array[227] = 227;  
       // set the value of the index
       array[228] = 228;   
-
-            array[229] = 229; 
+      // set the value of the index
+      array[229] = 229; 
             
       // print the first element 
       Console.WriteLine(array[0]);
