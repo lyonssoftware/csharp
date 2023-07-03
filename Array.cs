@@ -479,6 +479,8 @@ public class Array
              array[232] = 232;
 
             array[233] = 233;
+
+            array[234] = 234;
             
       // print the first element 
       Console.WriteLine(array[0]);
