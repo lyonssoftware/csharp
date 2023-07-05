@@ -473,16 +473,19 @@ public class Array
       array[229] = 229; 
       // set the value of the index
       array[230] = 230;   
-
-             array[231] = 231;
-
-             array[232] = 232;
+      // set the value of the index
+      array[231] = 231;
+      // set the value of the index
+      array[232] = 232;
 
             array[233] = 233;
 
             array[234] = 234;
 
             array[235] = 235;
+
+            
+            array[236] = 236;
             
       // print the first element 
       Console.WriteLine(array[0]);
