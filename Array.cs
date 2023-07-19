@@ -509,6 +509,8 @@ public class Array
       array[247] = 247;
       // set the value of the index
       array[248] = 248;
+      // set the value of the index
+      array[249] = 249;
             
       // print the first element 
       Console.WriteLine(array[0]);
