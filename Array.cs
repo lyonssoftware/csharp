@@ -521,6 +521,8 @@ public class Array
       array[253] = 253;
       // set the value of the index
       array[254] = 254;
+      // set the value of the index
+      array[255] = 255;
             
       // print the first element 
       Console.WriteLine(array[0]);
