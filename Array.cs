@@ -563,6 +563,8 @@ public class Array
       array[274] = 274;
       // set the value of the index
       array[275] = 275;
+      // set the value of the index
+      array[276] = 276;
             
       // print the first element 
       Console.WriteLine(array[0]);
