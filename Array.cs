@@ -580,7 +580,9 @@ public class Array
       // set the value of the index
       array[283] = 283;    
       // set the value of the index
-      array[284] = 284;    
+      array[284] = 284;  
+      // set the value of the index
+      array[285] = 285; 
             
       // print the first element 
       Console.WriteLine(array[0]);
