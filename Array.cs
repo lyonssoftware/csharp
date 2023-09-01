@@ -589,14 +589,14 @@ public class Array
       array[287] = 287; 
       // set the value of the index
       array[288] = 288; 
-   // set the value of the index
+      // set the value of the index
       array[289] = 289; 
-
-              // set the value of the index
+      // set the value of the index
       array[290] = 290; 
-
-                    // set the value of the index
+      // set the value of the index
       array[291] = 291; 
+      // set the value of the index
+      array[292] = 292; 
             
       // print the first element 
       Console.WriteLine(array[0]);
