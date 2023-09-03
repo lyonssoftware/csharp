@@ -599,6 +599,8 @@ public class Array
       array[292] = 292; 
      // set the value of the index
       array[293] = 293; 
+      // set the value of the index
+      array[294] = 294;        
             
       // print the first element 
       Console.WriteLine(array[0]);
