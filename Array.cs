@@ -611,6 +611,8 @@ public class Array
       array[298] = 298;  
 
              array[299] = 299;  
+
+                        array[299] = 299;  
                         
       // print the first element 
       Console.WriteLine(array[0]);
