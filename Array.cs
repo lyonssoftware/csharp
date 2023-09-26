@@ -733,6 +733,7 @@ public class Array
       Console.WriteLine(array[63]);
       Console.WriteLine(array[64]);     
       Console.WriteLine(array[65]);  
+      Console.WriteLine(array[66]); 
    }
    // the end of program
 }
