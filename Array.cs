@@ -744,7 +744,8 @@ public class Array
       Console.WriteLine(array[74]); 
       Console.WriteLine(array[75]); 
       Console.WriteLine(array[76]);
-      Console.WriteLine(array[77]); 
+      Console.WriteLine(array[77]);
+      Console.WriteLine(array[78]); 
    }
    // the end of program
 }
