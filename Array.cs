@@ -773,7 +773,7 @@ public class Array
       Console.WriteLine(array[103]);
       Console.WriteLine(array[104]);
       Console.WriteLine(array[105]);
-      Console.WriteLine(array[106]);       
+      Console.WriteLine(array[106]);
       Console.WriteLine(array[107]); 
       Console.WriteLine(array[108]); 
       Console.WriteLine(array[109]); 
@@ -790,7 +790,8 @@ public class Array
       Console.WriteLine(array[120]);
       Console.WriteLine(array[121]); 
       Console.WriteLine(array[122]); 
-      Console.WriteLine(array[123]); 
+      Console.WriteLine(array[123]);
+      Console.WriteLine(array[124]); 
    }
    // the end of program
 }
