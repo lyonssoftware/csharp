@@ -803,6 +803,7 @@ public class Array
       Console.WriteLine(array[150]);
       Console.WriteLine(array[151]);
       Console.WriteLine(array[152]);
+      Console.WriteLine(array[153]);
    }
    // the end of program
 }
