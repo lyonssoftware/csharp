@@ -810,6 +810,7 @@ public class Array
       Console.WriteLine(array[157]);
       Console.WriteLine(array[158]);
       Console.WriteLine(array[159]);
+      Console.WriteLine(array[160]);
    }
    // the end of program
 }
