@@ -811,6 +811,7 @@ public class Array
       Console.WriteLine(array[158]);
       Console.WriteLine(array[159]);
       Console.WriteLine(array[160]);
+      Console.WriteLine(array[161]);
    }
    // the end of program
 }
