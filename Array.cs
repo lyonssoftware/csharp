@@ -6,8 +6,7 @@ public class Array
    {
      // create an int array of 200 indexes 
      int[] array = new int[300];
-    
-      // set the first array entry to 1
+\
       array[0] = 0;
       // add to the array
       array[1] = 1;
@@ -410,207 +409,7 @@ public class Array
        // set the value of the index 
       array[198] = 198;
        // set the value of the index 
-      array[199] = 199;
-      // set the value of the index 
-      array[200] = 200;
-      // set the value of the index 
-      array[201] = 201;
-      // set the value of the index 
-      array[202] = 202;
-      // set the value of the index 
-      array[203] = 203;
-      // set the value of the index 
-      array[204] = 204;
-      // set the value of the index 
-      array[205] = 205;
-      // set the value of the index 
-      array[206] = 206;
-      // set the value of the index       
-      array[207] = 207;
-      // set the value of the index       
-      array[208] = 208;    
-      // set the value of the index       
-      array[209] = 209;  
-      // set the value of the index       
-      array[210] = 210;  
-      // set the value of the index  
-      array[211] = 211; 
-      // set the value of the index
-      array[212] = 212; 
-      // set the value of the index 
-      array[213] = 213; 
-      // set the value of the index 
-      array[214] = 214; 
-      // set the value of the index 
-      array[215] = 215; 
-      // set the value of the index 
-      array[216] = 216;    
-      // set the value of the index 
-      array[217] = 217; 
-      // set the value of the index 
-      array[218] = 218; 
-      // set the value of the index 
-      array[219] = 219; 
-      // set the value of the index 
-      array[220] = 220; 
-      // set the value of the index 
-      array[221] = 221; 
-      // set the value of the index
-      array[222] = 222; 
-      // set the value of the index
-      array[223] = 223; 
-      // set the value of the index
-      array[224] = 224;   
-      // set the value of the index
-      array[225] = 225;
-      // set the value of the index
-      array[226] = 226;   
-      // set the value of the index
-      array[227] = 227;  
-      // set the value of the index
-      array[228] = 228;   
-      // set the value of the index
-      array[229] = 229; 
-      // set the value of the index
-      array[230] = 230;   
-      // set the value of the index
-      array[231] = 231;
-      // set the value of the index
-      array[232] = 232;
-      // set the value of the index
-      array[233] = 233;
-      // set the value of the index
-      array[234] = 234;
-      // set the value of the index
-      array[235] = 235;
-      // set the value of the index      
-      array[236] = 236;
-      // set the value of the index
-      array[237] = 237;
-      // set the value of the index
-      array[238] = 238;
-      // set the value of the index
-      array[239] = 239;
-      // set the value of the index
-      array[240] = 240;
-      // set the value of the index
-      array[241] = 241;
-      // set the value of the index
-      array[242] = 242;
-      // set the value of the index
-      array[243] = 243;
-      // set the value of the index
-      array[244] = 244;
-      // set the value of the index
-      array[245] = 245;
-      // set the value of the index
-      array[246] = 246;
-      // set the value of the index
-      array[247] = 247;
-      // set the value of the index
-      array[248] = 248;
-      // set the value of the index
-      array[249] = 249;
-      // set the value of the index
-      array[250] = 250;
-      // set the value of the index
-      array[251] = 251;
-      // set the value of the index
-      array[252] = 252;
-      // set the value of the index
-      array[253] = 253;
-      // set the value of the index
-      array[254] = 254;
-      // set the value of the index
-      array[255] = 255;
-      // set the value of the index
-      array[256] = 256;
-      // set the value of the index
-      array[257] = 257;
-      // set the value of the index
-      array[258] = 258;
-      // set the value of the index
-      array[259] = 259;
-      // set the value of the index
-      array[260] = 260;
-      // set the value of the index
-      array[261] = 261;
-      // set the value of the index
-      array[262] = 262;
-      // set the value of the index
-      array[263] = 263;
-      // set the value of the index
-      array[264] = 264;
-      // set the value of the index
-      array[265] = 265;
-      // set the value of the index
-      array[266] = 266;
-      // set the value of the index
-      array[267] = 267;
-      // set the value of the index
-      array[268] = 268;
-      // set the value of the index
-      array[269] = 269;
-      // set the value of the index
-      array[270] = 270;
-      // set the value of the index
-      array[271] = 271;
-      // set the value of the index
-      array[272] = 272;
-      // set the value of the index
-      array[273] = 273;
-      // set the value of the index
-      array[274] = 274;
-      // set the value of the index
-      array[275] = 275;
-      // set the value of the index
-      array[276] = 276;
-      // set the value of the index
-      array[277] = 277;
-      // set the value of the index
-      array[278] = 278;
-      // set the value of the index
-      array[279] = 279;
-      // set the value of the index
-      array[280] = 280;
-      // set the value of the index
-      array[281] = 281;
-      // set the value of the index
-      array[282] = 282;    
-      // set the value of the index
-      array[283] = 283;    
-      // set the value of the index
-      array[284] = 284;  
-      // set the value of the index
-      array[285] = 285; 
-      // set the value of the index
-      array[286] = 286; 
-      // set the value of the index
-      array[287] = 287; 
-      // set the value of the index
-      array[288] = 288; 
-      // set the value of the index
-      array[289] = 289; 
-      // set the value of the index
-      array[290] = 290; 
-      // set the value of the index
-      array[291] = 291; 
-      // set the value of the index
-      array[292] = 292; 
-      // set the value of the index
-      array[293] = 293; 
-      // set the value of the index
-      array[294] = 294;                  
-      // set the value of the index
-      array[295] = 295;
-      // set the value of the index
-      array[296] = 296;
-      // set the value of the index
-      array[297] = 297;
-      // set the value of the index
-      array[298] = 298;  
-      // set the value of the index
-      array[299] = 299;    
+      array[199] = 199; 
             
       // print the first element 
       Console.WriteLine(array[0]);
@@ -706,21 +505,13 @@ public class Array
       Console.WriteLine(array[45]);
       // print the forty-seventh
       Console.WriteLine(array[46]);
-      // print the forty-eighth
       Console.WriteLine(array[47]);
-      // print the forty-ninth
       Console.WriteLine(array[48]);
-       // print the fifthieth
       Console.WriteLine(array[49]);
-      // print the fifty-first
       Console.WriteLine(array[50]);
-      // print the fifty-second
       Console.WriteLine(array[51]);
-      // print the fifty-third
       Console.WriteLine(array[52]);
-      // print the fifty-fourth
       Console.WriteLine(array[53]);
-
       Console.WriteLine(array[54]);
       Console.WriteLine(array[55]);
       Console.WriteLine(array[56]);
@@ -851,7 +642,6 @@ public class Array
       Console.WriteLine(array[197]);
       Console.WriteLine(array[198]);
       Console.WriteLine(array[199]);
-      Console.WriteLine(array[200]);
    }
    // the end of program
 }
