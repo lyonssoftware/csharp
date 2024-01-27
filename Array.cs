@@ -5,8 +5,7 @@ public class Array
    public static void Main()
    {
      // create an int array of 200 indexes 
-     int[] array = new int[300];
-\
+      int[] array = new int[200];
       array[0] = 0;
       // add to the array
       array[1] = 1;
@@ -410,28 +409,16 @@ public class Array
       array[198] = 198;
        // set the value of the index 
       array[199] = 199; 
-            
-      // print the first element 
+
       Console.WriteLine(array[0]);
-      // print the second element 
       Console.WriteLine(array[1]);
-      // print the third element 
-      Console.WriteLine(array[2]);
-      // print the fourth element 
       Console.WriteLine(array[3]);
-      // print the fifth element 
       Console.WriteLine(array[4]);
-      // print the sixth element 
       Console.WriteLine(array[5]);
-      // print the seventh element 
       Console.WriteLine(array[6]);
-      // print the eighth element 
       Console.WriteLine(array[7]);
-      // print the ninth element 
       Console.WriteLine(array[8]);
-      // print the tenth element 
       Console.WriteLine(array[9]);
-      // print the eleventh element 
       Console.WriteLine(array[10]);
       // print the twelth element 
       Console.WriteLine(array[11]);
