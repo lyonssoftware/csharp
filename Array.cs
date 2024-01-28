@@ -420,11 +420,8 @@ public class Array
       Console.WriteLine(array[8]);
       Console.WriteLine(array[9]);
       Console.WriteLine(array[10]);
-      // print the twelth element 
       Console.WriteLine(array[11]);
-      // print the thirteenth element 
       Console.WriteLine(array[12]);
-      // print the fourteenth element 
       Console.WriteLine(array[13]);
       // print the fifteenth element 
       Console.WriteLine(array[14]);
