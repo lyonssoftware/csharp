@@ -440,15 +440,10 @@ public class Array
       Console.WriteLine(arrray[29]);
       Console.WriteLine(array[30]);
       Console.WriteLine(array[31]);
-      // print the thirty-third
       Console.Writelibe(array[32]);
-      // print the thirty-fourth
       Console.WriteLine(array[33]);
-      // print the thirty-fifth
       Console.WriteLine(array[34]);
-      // print the thirty-sixth
       Console.WriteLine(array[35]);
-      // print the thirty-seventh
       Console.WriteLine(array[36]);
       // print the thirty-eighth
       Console.WriteLine(array[37]);
