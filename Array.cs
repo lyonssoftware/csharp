@@ -445,25 +445,15 @@ public class Array
       Console.WriteLine(array[34]);
       Console.WriteLine(array[35]);
       Console.WriteLine(array[36]);
-      // print the thirty-eighth
       Console.WriteLine(array[37]);
-      // print the thirty-ninth
       Console.WriteLine(array[38]);
-      // print the fourtieth
       Console.WriteLine(array[39]);
-      // print the forty-first
       Console.WriteLine(array[40]);
-      // print the forty-second
       Console.WriteLine(array[41]);
-      // print the forty-third
       Console.WriteLine(array[42]);
-      // print the forty-fourth
       Console.WriteLine(array[43]);
-      // print the forty-fifth
       Console.WriteLine(array[44]);
-      // print the forty-sixth
       Console.WriteLine(array[45]);
-      // print the forty-seventh
       Console.WriteLine(array[46]);
       Console.WriteLine(array[47]);
       Console.WriteLine(array[48]);
