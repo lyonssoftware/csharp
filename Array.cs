@@ -6,6 +6,8 @@ public class Array
    {
      // create an int array of 200 indexes 
       int[] array = new int[200];
+
+       // add to the array
       array[0] = 0;
       // add to the array
       array[1] = 1;
