@@ -21,9 +21,9 @@ public class Array
       array[6] = 6; 
       // add to the int array 
       array[7] = 7; 
-
+      // add to the int array 
       array[8] = 8;
-      // set the value of the index o
+      // set the value of the index 
       array[9] = 9;
       // add to the int array 
       array[10] = 10;
@@ -405,7 +405,7 @@ public class Array
       array[196] = 196;
       // set the value of the index 
       array[197] = 197;
-       // set the value of the index 
+      // set the value of the index 
       array[198] = 198;
        // set the value of the index 
       array[199] = 199; 
@@ -434,10 +434,10 @@ public class Array
       Console.WriteLine(array[23]);
       Console.WriteLine(array[24]);
       Console.WriteLine(array[25]);
-      Console.WriteLine(arrray[26]);
-      Console.WriteLine(arrray[27]);
-      Console.WriteLine(arrray[28]);
-      Console.WriteLine(arrray[29]);
+      Console.WriteLine(array[26]);
+      Console.WriteLine(array[27]);
+      Console.WriteLine(array[28]);
+      Console.WriteLine(array[29]);
       Console.WriteLine(array[30]);
       Console.WriteLine(array[31]);
       Console.Writelibe(array[32]);
