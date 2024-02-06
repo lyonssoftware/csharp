@@ -14,13 +14,11 @@ class ArrayLength
         int lengthA = arrayA.Length;
         // print the array and the length
         Console.WriteLine("Length of ArrayA : {0}", +lengthA); 
-      
-          // print the current size of the array  
-          Console.WriteLine("Length of ArrayB : {0}", +lengthB); 
+        // print the current size of the array  
+        Console.WriteLine("Length of ArrayB : {0}", +lengthB); 
         long longLength = arrayA.LongLength;
         // print the array Length
         Console.WriteLine("Length of the LongLength Array  : {0}",longLength);
-        
         int[,] twoD = new int[5, 10];
         Console.WriteLine("The Size of 2D Array is : {0}",twoD.Length);
         // read the last line
