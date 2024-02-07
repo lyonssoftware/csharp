@@ -16,6 +16,7 @@ class ArraySort
             "Cyan",
             "Green",
             "Pink",
+            "Mango",
             "Red"
         };
         
