@@ -407,9 +407,7 @@ public class Array
       array[196] = 196;
       // set the value of the index 
       array[197] = 197;
-      // set the value of the index 
-      array[198] = 198;
-       // set the value of the index 
+      array[198] = 197;
       array[199] = 199; 
 
       Console.WriteLine(array[0]);
