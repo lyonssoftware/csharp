@@ -13,7 +13,7 @@ public class Array
       array[1] = 1;
 
       array[2] = 2;
-      // add to the int array
+   
       array[3] = 3;
       // add to the int array 
       array[4] = 4;
