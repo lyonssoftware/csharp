@@ -11,11 +11,8 @@ public class Array
       array[0] = 0;
       // add to the array
       array[1] = 1;
-
       array[2] = 2;
-   
       array[3] = 3;
-      // add to the int array 
       array[4] = 4;
       // add to the int array 
       array[5] = 5;
