@@ -14,7 +14,6 @@ public class Array
       array[2] = 2;
       array[3] = 3;
       array[4] = 4;
-      // add to the int array 
       array[5] = 5;
       // fadd to the int array 
       array[6] = 6; 
