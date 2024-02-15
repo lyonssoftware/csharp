@@ -9,7 +9,6 @@ public class Array
 
        // add to the array
       array[0] = 0;
-      // add to the array
       array[1] = 1;
       array[2] = 2;
       array[3] = 3;
@@ -18,15 +17,10 @@ public class Array
       array[6] = 6; 
       array[7] = 7; 
       array[8] = 8;
-      // set the value of the index 
       array[9] = 9;
-      // add to the int array 
       array[10] = 10;
-      // set the value of the index 
       array[11] = 11;
-      // set the value of the index 
       array[12] = 12;
-   
       array[13] = 13;
       // set the value of the index 
       array[14] = 14;
