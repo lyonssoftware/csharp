@@ -22,17 +22,11 @@ public class Array
       array[11] = 11;
       array[12] = 12;
       array[13] = 13;
-      // set the value of the index 
       array[14] = 14;
-      // set the value of the index 
-      array[15] = 15;
-      // set the value of the index 
+      array[15] = 15; 
       array[16] = 16;
-      // set the value of the index 
       array[17] = 17;
-      // set the value of the index 
       array[18] = 18;
-      // set the value of the index 
       array[19] = 19;
       // set the value of the index
       array[20] = 20;
