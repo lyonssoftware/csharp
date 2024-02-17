@@ -28,7 +28,6 @@ public class Array
       array[17] = 17;
       array[18] = 18;
       array[19] = 19;
-      // set the value of the index
       array[20] = 20;
       // set the value of the index 
       array[21] = 21;
