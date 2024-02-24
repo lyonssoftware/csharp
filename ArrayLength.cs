@@ -4,7 +4,9 @@ class ArrayLength
     // main 
     static void Main()
     {
-        // intitialize the int array with five elements
+        // intitialize the 
+        
+        // int array with five elements
         int[] arrayA = new int[5];
         // intitialize the int array with ten elements
         int[] arrayB = new int[10];
