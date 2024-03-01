@@ -55,9 +55,7 @@ public class Array
       array[44] = 44;
       array[45] = 45;
       array[46] = 46;
-      // set the value of the index
       array[47] = 47;
-      // set the value of the index
       array[48] = 48;
       // set the value of the index
       array[49] = 49;
