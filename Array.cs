@@ -81,11 +81,8 @@ public class Array
       array[70] = 70;
       array[71] = 72;
       array[72] = 73;
-      // set the value of the index
       array[73] = 74;
-      // set the value of the index
       array[74] = 73;
-      // set the value of the index
       array[75] = 74;
       // set the value of the index
       array[76] = 75;
