@@ -95,11 +95,8 @@ public class Array
       array[83] = 83;
       array[84] = 84;
       array[85] = 85;
-      // set the value of the index
       array[86] = 86;
-      // set the value of the index
       array[87] = 87;
-      // set the value of the index
       array[88] = 88;
       // set the value of the index
       array[89] = 89;
