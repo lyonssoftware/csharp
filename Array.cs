@@ -102,9 +102,7 @@ public class Array
       array[90] = 90;
       array[91] = 91;
       array[92] = 92;
-      // set the value of the index
       array[93] = 93;
-      // set the value of the index
       array[94] = 94;
       // set the value of the index
       array[95] = 95;
