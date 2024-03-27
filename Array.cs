@@ -110,9 +110,7 @@ public class Array
       array[98] = 98; 
       array[99] = 99;
       array[100] = 100;
-      // set the value of the index
-      array[101] = 101;
-      // set the value of the index    
+      array[101] = 101;   
       array[102] = 102;
       // set the value of the index    
       array[103] = 103;
