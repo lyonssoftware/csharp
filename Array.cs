@@ -114,9 +114,7 @@ public class Array
       array[102] = 102;  
       array[103] = 103;  
       array[104] = 104;
-      // set the value of the index    
       array[105] = 105;
-      // set the value of the index    
       array[106] = 106;
       // set the value of the index    
       array[107] = 107;
