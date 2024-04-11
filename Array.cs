@@ -132,10 +132,8 @@ public class Arra
       array[120] = 120;
       array[121] = 121;
       array[122] = 122;
-      array[123] = 123;
-      // set the value of the index 
-      array[124] = 124;]
-      // set the value of the index 
+      array[123] = 123; 
+      array[124] = 124;
       array[125] = 125;
       // set the value of the index 
       array[126] = 126;
