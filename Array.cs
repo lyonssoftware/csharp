@@ -140,9 +140,7 @@ public class Arra
       array[128] = 128;
       array[129] = 129;
       array[130] = 130;
-      // set the value of the index 
       array[131] = 131;
-      // set the value of the index 
       array[132] = 132;
       // set the value of the index 
       array[133] = 133;
