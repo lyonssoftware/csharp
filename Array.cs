@@ -1,6 +1,6 @@
 // c#  of using arrays
 Using System;
-public class Arra
+public class Array
 {
    public static void Main()
    {
@@ -147,9 +147,7 @@ public class Arra
       array[135] = 135;
       array[136] = 136;
       array[137] = 137;
-      // set the value of the index 
       array[138] = 138;
-      // set the value of the index 
       array[139] = 139;
       // set the value of the index 
       array[140] = 140;
