@@ -153,7 +153,6 @@ public class Array
       array[141] = 141;
       array[142] = 142;
       array[143] = 143;
-      // set the value of the index 
       array[144] = 144;
       // set the value of the index 
       array[145] = 145;
