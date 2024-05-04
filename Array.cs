@@ -177,9 +177,7 @@ public class Array
       array[165] = 165;
       array[166] = 166;
       array[167] = 167;
-      // set the value of the index 
-      array[168] = 168;
-      // set the value of the index 
+      array[168] = 168; 
       array[169] = 169;
       // set the value of the index 
       array[170] = 170;      
