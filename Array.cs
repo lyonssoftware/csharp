@@ -194,7 +194,6 @@ public class Array
       array[182] = 182;
       array[183] = 183; 
       array[184] = 184;
-      // set the value of the index 
       array[185] = 185;
       // set the value of the index 
       array[186] = 186;
