@@ -6,7 +6,6 @@ public class Array
    {
      // create an int array of 200 indexes 
       int[] array = new int[200];
-
        // add to the array
       array[0] = 0;
       array[1] = 1;
@@ -210,6 +209,7 @@ public class Array
       array[198] = 197;
       array[199] = 199; 
 
+      // print array
       Console.WriteLine(array[0]);
       Console.WriteLine(array[1]);
       Console.WriteLine(array[3]);
