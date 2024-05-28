@@ -5,11 +5,9 @@ public class Sort
    // main method 
    public static void main()
    {
-      // initialize the variable a
+      // initialize the variables a, b, c
       int a = 5;
-      // initialize the variable b
       int b = 3;
-      
       int c = 8;
 
       // create an int array with 5 
