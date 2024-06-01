@@ -4,8 +4,8 @@ public class Array
 {
    public static void Main()
    {
-     // create an int array of 200 indexes 
-      int[] array = new int[200];
+     // create an int array of 100 indexes 
+      int[] array = new int[100];
        // add to the array
       array[0] = 0;
       array[1] = 1;
@@ -108,106 +108,7 @@ public class Array
       array[97] = 97;
       array[98] = 98; 
       array[99] = 99;
-      array[100] = 100;
-      array[101] = 101;   
-      array[102] = 102;  
-      array[103] = 103;  
-      array[104] = 104;
-      array[105] = 105;
-      array[106] = 106; 
-      array[107] = 107;  
-      array[108] = 108;  
-      array[109] = 109;
-      array[110] = 110;    
-      array[111] = 111;
-      array[112] = 112;
-      array[113] = 113;
-      array[114] = 114;
-      array[115] = 115;
-      array[116] = 116;
-      array[117] = 117;
-      array[118] = 118;
-      array[119] = 119;
-      array[120] = 120;
-      array[121] = 121;
-      array[122] = 122;
-      array[123] = 123; 
-      array[124] = 124;
-      array[125] = 125;
-      array[126] = 126;
-      array[127] = 127;
-      array[128] = 128;
-      array[129] = 129;
-      array[130] = 130;
-      array[131] = 131;
-      array[132] = 132;
-      array[133] = 133;
-      array[134] = 134;
-      array[135] = 135;
-      array[136] = 136;
-      array[137] = 137;
-      array[138] = 138;
-      array[139] = 139;
-      array[140] = 140;
-      array[141] = 141;
-      array[142] = 142;
-      array[143] = 143;
-      array[144] = 144;
-      array[145] = 145;
-      array[146] = 146;
-      array[147] = 147;
-      array[148] = 148;
-      array[149] = 149;
-      array[150] = 150;
-      array[151] = 151;
-      array[152] = 152;
-      array[153] = 153;
-      array[154] = 154;
-      array[155] = 155;
-      array[156] = 156;
-      array[157] = 157;
-      array[158] = 158;
-      array[159] = 159;
-      array[160] = 160;
-      array[161] = 161;
-      array[162] = 162;
-      array[163] = 163;
-      array[164] = 164;
-      array[165] = 165;
-      array[166] = 166;
-      array[167] = 167;
-      array[168] = 168; 
-      array[169] = 169;
-      array[170] = 170;      
-      array[171] = 171; 
-      array[172] = 172;
-      array[173] = 173;
-      array[174] = 174;
-      array[175] = 175;
-      array[176] = 176;
-      array[177] = 177;
-      array[178] = 178;
-      array[179] = 179;
-      array[180] = 180;
-      array[181] = 181;
-      array[182] = 182;
-      array[183] = 183; 
-      array[184] = 184;
-      array[185] = 185;
-      array[186] = 186;
-      array[187] = 187;
-      array[188] = 188;
-      array[189] = 189;
-      array[190] = 190;
-      array[191] = 191;
-      array[192] = 192;
-      array[193] = 193;
-      array[194] = 194;
-      array[195] = 195;
-      array[196] = 196;
-      array[197] = 197;
-      array[198] = 197;
-      array[199] = 199; 
+   
 
       // print array
       Console.WriteLine(array[0]);
