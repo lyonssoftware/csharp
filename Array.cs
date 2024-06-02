@@ -1,4 +1,4 @@
-// c#  of using arrays
+d// c#  of using arrays
 Using System;
 public class Array
 {
@@ -209,90 +209,6 @@ public class Array
       Console.WriteLine(array[97]); 
       Console.WriteLine(array[98]);
       Console.WriteLine(array[99]);
-      Console.WriteLine(array[100]);
-      Console.WriteLine(array[101]);
-      Console.WriteLine(array[102]);
-      Console.WriteLine(array[103]);
-      Console.WriteLine(array[104]);
-      Console.WriteLine(array[105]);
-      Console.WriteLine(array[106]);
-      Console.WriteLine(array[107]); 
-      Console.WriteLine(array[108]); 
-      Console.WriteLine(array[109]); 
-      Console.WriteLine(array[110]); 
-      Console.WriteLine(array[111]); 
-      Console.WriteLine(array[112]);   
-      Console.WriteLine(array[113]);
-      Console.WriteLine(array[114]);
-      Console.WriteLine(array[115]);
-      Console.WriteLine(array[116]);
-      Console.WriteLine(array[117]);
-      Console.WriteLine(array[118]);
-      Console.WriteLine(array[119]);
-      Console.WriteLine(array[120]);
-      Console.WriteLine(array[121]); 
-      Console.WriteLine(array[122]); 
-      Console.WriteLine(array[123]);
-      Console.WriteLine(array[124]); 
-      Console.WriteLine(array[125]); 
-      Console.WriteLine(array[126]);  
-      Console.WriteLine(array[127]); 
-      Console.WriteLine(array[128]);
-      Console.WriteLine(array[129]);
-      Console.WriteLine(array[130]);
-      Console.WriteLine(array[140]);
-      Console.WriteLine(array[149]);
-      Console.WriteLine(array[150]);
-      Console.WriteLine(array[151]);
-      Console.WriteLine(array[152]);
-      Console.WriteLine(array[153]);
-      Console.WriteLine(array[154]);
-      Console.WriteLine(array[155]);
-      Console.WriteLine(array[156]);
-      Console.WriteLine(array[157]);
-      Console.WriteLine(array[158]);
-      Console.WriteLine(array[159]);
-      Console.WriteLine(array[160]);
-      Console.WriteLine(array[161]);
-      Console.WriteLine(array[162]);
-      Console.WriteLine(array[163]);
-      Console.WriteLine(array[164]);
-      Console.WriteLine(array[165]);
-      Console.WriteLine(array[166]);
-      Console.WriteLine(array[167]);
-      Console.WriteLine(array[168]);
-      Console.WriteLine(array[169]);
-      Console.WriteLine(array[170]);
-      Console.WriteLine(array[171]);
-      Console.WriteLine(array[172]); 
-      Console.WriteLine(array[173]);    
-      Console.WriteLine(array[174]); 
-      Console.WriteLine(array[175]); 
-      Console.WriteLine(array[176]); 
-      Console.WriteLine(array[177]);     
-      Console.WriteLine(array[178]); 
-      Console.WriteLine(array[179]); 
-      Console.WriteLine(array[180]); 
-      Console.WriteLine(array[181]); 
-      Console.WriteLine(array[182]); 
-      Console.WriteLine(array[183]);
-      Console.WriteLine(array[184]);
-      Console.WriteLine(array[185]);
-      Console.WriteLine(array[186]);   
-      Console.WriteLine(array[187]); 
-      Console.WriteLine(array[188]);
-      Console.WriteLine(array[189]); 
-      Console.WriteLine(array[190]); 
-      Console.WriteLine(array[191]); 
-      Console.WriteLine(array[191]); 
-      Console.WriteLine(array[192]); 
-      Console.WriteLine(array[193]);
-      Console.WriteLine(array[194]);
-      Console.WriteLine(array[195]);
-      Console.WriteLine(array[196]);
-      Console.WriteLine(array[197]);
-      Console.WriteLine(array[198]);
-      Console.WriteLine(array[199]);
    }
    // the end of program
 }
