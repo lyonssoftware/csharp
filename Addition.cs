@@ -6,9 +6,7 @@ public class Addition
    { 
     // initialize the integer a
     int a = 15;
-      //ghg
 
-      //hello
     // initialize the integer aa
     int aa = 30; s       // c#  of using arrays
 Using System;
