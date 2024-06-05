@@ -10,7 +10,8 @@ class Date
     // new format of the date 
     String.Format("{0:y yy yyy yyyy}", dt);  // "8 08 008 2008"   year
     // new format of the date with the date first
-     String.Format("{0:M MM MMM MMMM}", dt);  // "3 03 Mar March"  month
+    String.Format("{0:M MM MMM MMMM}", dt); 
+    // "3 03 Mar March"  month
     String.Format("{0:d dd ddd dddd}", dt);  // "9 09 Sun Sunday" day
     String.Format("{0:h hh H HH}",     dt);  // "4 04 16 16"      hour 12/24
     // format the minute 
