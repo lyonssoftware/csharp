@@ -7,13 +7,13 @@ Class Division
     {
         // initialize x to 3 
         int x = 3;
-         // initialize y to 8
+        // initialize y to 8
         int y = 8;
         // initalize c to 10
         int c = 10;
         // initialize the variable d
         int d = 3;
-          // initalize 3 to 18
+        // initalize 3 to 18
         int e = 18;
         // initialize the variable w
         int w = 7;
@@ -39,7 +39,7 @@ Class Division
         int n = 78;
         // set the int z to 55
         int z = 55;
-// new int 
+        // set int r to 51
         int r = 51;
          // set the int w to 42
         int w = 42;
