@@ -93,7 +93,7 @@ public class Addition
    // initialize the int o to 65
    int o = 65;
    // initialize the int mm to 92
-   int mm = 92;
+   int mm = 100;
    // initialize the int ot to 78
    int ot = 78;
    // initialize the int lk to 64
