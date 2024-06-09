@@ -339,29 +339,5 @@ public class Addition
     Console.WriteLine(aa+kk+dd+ii+bb); 
     // print the sum of 
     Console.WriteLine(cc+kk+dd); 
-    // print the sum of 
-    Console.WriteLine(aa+ii+bb); 
-    // print the sum of   
-    Console.WriteLine(cc+kk+jj); 
-    // print the sum of 
-    Console.WriteLine(k+dd); 
-    // print the sum of 
-    Console.WriteLine(aa+kk+dd+ii+bb); 
-    // print the sum of   
-    Console.WriteLine(cc+kk+dd); 
-    // print the sum of 
-    Console.WriteLine(aa+kk+dd);
-    // print the sum of 
-    Console.WriteLine(cc+kk+dd); 
-    // print the sum of 
-    Console.WriteLine(aa+ii+bb); 
-    // print the sum of   
-    Console.WriteLine(cc+kk+jj); 
-    // print the sum of 
-    Console.WriteLine(aa+bb); 
-    // print the sum of   
-    Console.WriteLine(dd); 
-    // print the sum of 
-    Console.WriteLine(aa+bb+cc+dd); 
   }
 } // end of the program
