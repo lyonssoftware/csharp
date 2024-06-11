@@ -320,14 +320,6 @@ public class Addition
     // print the sum of 
     Console.WriteLine(bb+ee+ii+dd);
     // print the sum of 
-    Console.WriteLine(ee+aa+gg+dd);  
-    // print the sum of 
-    Console.WriteLine(bb+k+ii+l);  
-    // print the sum of 
-    Console.WriteLine(cc+kk+dd); 
-    // print the sum of 
-    Console.WriteLine(aa+kk+dd+ii+bb); 
-    // print the sum of 
     Console.WriteLine(k+dd); 
     // print the sum of 
     Console.WriteLine(aa+kk+dd+ii+bb); 
