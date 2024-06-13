@@ -4,9 +4,9 @@ public class Array
 {
    public static void Main()
    {
-     // create an int array of 100 indexes 
+      // create an int array of 100 indexes 
       int[] array = new int[100];
-       // add to the array
+      // add to the array
       array[0] = 0;
       array[1] = 1;
       array[2] = 2;
