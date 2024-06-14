@@ -235,16 +235,6 @@ public class Addition
     // initialize the int ttt to 532
     int ttt = 532;
     // initialize the int nnn to 32
-    int nnn = 32;
-    // initialize the int mmm to 89
-    int mmm = 89;
-    // initialize the int ccc to 87
-    int ccc = 87;
-    // initialize the int tnt to 800
-    int tnt = 800;
-    // initialize the int PHP to 57
-    int PHP = 57;
-    // initialize the int ppp to 45
     int ppp = 45;
     // initialize the int fff to 39
     int fff = 39;
