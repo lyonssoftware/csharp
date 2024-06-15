@@ -228,20 +228,6 @@ public class Addition
     int mmm = 98;
     // initialize the int eee to 55    
     int eee = 55;
-    // initialize the int hhh to 28
-    int hhh = 28;
-    // initialize the int qqq to 78
-    int qqq = 78;
-    // initialize the int ttt to 532
-    int ttt = 532;
-    // initialize the int nnn to 32
-    int ppp = 45;
-    // initialize the int fff to 39
-    int fff = 39;
-    // initialize the int krk to 32
-    int krk = 32;
-    // initialize the int wow to 97
-    int wow = 92;
     // initialize the int sns to 23
     int sns = 23;
     // initialize the int iou to 50
