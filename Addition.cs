@@ -275,14 +275,6 @@ public class Addition
     Console.WriteLine(a+b+c);
     // print the sum of 9 + 8 + 67 = 84
     Console.WriteLine(e+g+i);   
-    // print the sum of 5 + 3 + 7 + 9 + 8 + 67 = 106
-    Console.WriteLine(a+b+c+e+g+i);
-    // print the sum of 67 + 8 + 9 + 7 + 3 + 5 = 99
-    Console.WriteLine(i+g+e+c+b+a);  
-    // print the sum of 67 + 8 + 9 + 7 + 3 + 5 = 99
-    Console.WriteLine(i+g+e+c+b+a);
-    // print the sum of 15 + 30 + 60 + 90 = 195
-    Console.WriteLine(aa+bb+cc+dd);
     // print the sum of 
     Console.WriteLine(bb+ee+ii+dd);
     // print the sum of 
