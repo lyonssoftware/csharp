@@ -230,18 +230,6 @@ public class Addition
     int eee = 55;
     // initialize the int sns to 23
     int sns = 23;
-    // initialize the int iou to 50
-    int iou = 50;
-    // initialize the int iou to 50
-    int iou = 50;
-    // initialize the int you to 30
-    int iou = 30;
-    // initialize the int we to 14
-    int we = 14;
-    // initialize the int io to 67
-    int io = 67;
-    // initialize the int zion to 75
-    int zion = 75;
     // initialize the int lvl to 69
     int lvl = 69;
     // initialize the int you to 100
