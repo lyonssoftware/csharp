@@ -253,13 +253,6 @@ public class Addition
     Console.Writeline(a+d);
     // print the sum of 9 + 1 = 10
     Console.Writeline(e+f);
-    // print the sum of 5 + 1 = 6
-    Console.Writeline(a+c);
-    // print the sum of 3 + 2 = 5
-    Console.Writeline(b+d);
-    Console.WriteLine(aa+kk+dd);
-    // print the sum of 
-    Console.WriteLine(aa+kk+dd+ii+bb); 
     // print the sum of 
     Console.WriteLine(cc+kk+dd); 
   }
