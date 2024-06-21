@@ -194,20 +194,6 @@ public class Addition
     int od = 32;
     // initialize the int fff to 56
     int fff = 56;
-    // initialize the int ccc to 35
-    int ccc = 35;
-    // initialize the int ddd to 8
-    int rrr = 34;
-    // initialize the int ggg to 28
-    int ggg = 28;
-    // initialize the int vvv to 87
-    int vvv = 87;
-    // initialize the int sss to 67
-    int sss = 67;
-    // initialize the int aaa to 67
-    int aaa = 38;
-    // initialize the int www to 58
-    int www = 58;
     // initialize the int lll to 38
     int = lll = 38;
     // initialize the int rrr to 56
