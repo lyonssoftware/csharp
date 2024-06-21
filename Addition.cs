@@ -230,20 +230,6 @@ public class Addition
     int eee = 55;
     // initialize the int sns to 23
     int sns = 23;
-    // initialize the int lvl to 69
-    int lvl = 69;
-    // initialize the int you to 100
-    int you = 100;
-    // initialize the int opo to 25
-    int opo = 25;
-    // initialize the int iou to 50
-    int iou = 50;
-    // initialize the int iop to 30
-    int iop = 30;  
-    // initialize the int nmo to 63
-    int nmo = 63;  
-   // initialize the int nmo to 15
-   int imo = 15;    
       
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
