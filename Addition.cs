@@ -155,15 +155,6 @@ public class Addition
    // initialize the int yy to 29 
    int yy = 29;
    int p = 45;
-   // initialize the int hh to 48
-   int hh = 48; 
-   // initialize the int dd to 32
-   int dd = 32;
-    // initialize the int bb to 25
-    int bb = 25;  
-    // initialize the int zzz to 25
-    int zzz = 25;
-    // initialize the int yyy to 50
     int yyy = 50;
     // initialize the int uo to 20
     int uo = 20;
