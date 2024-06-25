@@ -186,14 +186,6 @@ public class Addition
     int aaa = 38;
     // initialize the int yy to 90  
     int yy = 90;
-    // initialize the int ttt to 48
-    int ttt = 48;
-    // initialize the int nnn to 78
-    int nnn = 78;
-    // initialize the int uuu to 5
-    int uuu = 5;
-    // initialize the int mmm to 98
-    int mmm = 98;
     // initialize the int eee to 55    
     int eee = 55;
     // initialize the int sns to 23
