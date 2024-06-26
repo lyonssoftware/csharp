@@ -181,15 +181,6 @@ public class Addition
     // initialize the int rrr to 56
     int rrr= 56;
     // initialize the int ggg to 100
-    int ggg = 100;
-    // initialize the int aaa to 38
-    int aaa = 38;
-    // initialize the int yy to 90  
-    int yy = 90;
-    // initialize the int eee to 55    
-    int eee = 55;
-    // initialize the int sns to 23
-    int sns = 23;
       
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
