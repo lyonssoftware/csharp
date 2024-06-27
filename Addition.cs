@@ -170,17 +170,6 @@ public class Addition
     int dk = 209;
     // initialize the int mn to 76
     int mn = 76;
-    // initialize the int df to 89
-    int df = 89;
-    // initialize the int od to 32  
-    int od = 32;
-    // initialize the int fff to 56
-    int fff = 56;
-    // initialize the int lll to 38
-    int = lll = 38;
-    // initialize the int rrr to 56
-    int rrr= 56;
-    // initialize the int ggg to 100
       
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
