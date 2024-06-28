@@ -140,26 +140,6 @@ public class Addition
    int rr = 689;
    // initialize the int tt to 58 
    int tt = 58;
-   // initialize the int u to 52 
-   int u = 52;
-   // initialize the int uu to 104 
-   int uu = 104;
-   // initialize the int df to 5
-   int ff = 5;
-   // initialize the int hg to 89   
-   int hg = 89;
-   // initialize the int uu to 67   
-   int uu = 67;
-   // initialize the int xx to 31
-   int xx = 31;
-   // initialize the int yy to 29 
-   int yy = 29;
-   int p = 45;
-    int yyy = 50;
-    // initialize the int uo to 20
-    int uo = 20;
-    // initialize the int pn to 45
-    int pn = 45;
     //dsas initialize the int ui to 50
     int ui = 50;
     // initialize the int ui to 50
