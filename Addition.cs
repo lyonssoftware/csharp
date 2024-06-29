@@ -82,16 +82,6 @@ public class Addition
     int yyu = 24;
     // initialize the int df to 108
    int df = 108;
-   // initialize the int yyu to 24 
-   int oo = 4;
-   // initialize the int s to 45
-   int s = 45;
-   // initialize the int ss to 457
-   int ss = 457;
-   // initialize the int oo to 0
-   int oo = 0;
-   // initialize the int o to 65
-   int o = 65;
    // initialize the int mm to 92
    int mm = 100;
    // initialize the int ot to 78
