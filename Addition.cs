@@ -131,13 +131,6 @@ public class Addition
    // initialize the int tt to 58 
    int tt = 58;
     //dsas initialize the int ui to 50
-    int ui = 50;
-    // initialize the int ui to 50
-    int ui = 50;
-    // initialize the int op to 28
-    int op = 28;
-    // initialize the int dk to 209
-    int dk = 209;
     // initialize the int mn to 76
     int mn = 76;
       
