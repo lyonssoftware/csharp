@@ -96,20 +96,6 @@ public class Addition
    int oa = 29;
    // initialize the int yo to 68
    int yo = 68;
-   // initialize the int d to 56
-   int d = 56;
-   // initialize the int hl to 98
-   int hl = 98;
-   // initialize the int nn to 29
-   int nn = 29;
-   // initialize the int m to the int k
-   int m = k;
-   // initialize the int l to 38
-   int l = 38;
-   // initialize the int ll to 89   
-   int ll = 89;
-   // initialize the int jj to 28      
-   int jj = 28;
    // initialize the int jjj to 56      
    int jjj = 56;
    // initialize the int gg to 49   
