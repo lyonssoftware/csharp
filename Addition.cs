@@ -96,25 +96,6 @@ public class Addition
    int oa = 29;
    // initialize the int yo to 68
    int yo = 68;
-   // initialize the int jjj to 56      
-   int jjj = 56;
-   // initialize the int gg to 49   
-   int gg = 49;
-   // initialize the int pp to 989 
-   int pp = 989;
-   // initialize the int pp to 989 
-   int qq = 48;
-   // initialize the int ee to 33    
-   int ee = 33; 
-   // initialize the int kc to 18    
-   int kc = 18;
-   // initialize the int ww to 38   
-   int ww = 38;
-   // initialize the int h to 29 
-   int h = 29;   
-   // initialize the int rr to 689      
-   int rr = 689;
-   // initialize the int tt to 58 
    int tt = 58;
     //dsas initialize the int ui to 50
     // initialize the int mn to 76
