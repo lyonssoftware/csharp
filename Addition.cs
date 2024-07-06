@@ -62,16 +62,6 @@ public class Addition
    int ot = 78;
    // initialize the int lk to 64
    int lk = 64;
-   // initialize the int jl to 29 
-   int jl = 29;
-   // initialize the int ytl to 78
-   int ytl = 78;
-   // initialize the int oa to 29
-   int oa = 29;
-   // initialize the int yo to 68
-   int yo = 68;
-   int tt = 58;
-    //dsas initialize the int ui to 50
     // initialize the int mn to 76
     int mn = 76;
       
