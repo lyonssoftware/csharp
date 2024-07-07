@@ -57,12 +57,7 @@ public class Addition
     // initialize the int v to 98
     int v = 98;
 
-   int mm = 100;
-   // initialize the int ot to 78
-   int ot = 78;
-   // initialize the int lk to 64
-   int lk = 64;
-    // initialize the int mn to 76
+    int mn to 76
     int mn = 76;
       
     // print the sum of 5 + 3 = 8
