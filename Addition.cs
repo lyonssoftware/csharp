@@ -45,10 +45,17 @@ public class Addition
     // intialize the int gg to 16
     int gg = 16;
     // initialize the int h to 10
+    int h = 10;
+    // initialize the int hh to 10
+    int hh = 20;
+    // initialize the int k to 32
+    int k = 32;
+    // initialize the int kk to 67
+    int kk = 67;
+    // initialize the int vv to 45 
+    int vv = 45;
+    // initialize the int v to 98
     int v = 98;
-
-    int mn to 76
-    int mn = 76;
       
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
