@@ -20,16 +20,6 @@ public class Addition
     int cc = 14;
     // initialize the int d
     int d = 2;
-    // initialize the int dd
-    int dd = 4;
-    // initialize the int i 
-    int i = 67;
-    // initialize the int kj
-    int kj = 18;
-    // initialize the int li
-    int ii = 134;
-    // intialize the int e to 9 
-    int e = 9; 
 
       
     // print the sum of 5 + 3 = 8
