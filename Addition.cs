@@ -14,10 +14,6 @@ public class Addition
     int bb = 40;
     // initialize the int c
     int c = 17;
-    // initialize the int s
-    int s = 67;
-    // initialize the int cc
-    int cc = 14;
     // initialize the int d
     int d = 2;
 
