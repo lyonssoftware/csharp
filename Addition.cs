@@ -23,7 +23,5 @@ public class Addition
     Console.Writeline(a+d);
     // print the sum of 9 + 1 = 10
     Console.Writeline(e+f);
-    // print the sum of 
-    Console.WriteLine(cc+kk+dd); 
   }
 } // end of the program
