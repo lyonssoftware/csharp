@@ -99,15 +99,7 @@ public class Array
       array[88] = 88;
       array[89] = 89;
       array[90] = 90;
-      array[91] = 91;
-      array[92] = 92;
-      array[93] = 93;
-      array[94] = 94;
-      array[95] = 95;
-      array[96] = 96;
-      array[97] = 97;
-      array[98] = 98; 
-      array[99] = 99;
+   
 
       // print the items in array
       Console.WriteLine(array[0]);
