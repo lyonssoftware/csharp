@@ -96,10 +96,7 @@ public class Array
       array[85] = 85;
       array[86] = 86;
       array[87] = 87;
-      array[88] = 88;
-      array[89] = 89;
-      array[90] = 90;
-   
+
 
       // print the items in array
       Console.WriteLine(array[0]);
