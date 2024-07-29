@@ -267,20 +267,6 @@ public class Array
       Console.WriteLine(array[184]);
       Console.WriteLine(array[185]);
       Console.WriteLine(array[186]);   
-      Console.WriteLine(array[187]); 
-      Console.WriteLine(array[188]);
-      Console.WriteLine(array[189]); 
-      Console.WriteLine(array[190]); 
-      Console.WriteLine(array[191]); 
-      Console.WriteLine(array[191]); 
-      Console.WriteLine(array[192]); 
-      Console.WriteLine(array[193]);
-      Console.WriteLine(array[194]);
-      Console.WriteLine(array[195]);
-      Console.WriteLine(array[196]);
-      Console.WriteLine(array[197]);
-      Console.WriteLine(array[198]);
-      Console.WriteLine(array[199]);
    }
    // the end of program
 }
