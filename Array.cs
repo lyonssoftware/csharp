@@ -260,13 +260,7 @@ public class Array
       Console.WriteLine(array[177]);     
       Console.WriteLine(array[178]); 
       Console.WriteLine(array[179]); 
-      Console.WriteLine(array[180]); 
-      Console.WriteLine(array[181]); 
-      Console.WriteLine(array[182]); 
-      Console.WriteLine(array[183]);
-      Console.WriteLine(array[184]);
-      Console.WriteLine(array[185]);
-      Console.WriteLine(array[186]);   
+      Console.WriteLine(array[180]);   
    }
    // the end of program
 }
