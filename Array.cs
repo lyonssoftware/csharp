@@ -240,17 +240,6 @@ public class Array
       Console.WriteLine(array[157]);
       Console.WriteLine(array[158]);
       Console.WriteLine(array[159]);
-      Console.WriteLine(array[160]);
-      Console.WriteLine(array[161]);
-      Console.WriteLine(array[162]);
-      Console.WriteLine(array[163]);
-      Console.WriteLine(array[164]);
-      Console.WriteLine(array[165]);
-      Console.WriteLine(array[166]);
-      Console.WriteLine(array[167]);
-      Console.WriteLine(array[168]);
-      Console.WriteLine(array[169]);
-
  
    }
    // the end of program
