@@ -199,15 +199,6 @@ public class Array
       Console.WriteLine(array[99]);
       Console.WriteLine(array[100]);
       Console.WriteLine(array[101]);
-      Console.WriteLine(array[102]);
-      Console.WriteLine(array[103]);
-      Console.WriteLine(array[104]);
-      Console.WriteLine(array[105]);
-      Console.WriteLine(array[106]);
-      Console.WriteLine(array[107]); 
-      Console.WriteLine(array[108]); 
-      Console.WriteLine(array[109]); 
-      Console.WriteLine(array[110]); 
 
    }
    // the end of program
