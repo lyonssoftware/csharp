@@ -196,7 +196,7 @@ public class Array
       Console.WriteLine(array[96]);
       Console.WriteLine(array[97]); 
       Console.WriteLine(array[98]);
-      Console.WriteLine(array[99]);
+
    }
    // the end of program
 }
