@@ -21,7 +21,7 @@ public class Addition
     Console.WriteLine(c+d);
     // print the sum of 5 + 2 = 7
     Console.Writeline(a+d);
-    // print the sum of 9 + 1 = 10
-    Console.Writeline(e+f);
+    // print the sum of 9 
+    Console.Writeline(e);
   }
 } // end of the program
