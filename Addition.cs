@@ -14,8 +14,10 @@ public class Addition
     int d = 17;
     // initialize the int e
     int e = 2;
-    // initialize the int e
+    // initialize the int f
     int f = 10;
+    // initialize the int g
+    int g = 12;
       
 
     // print the sum of 5 + 3 = 8
@@ -24,7 +26,9 @@ public class Addition
     Console.WriteLine(c+d);
     // print the sum of 5 + 2 = 7
     Console.Writeline(a+d);
-    // print the sum of 9 
+    // print the sum of e 
     Console.Writeline(e);
+    // print the sum of f + g
+    Console.Writeline(f+g);
   }
 } // end of the program
