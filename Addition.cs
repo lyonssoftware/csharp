@@ -18,7 +18,8 @@ public class Addition
     int f = 10;
     // initialize the int g
     int g = 12;
-      
+    // initialize the int h
+    int h = 7;
 
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
