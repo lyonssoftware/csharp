@@ -1,6 +1,5 @@
 // C# program to iterate the bubblesort method to sort an array 
 Using System;
-// bubble sort
 public class BubbleSort
 {     // main function
       public static void main()
@@ -11,7 +10,7 @@ public class BubbleSort
       {
       // int variables to compare
          int i, j;
-      // int to hold the lenght of the array 
+      // int to hold the length of the array 
          int N = data.Length;
          
       // for loop to sort through the array
@@ -22,7 +21,7 @@ public class BubbleSort
                if (data [i] > data [i + 1])
                   // if current is greater than swap the two elements
                   exchange (data, i, i + 1);
-                  
+                  // exchange
                  // end 
             }
          } // end of program
