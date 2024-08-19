@@ -22,6 +22,8 @@ public class Addition
     int h = 7;
     // initialize the int i
     int i = 7;
+    // initialize the int j
+    int j = 30;
    
 
     // print the sum of 5 + 3 = 8
