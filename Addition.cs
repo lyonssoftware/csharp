@@ -24,8 +24,10 @@ public class Addition
     int i = 7;
     // initialize the int j
     int j = 30;
-   // initialize the int k
+    // initialize the int k
     int k = 23;
+    // initialize the int k
+    int l = 50;
    
 
     // print the sum of 5 + 3 = 8
