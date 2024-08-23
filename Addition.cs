@@ -28,7 +28,8 @@ public class Addition
     int k = 23;
     // initialize the int k
     int l = 50;
-   
+    // initialize the int k
+    int k = 51;
 
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
