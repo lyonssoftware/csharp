@@ -26,10 +26,12 @@ public class Addition
     int j = 30;
     // initialize the int k
     int k = 23;
-    // initialize the int k
+    // initialize the int l
     int l = 50;
-    // initialize the int k
-    int k = 51;
+    // initialize the int m
+    int m = 2;
+    // initialize the int n
+    int n = 8;
 
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
