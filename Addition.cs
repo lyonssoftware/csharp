@@ -32,6 +32,8 @@ public class Addition
     int m = 2;
     // initialize the int n
     int n = 8;
+    // initialize the int n
+    int o = 89;
 
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
