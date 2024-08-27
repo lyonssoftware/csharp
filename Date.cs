@@ -16,8 +16,7 @@ class Date
     String.Format("{0:h hh H HH}",     dt);  // "4 04 16 16"      hour 12/24
     // format the minute 
     String.Format("{0:m mm}",          dt);  // "5 05"            minute
-
-// new format 
+    
     String.Format("{0:s ss}",          dt);  // "7 07"            second
     String.Format("{0:f ff fff ffff}", dt);  // "1 12 123 1230"   sec.fraction
     String.Format("{0:F FF FFF FFFF}", dt);  // "1 12 123 123"    without zeroes
