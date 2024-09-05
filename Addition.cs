@@ -48,6 +48,8 @@ public class Addition
     int u = 8;
     // initialize the int n
     int v = 16;
+   // initialize the int n
+    int w = 16;
       
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
