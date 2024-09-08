@@ -100,9 +100,8 @@ public class Array
       array[89] = 89;
       array[90] = 90;
       array[91] = 91;
+      array[92] = 91;
       
-
-
       // print the items in array
       Console.WriteLine(array[0]);
       Console.WriteLine(array[1]);
