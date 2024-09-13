@@ -54,9 +54,8 @@ public class Addition
     int x = 16;
    // initialize the int n
     int y = 32;
-
-        // initialize the int n
-    int z = 32;
+   // initialize the int n
+    int z = 89;
       
       
       
