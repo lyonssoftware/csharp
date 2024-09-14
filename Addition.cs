@@ -50,11 +50,11 @@ public class Addition
     int v = 16;
    // initialize the int n
     int w = 16;
-// initialize the int n
+// initialize the int x
     int x = 16;
-   // initialize the int n
+   // initialize the int y
     int y = 32;
-   // initialize the int n
+   // initialize the int z
     int z = 89;
       
       
