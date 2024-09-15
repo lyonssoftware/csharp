@@ -46,11 +46,11 @@ public class Addition
     int t = 60;
     // initialize the int n
     int u = 8;
-    // initialize the int n
+    // initialize the int v
     int v = 16;
-   // initialize the int n
-    int w = 16;
-// initialize the int x
+    // initialize the int 2
+    int w = 16;  
+    // initialize the int w
     int x = 16;
    // initialize the int y
     int y = 32;
