@@ -1,4 +1,4 @@
-// program to add integers
+f// program to add integers
 Using System;
 public class Addition
 {
@@ -32,9 +32,9 @@ public class Addition
     int m = 2;
     // initialize the int n
     int n = 8;
-    // initialize the int n
+    // initialize the int o
     int o = 89;
-    // initialize the int n
+    // initialize the int p
     int p = 45;
     // initialize the int n
     int q = 45;
