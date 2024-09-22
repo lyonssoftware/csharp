@@ -104,6 +104,7 @@ public class Array
       array[93] = 92;
       array[94] = 93;
       array[95] = 95;
+      array[96] = 96;
       
       // print the items in array
       Console.WriteLine(array[0]);
