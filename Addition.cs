@@ -64,6 +64,8 @@ public class Addition
    int cc = 89;
     // initialize the int z
       int dd = 89;
+      // initialize the int z
+      int ee = 16;
       
 
       
