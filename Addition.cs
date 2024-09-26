@@ -58,10 +58,12 @@ public class Addition
     int z = 89;
    // initialize the int z
     int aa = 89;
-
+   // initialize the int z
     int bb = 89;
-
-       int cc = 89;
+      // initialize the int z
+   int cc = 89;
+    // initialize the int z
+      int dd = 89;
       
 
       
