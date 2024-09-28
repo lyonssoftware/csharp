@@ -58,15 +58,16 @@ public class Addition
     int z = 89;
    // initialize the int z
     int aa = 89;
-   // initialize the int z
+
     int bb = 89;
-      // initialize the int z
-   int cc = 89;
-    // initialize the int z
-      int dd = 89;
-      // initialize the int z
-      int ee = 16;
-      
+
+       int cc = 89;
+
+      int dd = 8;
+
+            int ee = 16;
+
+      int ff = 38;
 
       
     // print the sum of 5 + 3 = 8
