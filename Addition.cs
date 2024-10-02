@@ -58,21 +58,22 @@ public class Addition
     int z = 89;
    // initialize the int z
     int aa = 89;
-
+    // initialize the int z
     int bb = 89;
-
-       int cc = 89;
-
+    // initialize the int z
+     int cc = 89;
+     // initialize the int z
       int dd = 8;
-
-            int ee = 16;
-
+      // initialize the int z
+      int ee = 16;
+       // initialize the int z
       int ff = 38;
-
-            int gg = 38;
-
-         int hh = 52;
-int kk = 3;
+      // initialize the int z
+      int gg = 38;
+      // initialize the int z
+      int hh = 52;
+      // initialize the int z
+      int kk = 3;
       
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
