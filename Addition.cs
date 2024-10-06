@@ -87,11 +87,11 @@ public class Addition
     Console.Writeline(e);
     // print the sum of f + g
     Console.Writeline(f+g);
-   // print the sum of f + g
+    // print the sum of f + g
     Console.Writeline(aa+bb);
-   // print the sum of f + g
+    // print the sum of f + g
     Console.Writeline(cc+dd);
-
-       Console.Writeline(cc+dd);
+    // print the sum of f + g
+    Console.Writeline(ee+ff);
   }
 } // end of the program
