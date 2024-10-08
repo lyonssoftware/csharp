@@ -73,9 +73,11 @@ public class Addition
       // initialize the int z
       int hh = 52;
       // initialize the int z
-      int kk = 3;
+      int ii = 3;
       // initialize the int z
       int jj = 37;
+    // initialize the int z
+      int kk = 37;
       
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
