@@ -100,5 +100,7 @@ public class Addition
 
       
           Console.Writeline(ff+gg);
+
+          Console.Writeline(gg+hh);
   }
 } // end of the program
