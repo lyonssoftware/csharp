@@ -107,6 +107,8 @@ public class Addition
     Console.Writeline(hh);
     // print the sum of f + g
     Console.Writeline(hh);
+   // print the sum of f + g
+    Console.Writeline(kk);
       
   }
 } // end of the program
