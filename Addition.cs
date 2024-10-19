@@ -56,28 +56,7 @@ public class Addition
     int y = 32;
    // initialize the int z
     int z = 89;
-   // initialize the int z
-    int aa = 89;
-    // initialize the int z
-    int bb = 89;
-    // initialize the int z
-     int cc = 89;
-     // initialize the int z
-      int dd = 8;
-      // initialize the int z
-      int ee = 16;
-       // initialize the int z
-      int ff = 38;
-      // initialize the int z
-      int gg = 38;
-      // initialize the int z
-      int hh = 52;
-      // initialize the int z
-      int ii = 3;
-      // initialize the int z
-      int jj = 37;
-    // initialize the int z
-      int kk = 37;
+
       
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
@@ -88,28 +67,5 @@ public class Addition
     // print the sum of e 
     Console.Writeline(e);
     // print the sum of f + g
-    Console.Writeline(f+g);
-    // print the sum of f + g
-    Console.Writeline(aa+bb);
-    // print the sum of f + g
-    Console.Writeline(cc+dd);
-    // print the sum of f + g
-    Console.Writeline(ee+ff);
-   // print the sum of f + g
-    Console.Writeline(ee+ff);
-   // print the sum of f + g
-   Console.Writeline(ff+gg);
-   // print the sum of f + g
-   Console.Writeline(gg+hh);
-   // print the sum of f + g
-    Console.Writeline(hh);
-   // print the sum of f + g
-    Console.Writeline(hh);
-    // print the sum of f + g
-    Console.Writeline(ii);
-   // print the sum of kk
-    Console.Writeline(jj);
-      // print the sum of kk
-    Console.Writeline(kk);   
   }
 } // end of the program
