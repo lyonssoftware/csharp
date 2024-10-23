@@ -70,6 +70,8 @@ public class Addition
     // print the sum of f
 
    Console.Writeline(g);
+    
+   Console.Writeline(h);
     // print the sum of 
   }
 } // end of the program
