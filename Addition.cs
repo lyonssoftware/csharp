@@ -68,13 +68,8 @@ public class Addition
     // print the sum of f + g
     Console.Writeline(f);
     // print the sum of f
-
    Console.Writeline(g);
-    
-   Console.Writeline(h);
-       
-   Console.Writeline(i);
     // print the sum of 
-      
+   Console.Writeline(h);
   }
 } // end of the program
