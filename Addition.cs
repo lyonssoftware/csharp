@@ -73,5 +73,7 @@ public class Addition
    Console.Writeline(h);
        // print the sum of 
    Console.Writeline(i);
+   // print the sum of 
+   Console.Writeline(j);
   }
 } // end of the program
