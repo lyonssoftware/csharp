@@ -88,8 +88,8 @@ public class Addition
   // print the sum of 
   Console.Writeline(p);
   // print the sum of 
-  Console.Writeline(o);
+  Console.Writeline(q);
   // print the sum of 
-  Console.Writeline(p);
+  Console.Writeline(r);
   }
 } // end of the program
