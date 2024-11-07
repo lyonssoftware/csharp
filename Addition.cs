@@ -93,5 +93,7 @@ public class Addition
   Console.Writeline(r);
   // print the sum of 
   Console.Writeline(s);
+  // print the sum of 
+  Console.Writeline(t);
   }
 } // end of the program
