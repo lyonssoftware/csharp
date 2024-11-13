@@ -105,5 +105,7 @@ public class Addition
   Console.Writeline(x);
   // print the sum of 
   Console.Writeline(y);
+  // print the sum of 
+  Console.Writeline(z);
   }
 } // end of the program
