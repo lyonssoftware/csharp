@@ -57,6 +57,8 @@ public class Addition
    // initialize the int z
     int z = 89;
 
+      int zz = 89;
+
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
     // print the sum of 7 + 2 = 9
