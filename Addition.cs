@@ -64,6 +64,7 @@ public class Addition
       int dd = 41;
       int ee = 75;
       int ff = 100;
+      int gg = 50;
       
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
