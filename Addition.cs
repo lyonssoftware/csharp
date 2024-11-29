@@ -70,6 +70,7 @@ public class Addition
       int kk = 15;
       int ll = 10;
       int mm = 50;
+      int nn = 30;
       
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
