@@ -71,6 +71,7 @@ public class Addition
       int ll = 10;
       int mm = 50;
       int nn = 30;
+      int oo = 0;
       
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
