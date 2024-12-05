@@ -75,6 +75,7 @@ public class Addition
       int pp = 2;
       int qq = 29;
       int rr = 20;
+      int ss = 40;
       
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
