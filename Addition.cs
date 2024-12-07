@@ -77,6 +77,7 @@ public class Addition
       int rr = 20;
       int ss = 40;
       int tt = 28;
+      int uu = 61;
       
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
