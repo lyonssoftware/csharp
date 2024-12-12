@@ -82,6 +82,7 @@ public class Addition
       int ww = 32;
       int xx = 60;
       int yy = 98;
+      int zz = 100;
       
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
