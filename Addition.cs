@@ -123,6 +123,8 @@ public class Addition
   // print the sum of 
   Console.Writeline(t);
   // print the sum of 
+  Console.Writeline(tt);
+  // print the sum of 
   Console.Writeline(u);
   // print the sum of 
   Console.Writeline(uu);
