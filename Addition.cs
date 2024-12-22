@@ -117,6 +117,8 @@ public class Addition
   // print the sum of 
   Console.Writeline(q);
   // print the sum of 
+  Console.Writeline(qq);
+  // print the sum of 
   Console.Writeline(r);
   // print the sum of 
   Console.Writeline(rr);
