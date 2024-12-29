@@ -101,6 +101,8 @@ public class Addition
    // print the sum of 
    Console.Writeline(i);
    // print the sum of 
+   Console.Writeline(ii);
+   // print the sum of 
    Console.Writeline(j);
    // print the sum of 
    Console.Writeline(jj);
