@@ -99,6 +99,8 @@ public class Addition
     // print the sum of 
    Console.Writeline(h);
    // print the sum of 
+   Console.Writeline(hh);
+   // print the sum of 
    Console.Writeline(i);
    // print the sum of 
    Console.Writeline(ii);
