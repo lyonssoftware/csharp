@@ -92,9 +92,11 @@ public class Addition
     Console.Writeline(a+d);
     // print the sum of e 
     Console.Writeline(e);
-    // print the sum of f + g
+    // print the sum of f
     Console.Writeline(f);
     // print the sum of f
+    Console.Writeline(ff);
+    // print the sum of g
    Console.Writeline(g);
    // print the sum of 
    Console.Writeline(gg);
