@@ -57,7 +57,7 @@ public class Addition
    // initialize the int z
     int z = 89;
       
-      int aa = 22;
+      int aa = 10;
       int bb = 23;
       int cc = 39;
       int dd = 41;
