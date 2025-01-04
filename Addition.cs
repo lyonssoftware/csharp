@@ -69,7 +69,7 @@ public class Addition
       int jj = 24;
       int kk = 15;
       int ll = 10;
-      int mm = 50;
+      int mm = 20;
       int nn = 30;
       int oo = 0;
       int pp = 2;
