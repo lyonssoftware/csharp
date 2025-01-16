@@ -62,7 +62,7 @@ public class Addition
       int ee = 75;
       int ff = 100;
       int gg = 50;
-      int hh = 88;
+      int hh = 44;
       int ii = 56;
       int jj = 24;
       int kk = 15;
