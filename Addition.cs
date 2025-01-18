@@ -75,7 +75,7 @@ public class Addition
       int rr = 25;
       int ss = 70;
       int tt = 38;
-      int uu = 61;
+      int uu = 51;
       int vv = 32;
       int ww = 59;
       int xx = 60;
