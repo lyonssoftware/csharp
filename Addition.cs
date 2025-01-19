@@ -71,7 +71,7 @@ public class Addition
       int nn = 55;
       int oo = 0;
       int pp = 2;
-      int qq = 29;
+      int qq = 49;
       int rr = 25;
       int ss = 70;
       int tt = 38;
