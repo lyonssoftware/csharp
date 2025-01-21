@@ -48,9 +48,7 @@ public class Addition
     int u = 8;
     // initialize the int v
     int v = 16;
-    // initialize the int 2
     int w = 16;  
-    // initialize the int w
     int x = 16;
     int y = 32;
     int z = 89;
@@ -79,7 +77,7 @@ public class Addition
       int vv = 32;
       int ww = 59;
       int xx = 60;
-      int yy = 78;
+      int yy = 98;
       int zz = 90;
       
     // print the sum of 5 + 3 = 8
