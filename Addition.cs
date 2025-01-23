@@ -38,9 +38,7 @@ public class Addition
     int p = 45;
     // initialize the int n
     int q = 45;
-    // initialize the int n
     int r = 45;
-    // initialize the int n
     int s = 72;
     int t = 60;
     int u = 8;
