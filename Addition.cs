@@ -26,13 +26,9 @@ public class Addition
     int j = 30;
     // initialize the int k
     int k = 23;
-    // initialize the int l
     int l = 50;
-    // initialize the int m
     int m = 2;
-    // initialize the int n
     int n = 38;
-    // initialize the int o
     int o = 89;
     int p = 45;
     int q = 45;
