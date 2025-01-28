@@ -12,9 +12,7 @@ public class Addition
     int c = 40;
     // initialize the int d
     int d = 17;
-    // initialize the int e
     int e = 2;
-    // initialize the int f
     int f = 10;
     int g = 12;
     int h = 7;
