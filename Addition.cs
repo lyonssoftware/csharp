@@ -8,9 +8,7 @@ public class Addition
     int a = 15; 
     // initialize the int b
     int b = 20;
-    // initialize the int c
     int c = 40;
-    // initialize the int d
     int d = 17;
     int e = 2;
     int f = 10;
