@@ -4,9 +4,8 @@ public class Addition
 {
    public static void Main()
    { 
-    // initialize the int a
+    // initialize 
     int a = 15; 
-    // initialize the int b
     int b = 20;
     int c = 40;
     int d = 17;
