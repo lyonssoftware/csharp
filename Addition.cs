@@ -147,9 +147,7 @@ public class Addition
   Console.Writeline(y);
   // print the sum of 
    Console.Writeline(yy);
-  // print the sum of 
   Console.Writeline(z);
-  // print the sum of 
   Console.Writeline(zz);
   }
 } // end of the program
