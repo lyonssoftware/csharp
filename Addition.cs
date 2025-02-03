@@ -141,9 +141,7 @@ public class Addition
   Console.Writeline(ww);
   // print the sum of 
   Console.Writeline(x);
-   // print the sum of 
   Console.Writeline(xx);
-  // print the sum of 
   Console.Writeline(y);
    Console.Writeline(yy);
   Console.Writeline(z);
