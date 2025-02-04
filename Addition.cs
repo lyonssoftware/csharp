@@ -136,10 +136,7 @@ public class Addition
   // print the sum of 
   Console.Writeline(vv);
   // print the sum of 
-  Console.Writeline(w);
-  // print the sum of 
-  Console.Writeline(ww);
-  // print the sum of 
+  Console.Writeline(w);x
   Console.Writeline(x);
   Console.Writeline(xx);
   Console.Writeline(y);
