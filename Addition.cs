@@ -49,15 +49,7 @@ public class Addition
       int oo = 0;
       int pp = 2;
       int qq = 49;
-      int rr = 25;
-      int ss = 70;
-      int tt = 38;
-      int uu = 51;
-      int vv = 32;
-      int ww = 59;
-      int xx = 60;
-      int yy = 98;
-      int zz = 90;
+ 
       
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
@@ -115,29 +107,6 @@ public class Addition
   Console.Writeline(q);
   // print the sum of 
   Console.Writeline(qq);
-  // print the sum of 
-  Console.Writeline(r);
-  // print the sum of 
-  Console.Writeline(rr);
-  // print the sum of 
-  Console.Writeline(s);
-  // print the sum of 
-  Console.Writeline(ss);
-  // print the sum of 
-  Console.Writeline(t);
-  // print the sum of 
-  Console.Writeline(tt);
-  // print the sum of 
-  Console.Writeline(u);
-  // print the sum of 
-  Console.Writeline(uu);
-  Console.Writeline(vv);
-  Console.Writeline(w);x
-  Console.Writeline(x);
-  Console.Writeline(xx);
-  Console.Writeline(y);
-   Console.Writeline(yy);
-  Console.Writeline(z);
-  Console.Writeline(zz);
+
   }
 } // end of the program
