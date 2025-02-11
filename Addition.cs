@@ -40,16 +40,7 @@ public class Addition
       int ff = 100;
       int gg = 50;
       int hh = 44;
-      int ii = 56;
-      int jj = 24;
-      int kk = 15;
-      int ll = 18;
-      int mm = 20;
-      int nn = 55;
-      int oo = 0;
-      int pp = 2;
-      int qq = 49;
- 
+
       
     // print the sum of 5 + 3 = 8
     Console.WriteLine(a+b);
@@ -93,18 +84,6 @@ public class Addition
   Console.Writeline(mm);
   // print the sum of 
   Console.Writeline(n);
-  // print the sum of 
-  Console.Writeline(nn);
-  // print the sum of 
-  Console.Writeline(o);
-  // print the sum of 
-  Console.Writeline(oo);
-  // print the sum of 
-  Console.Writeline(p);
-  // print the sum of 
-  Console.Writeline(pp);
-  // print the sum of 
-  Console.Writeline(q);
   // print the sum of 
   Console.Writeline(qq);
 
