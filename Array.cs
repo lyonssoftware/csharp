@@ -79,35 +79,7 @@ public class Array
       array[69] = 69;
       array[70] = 70;
       array[71] = 72;
-      array[72] = 73;
-      array[73] = 74;
-      array[74] = 73;
-      array[75] = 74;
-      array[76] = 75;
-      array[76] = 76;
-      array[77] = 77;
-      array[78] = 78;
-      array[79] = 79;
-      array[80] = 80;
-      array[81] = 81;
-      array[82] = 82;
-      array[83] = 83;
-      array[84] = 84;
-      array[85] = 85;
-      array[86] = 86;
-      array[87] = 87;
-      array[88] = 88;
-      array[89] = 89;
-      array[90] = 90;
-      array[91] = 91;
-      array[92] = 91;
-      array[93] = 92;
-      array[94] = 93;
-      array[95] = 95;
-      array[96] = 96;
-      array[97] = 97;
-      array[98] = 98;
-      array[98] = 99;
+
       
       // print the items in array
       Console.WriteLine(array[0]);
