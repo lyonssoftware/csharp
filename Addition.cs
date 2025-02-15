@@ -13,13 +13,13 @@ public class Addition
        int f = 10;
        int g = 12;
       
-    // print the sum of 5 + 3 = 8
+    // print the sum 
     Console.WriteLine(a+b);
-    // print the sum of 7 + 2 = 9
+    // print the sum 
     Console.WriteLine(c+d);
-    // print the sum of 5 + 2 = 7
-    Console.Writeline(a+d);
+    // print the sum 
+    Console.Writeline(c);
     // print the sum of e 
-    Console.Writeline(e);
+    Console.Writeline(d);
   }
 } // end of the program
