@@ -1,4 +1,4 @@
-f// program to add integers
+// program to add integers
 Using System;
 public class Addition
 {
@@ -12,14 +12,15 @@ public class Addition
        int e = 2;
        int f = 10;
        int g = 12;
+       int h = 14;
       
-    // print the sum 
-    Console.WriteLine(a+b);
-    // print the sum 
-    Console.WriteLine(c+d);
-    // print the sum 
-    Console.Writeline(c);
-    // print the sum of e 
-    Console.Writeline(d);
+       // print the sum 
+       Console.WriteLine(a+b);
+       // print the sum 
+       Console.WriteLine(c+d);
+       // print the sum 
+       Console.Writeline(c);
+       // print the sum of e 
+       Console.Writeline(d);
   }
 } // end of the program
