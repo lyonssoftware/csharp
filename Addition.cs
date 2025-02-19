@@ -10,9 +10,6 @@ public class Addition
        int c = 40;
        int d = 17;
        int e = 2;
-       int f = 10;
-       int g = 12;
-       int h = 14;
       
        // print the sum 
        Console.WriteLine(a+b);
