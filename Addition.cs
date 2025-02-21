@@ -11,6 +11,7 @@ public class Addition
        int d = 17;
        int e = 2;
        int f = 10;
+       int g = 16;
       
        // print the sum 
        Console.WriteLine(a+b);
