@@ -12,7 +12,6 @@ public class Addition
        int e = 2;
        int f = 10;
       
-      
        // print the sum 
        Console.WriteLine(a+b);
        // print the sum 
