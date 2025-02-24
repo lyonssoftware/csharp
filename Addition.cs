@@ -13,6 +13,7 @@ public class Addition
        int f = 10;
        int g = 16;
        int h = 45;
+       int j = 30;
       
        // print the sum 
        Console.WriteLine(a+b);
