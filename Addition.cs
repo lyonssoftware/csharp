@@ -14,7 +14,9 @@ public class Addition
        int g = 16;
        int h = 45;
        int j = 30;
-       int k = 11;
+       int k = 11  
+       int l = 11;
+   
       
        // print the sum 
        Console.WriteLine(a+b);
