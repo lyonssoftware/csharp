@@ -18,6 +18,7 @@ public class Addition
        int l = 11;
        int m = 10;
        int n = 8;
+       int n = 78;
 
        // print the sum 
        Console.WriteLine(a+b);
