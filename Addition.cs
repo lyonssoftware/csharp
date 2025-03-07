@@ -20,8 +20,9 @@ public class Addition
        int m = 10;
        int n = 8;
        int o = 45;
-       int p = 25;
-       int q = 25;
+       int p = 85;
+       int q = 55;
+       int r = 20;
 
        // print the sum 
        Console.WriteLine(a+b);
