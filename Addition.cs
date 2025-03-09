@@ -24,6 +24,7 @@ public class Addition
        int q = 55;
        int r = 20;
        int s = 20;
+       int t = 39;
 
        // print the sum 
        Console.WriteLine(a+b);
