@@ -27,6 +27,7 @@ public class Addition
        int t = 39;
        int u = 53;
        int s = 70;
+      int t = 39;
 
        // print the sum 
        Console.WriteLine(a+b);
