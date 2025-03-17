@@ -31,7 +31,8 @@ public class Addition
        int x = 10;
        int y = 10;
        int z = 10;
-       // print the sum 
+      
+       // print the sum of a and b
        Console.WriteLine(a+b);
        // print the sum 
        Console.WriteLine(c+d);
@@ -39,5 +40,7 @@ public class Addition
        Console.Writeline(c);
        // print the sum of e 
        Console.Writeline(d);
+       // print the sum of f 
+       Console.Writeline(f);
   }
 } // end of the program
