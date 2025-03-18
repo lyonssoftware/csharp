@@ -36,11 +36,13 @@ public class Addition
        Console.WriteLine(a+b);
        // print the sum 
        Console.WriteLine(c+d);
-       // print the sum 
+       // print the sum of c
        Console.Writeline(c);
-       // print the sum of e 
+       // print the sum of d 
        Console.Writeline(d);
-       // print the sum of f 
+       // print the sum of e
+       Console.Writeline(e);
+       // print the sum of f
        Console.Writeline(f);
   }
 } // end of the program
