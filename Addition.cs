@@ -44,9 +44,9 @@ public class Addition
        Console.Writeline(e);
        // print the sum of f
        Console.Writeline(f);
-       // print the sum of f
+       // print the sum of g
        Console.Writeline(g);
-       // print the sum of f
+       // print the sum of h
        Console.Writeline(h);
   }
 } // end of the program
