@@ -50,5 +50,7 @@ public class Addition
        Console.Writeline(h);
        // print the sum of i
        Console.Writeline(i);
+       // print the sum of j
+       Console.Writeline(j);
   }
 } // end of the program
