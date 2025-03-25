@@ -56,5 +56,7 @@ public class Addition
        Console.Writeline(k);
        // print the sum of l
        Console.Writeline(l);
+       // print the sum of m
+       Console.Writeline(m);
   }
 } // end of the program
