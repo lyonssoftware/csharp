@@ -60,7 +60,9 @@ public class Addition
        Console.Writeline(m);
        // print the sum of n
        Console.Writeline(n);
-          // print the sum of o
+       // print the sum of o
        Console.Writeline(o);
+       // print the sum of p
+       Console.Writeline(p);
   }
 } // end of the program
