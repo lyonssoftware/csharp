@@ -66,5 +66,7 @@ public class Addition
        Console.Writeline(p);
       // print the sum of q
        Console.Writeline(q);
+       // print the sum of r
+       Console.Writeline(r);
   }
 } // end of the program
