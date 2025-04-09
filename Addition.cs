@@ -64,25 +64,25 @@ public class Addition
        Console.Writeline(o);
        // print the sum of p
        Console.Writeline(p);
-      // print the sum of q
+       // print the sum of q
        Console.Writeline(q);
        // print the sum of r
        Console.Writeline(r);
-      // print the sum of s
+       // print the sum of s
        Console.Writeline(s);
-        // print the sum of t
+       // print the sum of t
        Console.Writeline(t);
-      // print the sum of u
+       // print the sum of u
        Console.Writeline(u);
        // print the sum of v
        Console.Writeline(v);
-      // print the sum of w
+       // print the sum of w
        Console.Writeline(w);
-      // print the sum of x
+       // print the sum of x
        Console.Writeline(x);
        // print the sum of y
        Console.Writeline(y);
-      // print the sum of z
+       // print the sum of z
        Console.Writeline(z);
   }
 } // end of the program
