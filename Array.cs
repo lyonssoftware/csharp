@@ -27,6 +27,7 @@ public class Array
       array[17] = 17;
       array[18] = 18;
       array[19] = 19;
+      array[20] = 19;
       
       // print the items in array
       Console.WriteLine(array[0]);
