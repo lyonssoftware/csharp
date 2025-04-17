@@ -29,10 +29,11 @@ public class Array
       array[19] = 19;
       array[20] = 19;
       array[21] = 32;
-      array[22] = 32;
-      array[23] = 32;
+      array[22] = 65;
+      array[23] = 3;
       array[24] = 32;
       array[25] = 3;
+      array[26] = 26;
       
       // print the items in array
       Console.WriteLine(array[0]);
