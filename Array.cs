@@ -41,7 +41,7 @@ public class Array
       // print the items in array
       Console.WriteLine(array[0]);
       Console.WriteLine(array[1]);
-      Console.WriteLine(array[3]);
+      Console.WriteLine(array[2]);
       Console.WriteLine(array[4]);
       Console.WriteLine(array[5]);
       Console.WriteLine(array[6]);
@@ -56,7 +56,7 @@ public class Array
       Console.WriteLine(array[15]);
       Console.WriteLine(array[16]);
       Console.WriteLine(array[17]);
-      Console.WriteLine(array[19]);
+      Console.WriteLine(array[18]);
    }
    // the end of program
 }
