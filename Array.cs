@@ -54,9 +54,9 @@ public class Array
       Console.WriteLine(array[7]);
       Console.WriteLine(array[8]);
       Console.WriteLine(array[9]);
+      Console.WriteLine(array[10]);
       Console.WriteLine(array[11]);
       Console.WriteLine(array[12]);
-      Console.WriteLine(array[13]);
       Console.WriteLine(array[14]);
       Console.WriteLine(array[15]);
       Console.WriteLine(array[16]);
