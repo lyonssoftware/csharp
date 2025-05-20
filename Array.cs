@@ -4,8 +4,8 @@ public class Array
 {
    public static void Main()
    {
-      // create an int array of 35 indexes 
-      int[] array = new int[35];
+      // create an int array of 40 indexes 
+      int[] array = new int[40];
       // add to the array
       array[0] = 1;
       array[1] = 1;
@@ -42,6 +42,7 @@ public class Array
       array[32] = 71;
       array[33] = 71;
       array[34] = 62;
+      array[34] = 81;
       
       // print the items in array
       Console.WriteLine(array[0]);
