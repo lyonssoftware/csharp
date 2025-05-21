@@ -42,7 +42,7 @@ public class Array
       array[32] = 71;
       array[33] = 71;
       array[34] = 62;
-      array[34] = 81;
+      array[35] = 81;
       
       // print the items in array
       Console.WriteLine(array[0]);
