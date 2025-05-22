@@ -7,6 +7,7 @@ public class Array
       // create an int array of 40 indexes 
       int[] array = new int[40];
       // add to the array
+      array[] 0 = 0;
       array[0] = 1;
       array[1] = 1;
       array[2] = 2;
@@ -80,6 +81,7 @@ public class Array
       Console.WriteLine(array[32]);
       Console.WriteLine(array[33]);
       Console.WriteLine(array[34]);
+      Console.WriteLine(array[35]);
    }
    // the end of program
 }
