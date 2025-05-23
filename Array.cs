@@ -7,7 +7,6 @@ public class Array
       // create an int array of 40 indexes 
       int[] array = new int[40];
       // add to the array
-      array[] 0 = 0;
       array[0] = 1;
       array[1] = 1;
       array[2] = 2;
@@ -44,6 +43,7 @@ public class Array
       array[33] = 71;
       array[34] = 62;
       array[35] = 81;
+      array[36] = 43;
       
       // print the items in array
       Console.WriteLine(array[0]);
