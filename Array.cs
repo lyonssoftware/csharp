@@ -47,7 +47,8 @@ public class Array
       array[36] = 22;
       array[37] = 39;
       array[38] = 42;
-      
+      array[39] = 52;
+   
       // print the items in array
       Console.WriteLine(array[0]);
       Console.WriteLine(array[1]);
