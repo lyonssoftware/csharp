@@ -1,11 +1,11 @@
-// c#  of using arrays
+// c#  of using array
 Using System;
 public class Array
 {
    public static void Main()
    {
-      // create an int array of 40 indexes 
-      int[] array = new int[40];
+      // create an int array of 50 indexes 
+      int[] array = new int[50];
       array[] 0 = 0;
       array[0] = 1;
       array[1] = 1;
@@ -47,6 +47,7 @@ public class Array
       array[37] = 39;
       array[38] = 42;
       array[39] = 52;
+      array[40] = 52;
    
       // print the items in array
       Console.WriteLine(array[0]);
