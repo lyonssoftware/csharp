@@ -6,7 +6,7 @@ public class Array
    {
       // create an int array of 50 indexes 
       int[] array = new int[50];
-      array[] 0 = 0;
+      array[0] = 0;
       array[0] = 1;
       array[1] = 1;
       array[2] = 2;
@@ -51,6 +51,7 @@ public class Array
       array[41] = 52;
       array[42] = 52;
       array[43] = 52;
+      array[44] = 52;
       
       // print the items in array
       Console.WriteLine(array[0]);
