@@ -48,13 +48,14 @@ public class Array
       array[38] = 42;
       array[39] = 52;
       array[40] = 52;
-      array[41] = 52;
+      array[41] = 32;
       array[42] = 52;
       array[43] = 52;
-      array[44] = 52;
+      array[44] = 62;
       array[45] = 52;
-      array[46] = 52;
+      array[46] = 83;
       array[47] = 52;
+      array[48] = 52;
       
       // print the items in array
       Console.WriteLine(array[0]);
