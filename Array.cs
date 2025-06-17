@@ -103,6 +103,7 @@ public class Array
       Console.WriteLine(array[41]);
       Console.WriteLine(array[42]);
       Console.WriteLine(array[43]);
+      Console.WriteLine(array[44]);
    }
    // the end of program
 }
