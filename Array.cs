@@ -83,7 +83,7 @@ public class Array
       Console.WriteLine(array[22]);
       Console.WriteLine(array[23]);
       Console.WriteLine(array[24]);
-      Console.WriteLine(array[38]);
+      Console.WriteLine(array[25]);
       Console.WriteLine(array[39]);
       Console.WriteLine(array[40]);
       Console.WriteLine(array[41]);
