@@ -94,6 +94,9 @@ public class Array
       Console.WriteLine(array[46]);
       Console.WriteLine(array[48]);
       Console.WriteLine(array[47]);
+      eLine(array[48]);
+      Console.WriteLine(array[47]);
    }
+   
    // the end of program
 }
