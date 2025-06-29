@@ -86,7 +86,7 @@ public class Array
       Console.WriteLine(array[25]);
       Console.WriteLine(array[24]);
       Console.WriteLine(array[25]);
-      Console.WriteLine(array[41]);
+      Console.WriteLine(array[26]);
       Console.WriteLine(array[42]);
       Console.WriteLine(array[43]);
       Console.WriteLine(array[44]);
@@ -94,7 +94,6 @@ public class Array
       Console.WriteLine(array[46]);
       Console.WriteLine(array[48]);
       Console.WriteLine(array[47]);
-      eLine(array[48]);
       Console.WriteLine(array[47]);
    }
    
