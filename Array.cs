@@ -54,7 +54,7 @@ public class Array
       array[45] = 52;
       array[46] = 83;
       array[47] = 52;
-      array[48] = 52;
+      array[48] = 42;
       array[49] = 52;
       
       // print the items in array
@@ -89,7 +89,7 @@ public class Array
       Console.WriteLine(array[28]);
       Console.WriteLine(array[29]);
       Console.WriteLine(array[30]);
-      Console.WriteLine(array[44]);
+      Console.WriteLine(array[31]);
       Console.WriteLine(array[45]);
       Console.WriteLine(array[46]);
       Console.WriteLine(array[48]);
