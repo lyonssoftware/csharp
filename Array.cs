@@ -106,6 +106,7 @@ public class Array
       Console.WriteLine(array[45]);
       Console.WriteLine(array[46]);
       Console.WriteLine(array[47]);
+      Console.WriteLine(array[48]); 
    
    }
    
