@@ -5,7 +5,7 @@ public class Array
    public static void Main()
    {
       // create an int array of 50 indexes 
-      int[] array = new int[50];
+      int[] array = new int[60];
       array[0] = 0;
       array[1] = 1;
       array[2] = 2;
