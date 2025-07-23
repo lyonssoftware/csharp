@@ -48,11 +48,11 @@ public class Array
       array[39] = 52;
       array[40] = 52;
       array[41] = 32;
-      array[42] = 52;
+      array[42] = 35;
       array[43] = 52;
       array[44] = 62;
       array[45] = 52;
-      array[46] = 83;
+      array[46] = 23;
       array[47] = 52;
       array[48] = 42;
       array[49] = 52;
