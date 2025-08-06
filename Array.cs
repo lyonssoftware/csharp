@@ -63,7 +63,6 @@ public class Array
       array[53] = 32;
       array[54] = 100;
       array[55] = 78;
-      array[56] = 64'
               
       // print the items in array
       Console.WriteLine(array[0]);
@@ -124,6 +123,7 @@ public class Array
       Console.WriteLine(array[55]);
       Console.WriteLine(array[56]);
       Console.WriteLine(array[57]);
+      Console.WriteLine(array[58]);       
    }
    // the end of program
 }
