@@ -123,7 +123,8 @@ public class Array
       Console.WriteLine(array[55]);
       Console.WriteLine(array[56]);
       Console.WriteLine(array[57]);
-      Console.WriteLine(array[58]);       
+      Console.WriteLine(array[58]);  
+      Console.WriteLine(array[59]);      
    }
    // the end of program
 }
