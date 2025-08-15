@@ -4,17 +4,19 @@ class ArrayLength
     // main 
     static void Main()
     {
-        // intitialize the 
-        
-        // int array with five elements
+        // intitialize the int array with five elements
         int[] arrayA = new int[5];
         // intitialize the int array with ten elements
         int[] arrayB = new int[10];
         // intitialize the int array with five elements
          int[] arrayC = new int[15];
+
+        int[] arrayD = new int[20];
+
+        int[] arrayD = new int[15];
         // get the length of the stay 
         int lengthA = arrayA.Length;
-        // print the array and the length
+        // print the array and the le
         Console.WriteLine("Length of ArrayA : {0}", +lengthA); 
         // print the current size of the array  
         Console.WriteLine("Length of ArrayB : {0}", +lengthB); 
