@@ -1,134 +1,31 @@
-// c#  of using array
 Using System;
-public class Array
+class ArrayLength
 {
-   public static void Main()
-   {
-      // create an int array of 60 indexes 
-      int[] array = new int[60];
-      array[0[ = 0;
-      array[0] = 0;
-      array[1] = 1;
-      array[2] = 2;
-      array[3] = 3;
-      array[4] = 4;
-      array[5] = 5;
-      array[6] = 6; 
-      array[7] = 7; 
-      array[8] = 8;
-      array[9] = 9;
-      array[10] = 10;
-      array[11] = 11;
-      array[12] = 12;
-      array[13] = 13;
-      array[14] = 14;
-      array[15] = 15; 
-      array[16] = 16;
-      array[17] = 17;
-      array[18] = 18;
-      array[19] = 19;
-      array[20] = 19;
-      array[21] = 32;
-      array[22] = 65;
-      array[23] = 3;
-      array[24] = 32;
-      array[25] = 3;
-      array[26] = 26;
-      array[27] = 20;
-      array[28] = 32;
-      array[29] = 20;
-      array[30] = 78;
-      array[31] = 11;
-      array[32] = 71;
-      array[33] = 71;
-      array[34] = 62;
-      array[35] = 31;
-      array[36] = 22;
-      array[37] = 39;
-      array[38] = 42;
-      array[39] = 52;
-      array[40] = 52;
-      array[41] = 32;
-      array[42] = 35;
-      array[43] = 52;
-      array[44] = 62;
-      array[45] = 52;
-      array[46] = 23;
-      array[47] = 52;
-      array[48] = 42;
-      array[49] = 52;
-      array[50] = 53;
-      array[51] = 39;
-      array[52] = 88;
-      array[53] = 32;
-      array[54] = 100;
-      array[55] = 78;
-      array[56] = 32;
-      array[57] = 89;
-      array[58] = 90; 
-      array[59] = 30; 
-              
-      // print the items in array
-      Console.WriteLine(array[0]);
-      Console.WriteLine(array[1]);
-      Console.WriteLine(array[2]);
-      Console.WriteLine(array[3]);
-      Console.WriteLine(array[4]);
-      Console.WriteLine(array[5]);
-      Console.WriteLine(array[6]);
-      Console.WriteLine(array[7]);
-      Console.WriteLine(array[8]);
-      Console.WriteLine(array[9]);
-      Console.WriteLine(array[10]);
-      Console.WriteLine(array[11]);
-      Console.WriteLine(array[12]);
-      Console.WriteLine(array[13]);
-      Console.WriteLine(array[14]);
-      Console.WriteLine(array[15]);
-      Console.WriteLine(array[16]);
-      Console.WriteLine(array[17]);
-      Console.WriteLine(array[18]);
-      Console.WriteLine(array[19]);
-      Console.WriteLine(array[20]);
-      Console.WriteLine(array[21]);
-      Console.WriteLine(array[22]);
-      Console.WriteLine(array[23]);
-      Console.WriteLine(array[24]);
-      Console.WriteLine(array[25]);
-      Console.WriteLine(array[26]);
-      Console.WriteLine(array[27]);
-      Console.WriteLine(array[28]);
-      Console.WriteLine(array[29]);
-      Console.WriteLine(array[30]);
-      Console.WriteLine(array[31]);
-      Console.WriteLine(array[32]);
-      Console.WriteLine(array[33]);
-      Console.WriteLine(array[34]);
-      Console.WriteLine(array[35]);
-      Console.WriteLine(array[36]);
-      Console.WriteLine(array[37]);
-      Console.WriteLine(array[38]);
-      Console.WriteLine(array[39]);
-      Console.WriteLine(array[40]);
-      Console.WriteLine(array[41]);
-      Console.WriteLine(array[42]);
-      Console.WriteLine(array[43]);
-      Console.WriteLine(array[44]);
-      Console.WriteLine(array[45]);
-      Console.WriteLine(array[46]);
-      Console.WriteLine(array[47]);
-      Console.WriteLine(array[48]); 
-      Console.WriteLine(array[49]); 
-      Console.WriteLine(array[50]);
-      Console.WriteLine(array[51]);
-      Console.WriteLine(array[52]);
-      Console.WriteLine(array[53]);
-      Console.WriteLine(array[54]);
-      Console.WriteLine(array[55]);
-      Console.WriteLine(array[56]);
-      Console.WriteLine(array[57]);
-      Console.WriteLine(array[58]);  
-      Console.WriteLine(array[59]);      
-   }
-   // the end of program
+    // main 
+    static void Main()
+    {
+        // intitialize the int array with five elements
+        int[] arrayA = new int[5];
+        // intitialize the int array with ten elements
+        int[] arrayB = new int[10];
+        // intitialize the int array with five elements
+        int[] arrayC = new int[15];
+        // initialize the int array with 20 elements
+        int[] arrayD = new int[20];
+
+        int[] arrayD = new int[15];
+        // get the length of the stay 
+        int lengthA = arrayA.Length;
+        // print the array and the le
+        Console.WriteLine("Length of ArrayA : {0}", +lengthA); 
+        // print the current size of the array  
+        Console.WriteLine("Length of ArrayB : {0}", +lengthB); 
+        long longLength = arrayA.LongLength;
+        // print the array Length
+        Console.WriteLine("Length of the LongLength Array  : {0}",longLength);
+        int[,] twoD = new int[5, 10];
+        Console.WriteLine("The Size of 2D Array is : {0}",twoD.Length);
+        // read the last line
+        Console.ReadLine();
+    } // end of the program
 }
