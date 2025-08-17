@@ -9,6 +9,9 @@ public class ArrayList
       
       // create second arrayList 
       ArrayList myArrayList2 = new ArrayList();
+
+       // create second arrayList 
+      ArrayList myArrayList3 = new ArrayList();
       
       // add the integer 56 to the ArrayList
       myArrayList.Add(92);
@@ -26,9 +29,6 @@ public class ArrayList
       // add number 13 to the array list
       myArrayList.AddmyArrayList.Add(13);
       
-      // adds srring to the end
-      myArrayList.Add("String");
-      // create newform
-      myArrayList.Add(new Form());  
+ 
   }
 } // end of the program
