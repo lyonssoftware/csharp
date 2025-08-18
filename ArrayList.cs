@@ -12,6 +12,11 @@ public class ArrayList
 
        // create second arrayList 
       ArrayList myArrayList3 = new ArrayList();
+
+      
+       // create second arrayList 
+      ArrayList myArrayList4 = new ArrayList();
+      
       
       // add the integer 56 to the ArrayList
       myArrayList.Add(92);
