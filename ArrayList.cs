@@ -4,25 +4,20 @@ public class ArrayList
    // main function
    public static void Main()
    {
-      // demo how to create ArrayList , create instance of ArrayList
+      // create instance of ArrayList
       ArrayList myArrayList = new ArrayList();
-      
-      // create second arrayList 
+      // create second instance of ArrayList 
       ArrayList myArrayList2 = new ArrayList();
-
-       // create second arrayList 
+      // create third instance of ArrayList 
       ArrayList myArrayList3 = new ArrayList();
-
-      
-       // create second arrayList 
+      // create fourth instance of ArrayList  
       ArrayList myArrayList4 = new ArrayList();
       
-      
-      // add the integer 56 to the ArrayList
+      // add the integer 56 to the first ArrayList
       myArrayList.Add(92);
       
       // add the integer 56 to the ArrayList
-      myArrayList.Add(56);
+      myArrayList.Add(56);AA
       // add 12 to the current array list
       myArrayList.Add(12);
       // add 12 to the current array list
