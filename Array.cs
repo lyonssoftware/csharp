@@ -39,7 +39,7 @@ public class Array
       array[30] = 78;
       array[31] = 11;
       array[32] = 71;
-      array[33] = 71;
+      array[33] = 31;
       array[34] = 62;
       array[35] = 31;
       array[36] = 22;
