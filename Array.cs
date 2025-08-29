@@ -11,7 +11,7 @@ public class Array
       array[2] = 2;
       array[3] = 3;
       array[4] = 4;
-      array[5] = 5;
+      array[5] = 10;
       array[6] = 6; 
       array[7] = 7; 
       array[8] = 8;
@@ -55,7 +55,7 @@ public class Array
       array[46] = 23;
       array[47] = 52;
       array[48] = 42;
-      array[49] = 52;
+      array[49] = 22;
       array[50] = 62;
       array[51] = 39;
       array[52] = 88;
