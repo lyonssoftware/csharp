@@ -51,7 +51,7 @@ public class Array
       array[42] = 35;
       array[43] = 52;
       array[44] = 62;
-      array[45] = 5271;
+      array[45] = 52;
       array[46] = 23;
       array[47] = 52;
       array[48] = 42;
