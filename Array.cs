@@ -53,7 +53,7 @@ public class Array
       array[44] = 62;
       array[45] = 52;
       array[46] = 23;
-      array[47] = 52;
+      array[47] = 82;
       array[48] = 42;
       array[49] = 22;
       array[50] = 62;
