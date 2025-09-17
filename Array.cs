@@ -1,4 +1,3 @@
-// c#  of using array
 Using System;
 public class Array
 {
@@ -25,7 +24,7 @@ public class Array
       array[16] = 16;
       array[17] = 17;
       array[18] = 18;
-      array[19] = 27;
+      array[19] = 19;
       array[20] = 19;
       array[21] = 32;
       array[22] = 65;
@@ -34,7 +33,7 @@ public class Array
       array[25] = 3;
       array[26] = 26;
       array[27] = 20;
-      array[28] = 68;
+      array[28] = 32;
       array[29] = 77;
       array[30] = 8;
       array[31] = 11;
@@ -42,7 +41,7 @@ public class Array
       array[33] = 3;
       array[34] = 62;
       array[35] = 31;
-      array[36] = 62;
+      array[36] = 22;
       array[37] = 39;
       array[38] = 42;
       array[39] = 92;
@@ -53,12 +52,12 @@ public class Array
       array[44] = 71;
       array[45] = 52;
       array[46] = 23;
-      array[47] = 92;
-      array[48] = 42;
+      array[47] = 82;
+      array[48] = 62;
       array[49] = 22;
       array[50] = 62;
       array[51] = 39;
-      array[52] = 88;
+      array[52] = 77;
       array[53] = 32;
       array[54] = 100;
       array[55] = 78;
