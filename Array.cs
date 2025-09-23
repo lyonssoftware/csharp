@@ -25,7 +25,7 @@ public class Array
       array[17] = 57;
       array[18] = 18;
       array[19] = 19;
-      array[20] = 19;
+      array[20] = 66;
       array[21] = 32;
       array[22] = 65;
       array[23] = 3;
