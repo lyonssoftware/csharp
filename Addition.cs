@@ -30,7 +30,7 @@ public class Addition
        int w = 39;
        int x = 10;
        int y = 10;
-       int z = 10;
+       int z = 100;
       
        // print the sum of a and b
        Console.WriteLine(a+b);
