@@ -5,7 +5,7 @@ public class DoWhile
    // main function of the program
    public static void Main()
    {
-    // set the count to 3
+    // set the count to 8
     int x = 8;
     int y = 10;
     int d = 6;
