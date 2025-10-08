@@ -30,6 +30,7 @@ public class Addition
        int x = 10;
        int y = 10;
        int z = 100;
+       int yy = 20;
        int zz = 29;
        int zzz = 10;
       
