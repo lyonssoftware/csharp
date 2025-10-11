@@ -66,7 +66,6 @@ public class Array
       array[58] = 90; 
       array[59] = 30; 
    
-              
       // print the items in array
       Console.WriteLine(array[0]);
       Console.WriteLine(array[1]);
