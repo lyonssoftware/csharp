@@ -4,7 +4,7 @@ public class Array
    public static void Main()
    {
       // create an int array of 60 indexes 
-      int[] array = new int[60];
+      int[] array = new int[50];
       array[0] = 0;
       array[1] = 1;
       array[2] = 2;
@@ -55,16 +55,6 @@ public class Array
       array[47] = 23;
       array[48] = 62;
       array[49] = 22;
-      array[50] = 52;
-      array[51] = 39;
-      array[52] = 77;
-      array[53] = 32;
-      array[54] = 100;
-      array[55] = 78;
-      array[56] = 32;
-      array[57] = 89;
-      array[58] = 90; 
-      array[59] = 30; 
    
       // print the items in array
       Console.WriteLine(array[0]);
@@ -117,16 +107,7 @@ public class Array
       Console.WriteLine(array[47]);
       Console.WriteLine(array[48]); 
       Console.WriteLine(array[49]); 
-      Console.WriteLine(array[50]);
-      Console.WriteLine(array[51]);
-      Console.WriteLine(array[52]);
-      Console.WriteLine(array[53]);
-      Console.WriteLine(array[54]);
-      Console.WriteLine(array[55]);
-      Console.WriteLine(array[56]);
-      Console.WriteLine(array[57]);
-      Console.WriteLine(array[58]);  
-      Console.WriteLine(array[59]);      
+      Console.WriteLine(array[50]);   
    }
    // the end of program
 }
