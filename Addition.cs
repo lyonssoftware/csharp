@@ -9,6 +9,7 @@ public class Addition
        int b = 20;
        int bb = 40;
        int c = 30;
+       int cc = 60;
        int d = 17;
        int e = 2;
        int f = 10;
