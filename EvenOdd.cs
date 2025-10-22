@@ -15,7 +15,7 @@ namespace check1
         {
             // initialize the int i = 0;
             int i = 0;
-         
+            // initialize the int j to -1
             int j = -1;
             // read the first int 
             Console.Write("Enter a Number : ");
