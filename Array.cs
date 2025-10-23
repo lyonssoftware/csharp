@@ -3,7 +3,7 @@ public class Array
 {
    public static void Main()
    {
-      // create an int array of 60 indexes 
+      // create an int array of 50 indexes 
       int[] array = new int[50];
       array[0] = 0;
       array[1] = 1;
@@ -41,7 +41,7 @@ public class Array
       array[33] = 3;
       array[34] = 17;
       array[35] = 31;
-      array[36] = 22;
+      array[36] = 24;
       array[37] = 39;
       array[38] = 42;
       array[39] = 26;
