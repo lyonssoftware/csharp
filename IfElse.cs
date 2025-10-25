@@ -1,5 +1,5 @@
 /*
-  Program to demo the if else statement in C#
+  Program of if else statement in C#
 */
 Using System;
 public class IfElse
@@ -16,9 +16,7 @@ public class IfElse
       
       // initalize variables
       int j = 11, k = 6, l = 15;
-      
-      
-     
+      // if the first equals the second value
       if (g == f)
       {
         // print statement
