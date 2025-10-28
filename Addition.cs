@@ -18,6 +18,7 @@ public class Addition
        int f = 10;
        int ff = 20;
        int g = 16;
+       int gg = 32;
        int h = 45;
        int i = 73;
        int j = 30;
