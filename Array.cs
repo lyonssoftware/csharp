@@ -14,14 +14,14 @@ public class Array
       array[6] = 6; 
       array[7] = 78; 
       array[8] = 80;
-      array[9] = 9;
+      array[9] = 99;
       array[10] = 10;
       array[11] = 11;
       array[12] = 12;
       array[13] = 91;
       array[14] = 14;
       array[15] = 47; 
-      array[16] = 86;
+      array[16] = 16;
       array[17] = 57;
       array[18] = 18;
       array[19] = 19;
