@@ -26,6 +26,7 @@ public class Addition
        int j = 30;
        int jj = 60;
        int k = 11  
+       int kk = 22;
        int l = 11;
        int m = 10;
        int n = 8;
