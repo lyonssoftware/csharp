@@ -21,7 +21,9 @@ class ArrayLength
         // initialize the int array with sixty elements
         int[] arrayH = new int[60];
         // initialize the int array with seventy elements
-        int[] arrayH = new int[70];
+        int[] arrayI = new int[70];
+         // initialize the int array with eighty elements
+        int[] arrayJ = new int[80];
 
         // int []] more arraya
 
