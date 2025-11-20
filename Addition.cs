@@ -39,6 +39,7 @@ public class Addition
        int p = 85;
        int pp = 170;
        int q = 55;
+       int qq = 110;
        int r = 20;
        int s = 20;
        int t = 39;
