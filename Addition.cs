@@ -43,6 +43,7 @@ public class Addition
        int r = 20;
        int rr = 40;
        int s = 20;
+       int ss = 40;
        int t = 39;
        int u = 53;
        int v = 70;
