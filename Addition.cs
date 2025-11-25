@@ -18,7 +18,7 @@ public class Addition
        int f = 10;
        int ff = 20;
        int g = 16;
-       int gg = 32;
+       int gg = 30;
        int h = 45;
        int hh = 90;
        int i = 73;
@@ -52,8 +52,8 @@ public class Addition
        int y = 10;
        int z = 100;
        int yy = 20;
-       int zz = 29;
-       int zzz = 10;
+       int z = 29;
+       int zz = 10;
       
        // print the sum of a and b
        Console.WriteLine(a+b);
@@ -109,3 +109,5 @@ public class Addition
        Console.Writeline(z);
   }
 } // end of the programx
+
+
