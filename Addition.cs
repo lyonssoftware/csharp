@@ -47,6 +47,7 @@ public class Addition
        int t = 39;
        int tt = 78;
        int u = 53;
+       int uu = 106;
        int v = 70;
        int w = 39;
        int x = 10;
