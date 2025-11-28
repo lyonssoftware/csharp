@@ -49,6 +49,7 @@ public class Addition
        int u = 53;
        int uu = 106;
        int v = 70;
+       int vv = 140;
        int w = 39;
        int x = 10;
        int y = 10;
