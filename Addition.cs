@@ -53,6 +53,7 @@ public class Addition
        int w = 39;
        int ww = 78;
        int x = 10;
+       int xx = 20;
        int y = 10;
        int z = 100;
        int yy = 20;
