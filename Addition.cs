@@ -3,7 +3,7 @@ public class Addition
 {
    public static void Main()
    { 
-      // initialize 
+      // initialize the variables
        int a = 15; 
        int aa = 30;
        int b = 20;
