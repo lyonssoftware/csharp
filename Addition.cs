@@ -54,7 +54,6 @@ public class Addition
        int x = 10;
        int xx = 20;
        int y = 10;
-       int z = 100;
        int yy = 20;
        int z = 29;
        int zz = 10;
