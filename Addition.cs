@@ -108,8 +108,8 @@ public class Addition
        Console.Writeline(x);
        // print the sum of y
        Console.Writeline(y);
-      // print the sum of z
-       Console.Writeline(z);
+      // print the sum of yy + zz
+       Console.Writeline(yy+zz);
   }
 } // end of the programx
 
