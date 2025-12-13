@@ -1,112 +1,116 @@
 Using System;
-public class Array
+public class Addition
 {
    public static void Main()
-   {
-      // create an int array of 50 indexes 
-      int[] array = new int[50];
-      array[0] = 0;
-      array[1] = 1;
-      array[2] = 2;
-      array[3] = 3;
-      array[4] = 4;
-      array[5] = 10;
-      array[6] = 6; 
-      array[7] = 78; 
-      array[8] = 80;
-      array[9] = 99;
-      array[10] = 10;
-      array[11] = 61;
-      array[12] = 12;
-      array[13] = 91;
-      array[14] = 14;
-      array[15] = 47; 
-      array[16] = 16;
-      array[17] = 57;
-      array[18] = 18;
-      array[19] = 19;
-      array[20] = 56;
-      array[21] = 32;
-      array[22] = 65;
-      array[23] = 3;
-      array[24] = 62;
-      array[25] = 32;
-      array[26] = 26;
-      array[27] = 22;
-      array[28] = 28;
-      array[29] = 77;
-      array[30] = 8;
-      array[31] = 11;
-      array[32] = 81;
-      array[33] = 3;
-      array[34] = 17;
-      array[35] = 31;
-      array[36] = 24;
-      array[37] = 38;
-      array[38] = 52;
-      array[39] = 26;
-      array[40] = 81;
-      array[41] = 9;
-      array[42] = 35;
-      array[43] = 52;
-      array[44] = 71;
-      array[45] = 12;
-      array[46] = 53;
-      array[47] = 73;
-      array[48] = 62;
-      array[49] = 74;
-   
-      // print the items in array
-      Console.WriteLine(array[0]);
-      Console.WriteLine(array[1]);
-      Console.WriteLine(array[2]);
-      Console.WriteLine(array[3]);
-      Console.WriteLine(array[4]);
-      Console.WriteLine(array[5]);
-      Console.WriteLine(array[6]);
-      Console.WriteLine(array[7]);
-      Console.WriteLine(array[8]);
-      Console.WriteLine(array[9]);
-      Console.WriteLine(array[10]);
-      Console.WriteLine(array[11]);
-      Console.WriteLine(array[12]);
-      Console.WriteLine(array[13]);
-      Console.WriteLine(array[14]);
-      Console.WriteLine(array[15]);
-      Console.WriteLine(array[16]);
-      Console.WriteLine(array[17]);
-      Console.WriteLine(array[18]);
-      Console.WriteLine(array[19]);
-      Console.WriteLine(array[20]);
-      Console.WriteLine(array[21]);
-      Console.WriteLine(array[22]);
-      Console.WriteLine(array[23]);
-      Console.WriteLine(array[24]);
-      Console.WriteLine(array[25]);
-      Console.WriteLine(array[26]);
-      Console.WriteLine(array[27]);
-      Console.WriteLine(array[28]);
-      Console.WriteLine(array[29]);
-      Console.WriteLine(array[30]);
-      Console.WriteLine(array[31]);
-      Console.WriteLine(array[32]);
-      Console.WriteLine(array[33]);
-      Console.WriteLine(array[34]);
-      Console.WriteLine(array[35]);
-      Console.WriteLine(array[36]);
-      Console.WriteLine(array[37]);
-      Console.WriteLine(array[38]);
-      Console.WriteLine(array[39]);
-      Console.WriteLine(array[40]);
-      Console.WriteLine(array[41]);
-      Console.WriteLine(array[42]);
-      Console.WriteLine(array[43]);
-      Console.WriteLine(array[44]);
-      Console.WriteLine(array[45]);
-      Console.WriteLine(array[46]);
-      Console.WriteLine(array[47]);
-      Console.WriteLine(array[48]); 
-      Console.WriteLine(array[49]);  
-   }
-   // the end of program
-}
+   { 
+      // initialize the variables
+       int a = 15; 
+       int aa = 30;
+       int b = 20;
+       int bb = 40;
+       int c = 30;
+       int cc = 60;
+       int d = 17;
+       int dd = 34;
+       int e = 2;
+       int ee = 4;
+       int ee = 4;
+       int f = 10;
+       int ff = 20;
+       int g = 16;
+       int gg = 30;
+       int h = 45;
+       int hh = 90;
+       int i = 73;
+       int ii = 14
+       int j = 30;
+       int jj = 60;
+       int k = 11;
+       int kk = 22;
+       int l = 11;
+       int ll = 22;
+       int m = 10;
+       int mm = 20;
+       int n = 8;
+       int nn = 16;
+       int o = 45;
+       int oo = 90;
+       int p = 85;
+       int pp = 170;
+       int q = 55;
+       int qq = 110;
+       int r = 20;
+       int rr = 40;
+       int s = 20;
+       int ss = 40;
+       int t = 39;
+       int tt = 78;
+       int u = 53;
+       int uu = 106;
+       int v = 70;
+       int vv = 140;
+       int w = 39;
+       int ww = 78;
+       int x = 30;
+       int xx = 60;
+       int y = 10;
+       int yy = 20;
+       int z = 29;
+       int zz = 58;
+      
+       // print the sum of a and b
+       Console.WriteLine(a+b);
+       // print the sum 
+       Console.WriteLine(c+d);
+       // print the sum of c
+       Console.Writeline(d+e);
+       // print the sum of d 
+       Console.Writeline(d);
+       // print the sum of e
+       Console.Writeline(e);
+       // print the sum of f
+       Console.Writeline(f);
+       // print the sum of g
+       Console.Writeline(g);
+       // print the sum of h
+       Console.Writeline(h);
+       // print the sum of i
+       Console.Writeline(i);
+       // print the sum of j
+       Console.Writeline(j);
+       // print the sum of k
+       Console.Writeline(k);
+       // print the sum of l
+       Console.Writeline(l);
+       // print the sum of m
+       Console.Writeline(m);
+       // print the sum of n
+       Console.Writeline(n);
+       // print the sum of o
+       Console.Writeline(o);
+       // print the sum of p
+       Console.Writeline(p);
+      // print the sum of q
+       Console.Writeline(q);
+       // print the sum of r
+       Console.Writeline(r);
+      // print the sum of s
+       Console.Writeline(s);
+      // print the sum of t
+       Console.Writeline(t);
+      // print the sum of u
+       Console.Writeline(u);
+       // print the sum of v
+       Console.Writeline(v);
+       // print the sum of w
+       Console.Writeline(w);
+      // print the sum of x
+       Console.Writeline(x);
+       // print the sum of y
+       Console.Writeline(xx+yy);
+      // print the sum of yy + zz
+       Console.Writeline(yy+zz);
+  }
+} // end of the programx
+
+
