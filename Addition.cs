@@ -19,7 +19,7 @@ public class Addition
        int f = 10;
        int ff = 20;
        int g = 16;
-       int gg = 30;
+       int gg = 32;
        int h = 45;
        int hh = 90;
        int i = 73;
