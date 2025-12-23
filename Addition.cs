@@ -39,8 +39,8 @@ public class Addition
        int pp = 170;
        int q = 55;
        int qq = 110;
-       int r = 20;
-       int rr = 40;
+       int r = 30;
+       int rr = 60;
        int s = 20;
        int ss = 40;
        int t = 39;
