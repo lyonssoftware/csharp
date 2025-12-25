@@ -1,116 +1,79 @@
+// program to show division in C#
 Using System;
-public class Addition
+Class Division
 {
-   public static void Main()
-   { 
-      // initialize the variables
-       int a = 15; 
-       int aa = 30;
-       int b = 20;
-       int bb = 40;
-       int c = 30;
-       int cc = 60;
-       int d = 17;
-       int dd = 34;
-       int e = 2;
-       int ee = 8;
-       int ee = 4;
-       int f = 10;
-       int ff = 20;
-       int g = 16;
-       int gg = 32;
-       int h = 45;
-       int hh = 90;
-       int i = 73;
-       int ii = 146;
-       int j = 30;
-       int jj = 60;
-       int k = 8;
-       int kk = 16;
-       int l = 11;
-       int ll = 22;
-       int m = 10;
-       int mm = 20;
-       int n = 8;
-       int nn = 16;
-       int o = 45;
-       int oo = 90;
-       int p = 85;
-       int pp = 170;
-       int q = 55;
-       int qq = 110;
-       int r = 30;
-       int rr = 60;
-       int s = 20;
-       int ss = 40;
-       int t = 39;
-       int tt = 78;
-       int u = 53;
-       int uu = 106;
-       int v = 70;
-       int vv = 140;
-       int w = 39;
-       int ww = 78;
-       int x = 30;
-       int xx = 60;
-       int y = 10;
-       int yy = 20;
-       int z = 29;
-       int zz = 58;
-      
-       // print the sum of a and b
-       Console.WriteLine(a+b);
-       // print the sum 
-       Console.WriteLine(c+d);
-       // print the sum of c
-       Console.Writeline(d+e);
-       // print the sum of d 
-       Console.Writeline(d);
-       // print the sum of e
-       Console.Writeline(e);
-       // print the sum of f
-       Console.Writeline(f);
-       // print the sum of g
-       Console.Writeline(g);
-       // print the sum of h
-       Console.Writeline(h);
-       // print the sum of i
-       Console.Writeline(i);
-       // print the sum of j
-       Console.Writeline(j);
-       // print the sum of k
-       Console.Writeline(k);
-       // print the sum of l
-       Console.Writeline(l);
-       // print the sum of m
-       Console.Writeline(m);
-       // print the sum of n
-       Console.Writeline(n);
-       // print the sum of o
-       Console.Writeline(o);
-       // print the sum of p
-       Console.Writeline(p);
-      // print the sum of q
-       Console.Writeline(q);
-       // print the sum of r
-       Console.Writeline(r);
-      // print the sum of s
-       Console.Writeline(s);
-      // print the sum of t
-       Console.Writeline(t);
-      // print the sum of u
-       Console.Writeline(u);
-       // print the sum of v
-       Console.Writeline(v);
-       // print the sum of w
-       Console.Writeline(w);
-      // print the sum of x
-       Console.Writeline(x);
-       // print the sum of y
-       Console.Writeline(xx+yy);
-      // print the sum of yy + zz
-       Console.Writeline(yy+zz);
-  }
-} // end of the programx
-
-
+   // main function 
+    public static void Main()
+    {
+        // initialize x to 3 
+        int x = 3;
+        // initialize y to 8
+        int y = 8;
+        // initalize c to 10
+        int c = 10;
+        // initialize the variable d
+        int d = 3;
+        // initalize 3 to 18
+        int e = 18;
+        // initialize the variable w
+        int w = 7;
+        // initialize the variable i = 56
+        int i = 56;
+        // initialize the variable o 
+        int o = 32;
+        //initialize the variable
+        int k = 89;
+        // set the int f to the value of e (f = 18)
+        int f = e;
+        // negative integer -12
+        int negativeNum = -12;
+         // negative integer -22
+        int negativeNum = -22;
+        // num
+        int u = 19;
+        // set the int g to 15
+        int g = 15;
+        // set the int m to 6 
+        int m = 6;
+        // set the int n to 78
+        int n = 78;
+        // set the int z to 55
+        int z = 55;
+        // set int r to 51
+        int r = 51;
+         // set the int w to 42
+        int w = 42;
+        
+        int m = 101;
+       
+       // print the result of divide 3 by 8 
+        Console.WriteLine(x/y);
+        // print the result of divide 8 / 3 
+        Console.WriteLine(y/x);
+        // divide 3 by 3 = 1
+        Console.WriteLine(x/d);
+        // divide 3 by 3 = 1
+        Console.WriteLine(d/x);
+        // divide 3 / 8
+        Console.WriteLine(d/y);
+        // divide 8 / 3 
+        Console.WriteLine(y/d);
+        // divide 8 / 3 = 2.33333
+        Console.WriteLine (y/d);
+        // divide 10 / 3 
+        Console.WriteLine(c/d);
+        // divide 18 / 3
+        Console.wtiyeline(e/x);
+        // divide 3 // 18
+        Console.writeline(x/e);
+        // print the result of 3 / 18
+        Console.writeline(y/e);
+        // divide 15 / 18
+        Console.writeline (g/e);
+        Console.writeline (o/i);
+        Console.writeline (d/o);
+        // adding and dividing variables
+        Console.writeline (x+y/o);
+        Console.writeline (x*b/o);
+    } // end of the program 
+}
