@@ -13,7 +13,7 @@ class ForEach
     // add the name "Someone Else" to the ArrayList
     list.Add("Someone Else");
      // add the name "Last Person" to the ArrayList
-    list.Add("Last Person");
+    list.Add("Another Person");
     // another person
     list.Add("Another person");
      // add the name "Last Person" to the ArrayList
@@ -27,7 +27,7 @@ class ForEach
      // add the name "Last Person" to the ArrayList
      list.Add("Peterson");
      // add the name "Last Person" to the ArrayList
-     list.Add("Anderson");
+     list.Add("Last Person");
     
     // add the name "Last Person" to the ArrayList
      list.Add("Michaelson");
