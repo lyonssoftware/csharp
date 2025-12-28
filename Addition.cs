@@ -62,7 +62,7 @@ public class Addition
        Console.WriteLine(a+b);
        // print the sum of c and d
        Console.WriteLine(c+d);
-       // print the sum of c
+       // print the sum of d and e
        Console.Writeline(d+e);
        // print the sum of d 
        Console.Writeline(d);
