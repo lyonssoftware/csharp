@@ -14,7 +14,6 @@ public class DoWhile
       {
         // increment the variable x by 1 
         x++;
-        // new x count 
       }
       // while the x variable is less than 10 
      while(x < 10)
