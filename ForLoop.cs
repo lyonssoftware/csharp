@@ -25,7 +25,7 @@ class ForLoop
        Console.WriteLine("This for loop increments by 2.");
       // end of print 
     }
-    // for loop to print This is line "variable"
+    // for loop to print This is line and the number 
     for (int j = 0; j < 5; j++)
     {
       // print the line number 
