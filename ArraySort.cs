@@ -19,7 +19,8 @@ class ArraySort
             "Mango",
             "Maroon",
             "Red",
-             "more"
+            "Burnt Orange",
+            "Golden"
         };
         
         // Call Array.Sort method.
