@@ -12,6 +12,7 @@ class ArraySort
             "Blue",
             "Yellow",
             "Aqua",
+            "Neon",
             "Hazel",
             "Mango",
             "Green",
