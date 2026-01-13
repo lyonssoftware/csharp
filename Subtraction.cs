@@ -11,13 +11,12 @@ public class Subtraction
       int b = 3;
       // initialize the int c to 4
       int c = 4;
-      // integer set d to 7
+      // initialize the int d to 7
       int d = 7;
-
-      /**/
+      // initialize the int e to 18
       int e = 18;
-    // print the results of 3-5 = -2
-    Console.WriteLine(a-b);
+      // print the results of 3-5 = -2
+      Console.WriteLine(a-b);
     // print the results of 3-5 = -2
     Console.writeline(b-a);
     // print the results of 5 - 4 = 1
