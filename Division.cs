@@ -25,7 +25,7 @@ Class Division
         int k = 89;
         // set the int f to the value of e (f = 18)
         int f = e;
-        // 
+        // set the int a to 60
         int a = 60;
         // negative integer -12
         int negativeNum = -12;
