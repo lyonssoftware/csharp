@@ -45,7 +45,7 @@ Class Division
         int r = 51;
          // set the int w to 42
         int w = 42;
-        
+        // set the int m to 101
         int m = 101;
        
        // print the result of divide 3 by 8 
