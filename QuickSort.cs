@@ -25,7 +25,7 @@ namespace Quicksort
             // Print the unsorted array
             for (int i = 0; i < unsorted.Length; i++)
             {
-            // print the unsorted array
+                // print the unsorted array
                 Console.Write(unsorted[i] + " ");
             }
             // print out the array 
@@ -40,9 +40,9 @@ namespace Quicksort
              // print the unsorted
                 Console.Write(unsorted[i] + " ");
             }
- // print the insorted list 
+            // print the unsorted list 
             Console.WriteLine();
- // read in the new array 
+            // read in the new array 
             Console.ReadLine();
         }
         // Quicksort method
