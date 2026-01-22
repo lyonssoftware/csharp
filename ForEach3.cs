@@ -19,13 +19,15 @@ namespace WindowsApplication1
         {
             // intialize an array of type string for the days in the week 
             string[] days = { "Sunday", "Monday", "TuesDay", "Wednesday", "Thursday", "Friday", "Saturday" };
-            // intialize an array 
+            // intialize an array of months 
             string[] days = { "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
             // iterate and probt 
             foreach (string day in days)
             {
             // print message 
                 MessageBox.Show("The day is : " + day);
+
+// print the statement 
             }
         }
     } // end of the program
