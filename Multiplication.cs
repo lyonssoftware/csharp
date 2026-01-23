@@ -36,8 +36,8 @@ Class Multiplication
         int g = s;
         // set the int f to 7
         int f = 7;
-        
-        int z = p - s;
+        // set the int to p
+        int z = p;
         
         // initialize the int variable
         int u = 105;
