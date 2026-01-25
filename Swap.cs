@@ -6,11 +6,11 @@ public class Swap
    {
     // initialize variable a 
     int a = 5;
-    // the second variable 
+    // initialize variable b 
     int b = 3;
-      
+    // initialize variable c 
     int c = 9;
-      
+    // initialize variable d
     int d = 91;
       
     // the swap variable
