@@ -2,7 +2,7 @@
 class Function
 {
   // this is a sample function named Foo();
-  // the function foo prints the statement "this is the function foo"
+  // the function Foo() prints the statement "this is the function foo"
   void Foo()
   {
     // print the statement
@@ -49,7 +49,7 @@ class Function
   {
 // set the sum of the two ints 
     int sum = x + y;
-    // return the int value sum 
+    // return the value of sum 
     return sum;
   }
   // return an int value
