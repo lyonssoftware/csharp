@@ -8,7 +8,7 @@ class Function
     // print the statement
     Console.System.print("this is the function foo");
   }
-  // bar function 
+  // call the Bar function
   void Bar()
   {
     // print the statement "This is the function bar"
