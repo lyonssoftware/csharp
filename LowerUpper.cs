@@ -17,11 +17,11 @@ class LowerUpper
     stringArray.SetValue("Grape", 3);
     // set the string to cherry 
     stringArray.SetValue("Cherry", 4);
-    // set the value 
+    // set the value to blackberry
     stringArray.SetValue("Blackberry", 5);
-    // set the value 
-    stringArray.SetValue("WaterMelon", 6);
-    // set the value 
+    // set the value to watermelon
+    stringArray.SetValue("Watermelon", 6);
+    // set the value to lemon
     stringArray.SetValue("Lemon", 7); 
     // set the value 
     stringArray.SetValue("Lime", 8);
