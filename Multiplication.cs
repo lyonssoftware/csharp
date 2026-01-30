@@ -10,15 +10,15 @@ Class Multiplication
     // main function 
     public static void Main()
     {
-        // set the int to 3
+        // initialize x to 3
         int x = 3;
         // set the int to 8 
         int y = 8;
-        // negative integer
+        // set the int to -1 
         int z = -1
         // set the int w to 6
         int w = 6;
-        // initialize I to 8
+        // initialize i to 8 
         int i = 8;
         // initialize the int a
         int a = 4;
@@ -36,9 +36,8 @@ Class Multiplication
         int g = s;
         // set the int f to 7
         int f = 7;
-        // set the int to p
+        // set the int z to p
         int z = p;
-        
         // initialize the int variable
         int u = 105;
         
