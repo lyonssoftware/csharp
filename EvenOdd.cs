@@ -26,10 +26,10 @@ namespace check1
             // check if int is even or odd
             if (i % 2 == 0)
             {
-               
- Console.Write("Entered Number is an Even Number");
-                // read in value
-Console.Read();
+               // enter the number
+               Console.Write("Entered Number is an Even Number");
+               // read in value
+               Console.Read();
             }
 // else statement 
             else
