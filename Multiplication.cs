@@ -40,10 +40,8 @@ Class Multiplication
         int z = p;
         // initialize the int variable
         int u = 105;
-        
+        // initialize b to 35
         int b = 35;
-        
-        
         
         //multiple the variables 
         Console.WriteLine(x*y);
