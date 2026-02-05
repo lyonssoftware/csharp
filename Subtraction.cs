@@ -17,19 +17,19 @@ public class Subtraction
       int e = 18;
       // print the results of 3-5 = -2
       Console.WriteLine(a-b);
-    // print the results of 3-5 = -2
-    Console.writeline(b-a);
-    // print the results of 5 - 4 = 1
-    Console.WriteLine(a-c);
-    // print the results of 7 - 4 = 3
-    Console.WriteLine(d-c);
-    // print the results of 5 - 3 - 4 - 7 = -9
-    Console.WriteLine(a-b-c-d);
-    // print the results of 7 - 4 - 3 - 5 = -5
-    Console.WriteLine(d-c-b-a);
-    // print the results of 5 + 4 - 3 + 7 = 2 
-    Console.WriteLine(a+c-b+d);
-    // print the results of ((4 - 7) - (5 - 3)) = -5
-    Console.WriteLine((c-d)-(a-b));
-  }
+      // print the results of 3-5 = -2
+      Console.writeline(b-a);
+      // print the results of 5 - 4 = 1
+      Console.WriteLine(a-c);
+      // print the results of 7 - 4 = 3
+      Console.WriteLine(d-c);
+      // print the results of 5 - 3 - 4 - 7 = -9
+      Console.WriteLine(a-b-c-d);
+      // print the results of 7 - 4 - 3 - 5 = -5
+      Console.WriteLine(d-c-b-a);
+      // print the results of 5 + 4 - 3 + 7 = 2 
+      Console.WriteLine(a+c-b+d);
+      // print the results of ((4 - 7) - (5 - 3)) = -5
+      Console.WriteLine((c-d)-(a-b));
+   }
 }    // end of program
