@@ -17,6 +17,8 @@ public class ArrayList
       // create sixth instance of ArrayList() 
       ArrayList myArrayList6 = new ArrayList();
 
+      ArrayList myArrayList7 = new ArrayList();
+
       
       // add the integer 56 to the first ArrayList
       myArrayList.Add(92);
