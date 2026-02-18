@@ -16,7 +16,7 @@ public class ArrayList
       ArrayList myArrayList5 = new ArrayList();
       // create sixth instance of ArrayList() 
       ArrayList myArrayList6 = new ArrayList();
-
+      // create the seventh instance
       ArrayList myArrayList7 = new ArrayList();
 
       
