@@ -32,6 +32,7 @@ class ArrayLength
         int[] arrayM = new int[100];
         // initialize the int array with 100 elements
         int[] arrayN = new int[100];
+        int[] arrayO = new int[80];
 
         // get the length of the stay 
         int lengthA = arrayA.Length;
