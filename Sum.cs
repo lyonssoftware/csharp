@@ -8,7 +8,6 @@ class Sum
     int num, sum = 0, r;
     // ask the user to input int number 
     Console.WriteLine("Enter a Number : ");
-    // read the int from the user
     
     // parse throught the int 
     num = int.Parse(Console.ReadLine());
