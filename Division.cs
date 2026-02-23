@@ -11,11 +11,11 @@ Class Division
         int y = 8;
         // initalize c to 10
         int c = 10;
-        // initialize the variable d
+        // initialize d to 3
         int d = 3;
-        // initalize 3 to 18
+        // initalize e to 18
         int e = 18;
-        // initialize the variable w
+        // initialize w to 7
         int w = 7;
         // initialize the variable i = 56
         int i = 56;
