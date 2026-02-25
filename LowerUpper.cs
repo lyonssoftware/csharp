@@ -1,45 +1,81 @@
-// C# convert lower case leters to uppercase letters
+// program to show division in C#
 Using System;
-class LowerUpper
+Class Division
 {
-  // main method
-  static void Main(string[] args)
-  {
-    // create a new Array object and set the size to 6 
-    Array stringArray = Array.CreateInstance(typeof(String), 13);
-    // insert the string "Mango" into the first index of array
-    stringArray.SetValue("Mango", 0);
-    // insert the string "Orange" into the second index of array
-    stringArray.SetValue("Orange", 1);
-     // insert the string "Apple" into the third index of array
-    stringArray.SetValue("Apple", 2);
-    // set the value to grape
-    stringArray.SetValue("Grape", 3);
-    // set the string to cherry 
-    stringArray.SetValue("Cherry", 4);
-    // set the value to blackberry
-    stringArray.SetValue("Blackberry", 5);
-    // set the value to watermelon
-    stringArray.SetValue("Watermelon", 6);
-    // set the value to lemon
-    stringArray.SetValue("Lemon", 7); 
-    // set the value to lime
-    stringArray.SetValue("Lime", 8);
-    // set the value to the banana 
-    stringArray.SetValue("Banana", 9);
-    // set the value to Apricot
-    stringArray.SetValue("Apricot", 10);
-    // set the value to dragonfruit
-    stringArray.SetValue("Dragonfruit", 11);
-    // set the value
-    stringArray.SetValue("Black Cherry", 12);
-
-    //print "the lower" 
-            Console.WriteLine("The Lower Bound of the Array : {0}",stringArray.GetLowerBound(0).ToString());
-    // the upper bounds of the array
-            Console.WriteLine("The Upper Bound of the Array : {0}",stringArray.GetUpperBound(0).ToString());
-    // read line the line and get the data
-            Console.ReadLine();
-        }
-    } // end of program
+   // main function 
+    public static void Main()
+    {
+        // initialize x to 3 
+        int x = 3;
+        // initialize y to 8
+        int y = 8;
+        // initalize c to 10
+        int c = 10;
+        // initialize d to 3
+        int d = 3;
+        // initalize e to 18
+        int e = 18;
+        // initialize w to 7
+        int w = 7;
+        // initialize the variable i = 56
+        int i = 56;
+        // initialize the variable o 
+        int o = 32;
+        //initialize the variable
+        int k = 89;
+        // set the int f to the value of e (f = 18)
+        int f = e;
+        // set the int a to 60
+        int a = 60;
+        // negative integer -12
+        int negativeNum = -12;
+         // negative integer -22
+        int negativeNum = -22;
+        // num
+        int u = 19;
+        // set the int g to 15
+        int g = 15;
+        // set the int m to 6 
+        int m = 6;
+        // set the int n to 78
+        int n = 78;
+        // set the int z to 55
+        int z = 55;
+        // set int r to 51
+        int r = 51;
+         // set the int w to 42
+        int w = 42;
+        // set the int m to 101
+        int m = 101;
+       
+       // print the result of divide 3 by 8 
+        Console.WriteLine(x/y);
+        // print the result of divide 8 / 3 
+        Console.WriteLine(y/x);
+        // divide 3 by 3 = 1
+        Console.WriteLine(x/d);
+        // divide 3 by 3 = 1
+        Console.WriteLine(d/x);
+        // divide 3 / 8
+        Console.WriteLine(d/y);
+        // divide 8 / 3 
+        Console.WriteLine(y/d);
+        // divide 8 / 3 = 2.33333
+        Console.WriteLine (y/d);
+        // divide 10 / 3 
+        Console.WriteLine(c/d);
+        // divide 18 / 3
+        Console.wtiyeline(e/x);
+        // divide 3 // 18
+        Console.writeline(x/e);
+        // print the result of 3 / 18
+        Console.writeline(y/e);
+        // divide 15 / 18
+        Console.writeline (g/e);
+        Console.writeline (o/i);
+        Console.writeline (d/o);
+        // adding and dividing variables
+        Console.writeline (x+y/o);
+        Console.writeline (x*b/o);
+    } // end of the program 
 }
