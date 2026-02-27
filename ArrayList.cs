@@ -6,23 +6,21 @@ public class ArrayList
    {
       // create instance of ArrayList()
       ArrayList myArrayList = new ArrayList();
-      // create second instance of ArrayList()
+      // create the second instance of ArrayList()
       ArrayList myArrayList2 = new ArrayList();
-      // create third instance of ArrayList()
+      // create the third instance of ArrayList()
       ArrayList myArrayList3 = new ArrayList();
-      // create fourth instance of ArrayList()
+      // create the fourth instance of ArrayList()
       ArrayList myArrayList4 = new ArrayList();
-      // create fifth instance of ArrayList()
+      // create the fifth instance of ArrayList()
       ArrayList myArrayList5 = new ArrayList();
-      // create sixth instance of ArrayList() 
+      // create the sixth instance of ArrayList() 
       ArrayList myArrayList6 = new ArrayList();
-      // create the seventh instance
+      // create the seventh instance of ArrayList()
       ArrayList myArrayList7 = new ArrayList();
-
       
       // add the integer 56 to the first ArrayList
       myArrayList.Add(92);
-      
       // add the integer 56 to the ArrayList
       myArrayList.Add(56);AA
       // add 12 to the current array list
