@@ -35,7 +35,7 @@ public class Array
       array[27] = 67;
       array[28] = 28;
       array[29] = 87;
-      array[30] = 8;
+      array[30] = 88;
       array[31] = 11;
       array[32] = 91;
       array[33] = 3;
