@@ -12,7 +12,7 @@ class ArraySort
             "Blue",
             "Yellow",
             "Aqua",
-            "Off White",
+            "White",
             "Neon",
             "Hazel",
             "Mango",
