@@ -5,7 +5,6 @@ class ForLoop
   public static void main()
   {
     // int variables 
-    int z = 0;
     // increment the for loop by one and print statement
     for(int i = 0; i < 10; i++)
     {
