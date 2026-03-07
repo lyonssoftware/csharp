@@ -4,7 +4,7 @@ class ArraySort
 {
     static void Main()
     {
-        // create an array of 7 strings for colors
+        // create an array of strings for colors
         string[] colors = new string[]
         {
             "Orange",
@@ -17,8 +17,6 @@ class ArraySort
             "Hazel",
             "Mango",
             "Green",
-            "Pink",
-            "Maroon",
             "Red",
             "Burnt Orange",
             "Golden"
