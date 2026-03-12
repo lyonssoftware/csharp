@@ -12,7 +12,7 @@ public class ArrayList
       ArrayList myArrayList3 = new ArrayList();
       // create the fourth instance of ArrayList()
       ArrayList myArrayList4 = new ArrayList();
-      // create 
+      // create the fifth instance of ArrayList
       ArrayList myArrayList5 = new ArrayList();
       
       // add the integer 56 to the first ArrayList
