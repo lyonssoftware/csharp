@@ -29,7 +29,6 @@ public class ArrayList
       myArrayList.Add(40); 
       // add number 13 to the array list
       myArrayList.AddmyArrayList.Add(13);
-      
  
   }
 } // end of the program
