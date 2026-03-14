@@ -11,17 +11,15 @@ public class Switch
        switch (i)
        {
          // first case
-         case 1:
+          case 1:
           // print the statement "One"
-           Console.WriteLine("One");
-          // break
-        break;
-      // second case
-      case 2:
+          Console.WriteLine("One");
+           // break
+           break;
+           // second case
+          case 2:
           // print "Two"
-        Console.WriteLine("Two");
-          // print the statement Two
-        Console.WriteLine("Two");
+           Console.WriteLine("Two");
           // break
         break;
           // the last choice of the others don’t work 
