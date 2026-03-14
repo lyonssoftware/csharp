@@ -6,14 +6,14 @@ public class Switch
    public static void Main()
    {
       // set the condition with int i
-    int i = 1;
+      int i = 1;
       // statement is true iterate through the cases
-    switch (i)
-    {
-      // first case
-      case 1:
+       switch (i)
+       {
+         // first case
+         case 1:
           // print the statement "One"
-        Console.WriteLine("One");
+           Console.WriteLine("One");
           // break
         break;
       // second case
