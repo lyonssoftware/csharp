@@ -13,6 +13,7 @@ class Date
     String.Format("{0:M MM MMM MMMM}", dt); 
     // "3 03 Mar March"  month
     String.Format("{0:d dd ddd dddd}", dt);  // "9 09 Sun Sunday" day
+    // format
     String.Format("{0:h hh H HH}",     dt);  // "4 04 16 16"      hour 12/24
     // format the minute 
     String.Format("{0:m mm}",          dt);  // "5 05"            minute
