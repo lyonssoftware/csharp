@@ -14,7 +14,6 @@ class ArraySort
             "White",
             "Neon",
             "Hazel",
-            "Mango",
             "Green",
             "Red",
             "Burnt Orange",
