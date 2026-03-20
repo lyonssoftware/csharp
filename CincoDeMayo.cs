@@ -9,6 +9,6 @@ class CincoDeMayo
         // intitialize the int array with five slots
         int[] arrayA = new int[5];
         // get the length of the stay 
- 
+        return arrayA.lengh();
     } // end of the program
 }
