@@ -16,7 +16,6 @@ class ArraySort
             "Hazel",
             "Green",
             "Red",
-            "Burnt Orange",
             "Golden"
         };
         
