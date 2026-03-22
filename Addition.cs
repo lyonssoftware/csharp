@@ -6,14 +6,14 @@ public class Array
       // create an int array of 50 indexes 
       int[] array = new int[50];
       array[0] = 0;
-      array[1] = 23;
+      array[1] = 13;
       array[2] = 2;
       array[3] = 3;
       array[4] = 4;
       array[5] = 10;
       array[6] = 6; 
       array[7] = 78; 
-      array[8] = 80;
+      array[8] = 8;
       array[9] = 99;
       array[10] = 10;
       array[11] = 71;
