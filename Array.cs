@@ -13,11 +13,11 @@ public class Array
       array[5] = 10;
       array[6] = 6; 
       array[7] = 78; 
-      array[8] = 60;
+      array[8] = 20;
       array[9] = 29;
       array[10] = 10;
       array[11] = 61;
-      array[12] = 42;
+      array[12] = 12;
       array[13] = 81;
       array[14] = 14;
       array[15] = 57; 
