@@ -5,11 +5,11 @@ public class DoWhile
    // main function of the program
    public static void Main()
    {
-    // set the count to 8
-    int x = 8;
-    int y = 10;
-    int d = 6;
-      // execute the action at least once 
+       // set the count to 8
+       int x = 8;
+       int y = 10;
+       int d = 6;
+       // execute the action at least once 
       do 
       {
         // increment the variable x by 1 
