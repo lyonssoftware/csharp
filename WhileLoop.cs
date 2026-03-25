@@ -9,12 +9,12 @@ public class WhileLoop
       int i = 5;
       int f = 0;
       int s = 0;
+      
       // while the count is larger than 0
       while(i > 0)
       { 
          // write the current count
          System.Console.WriteLine("The current count is greater than 0.");
-         // decrement the counter by one 
          i--;
       }
       // Set the j to 0
