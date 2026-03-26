@@ -8,19 +8,10 @@ class InsertionSort
 // set the arrays
         // this is the unsorted array [69,56,77,44,8,0,111,566
         int[] num1 = { 69, 56, 77, 44, 8, 0, 111, 566 };
-        
         // this is the unsorted array [69,56,77,44,8,0,111,566
         int[] num2 = { 69, 56, 77, 44, 8, 0, 111, 566 };
-        
          // this is the unsorted array [69,56,77,44,8,0,111,566
         int[] num3 = { 69, 56, 77, 44, 8, 0, 111, 566 };
-        
-        // this is the unsorted array [69,56,77,44,8,0,111,566
-        int[] num4 = { 92, 69, 10, 44, 8, 0, 21, 596 };
-        // this is the unsorted array []
-        int[] num5 = { 92, 69, 10, 44, 8, 0, 21, 596 };
-
-// int c = 57;
         
         // setup the forloop based on the length of the array
         for (int i = 1; i < num.Length; i++)
