@@ -12,34 +12,18 @@ class ForEach
     list.Add("Jane Doe");
     // add the name "Someone Else" to the ArrayList
     list.Add("Someone Else");
-     // add the name "Last Person" to the ArrayList
+    // add the name "Last Person" to the ArrayList
     list.Add("Another Person");
     // another person
     list.Add("Another person");
-     // add the name "Last Person" to the ArrayList
-      list.Add("Chris Poet");
-     // add the name "Last Person" to the ArrayList
-    list.Add("Tom");
-     // add the name "Last Person" to the ArrayList
-    list.Add("Person");
-     // add the name "Last Person" to the ArrayList
-     list.Add("Johnson");
-     // add the name "Last Person" to the ArrayList
-     list.Add("Peterson");
-     // add the name "Last Person" to the ArrayList
-     list.Add("Last Person");
-    
     // add the name "Last Person" to the ArrayList
-     list.Add("Michaelson");
-    
-// new line for 
-    
-    list.Add("Second to Last");
-    
+    list.Add("Chris Poet");
+    // add the name "Last Person" to the ArrayList
+    list.Add("Tom");
+    // add the name "Last Person" to the ArrayList  
     list.Add("Last Person");
+    
     // foreach loop to iterate through list
-    
-    
     foreach(string name in list)
     {
       // print the name
