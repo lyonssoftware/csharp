@@ -16,10 +16,10 @@ namespace Quicksort
             // Create an unsorted array of string elements
             string[] unsorted = { "z","e","x","c","m","q","a"};
             
-            // create an unsoted array
+            // create an unsoted array of string elements
             string[] unsorted2 = { "j","m","k","i","m","u","z"};
          
-            // create an unsoted array
+            // create an unsoted array of string elements
             string[] unsorted3 = { "q","j","k","o","m","u","n"};
  
             // Print the unsorted array
