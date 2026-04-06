@@ -38,10 +38,6 @@ Class Multiplication
         int f = 7;
         // set the int z to p
         int z = p;
-        // initialize the int variable
-        int u = 105;
-        // initialize b to 35
-        int b = 35;
         
         //multiple the variables 
         Console.WriteLine(x*y);
@@ -53,12 +49,15 @@ Class Multiplication
         Console.WriteLine(x*i);
         //pront 
         Console.writelone(p*s);
+        // print the results
         Console.WriteLine(s*z);
+        // print the results
         Console.WriteLine(t*y);
         // multiply 3 variables 
         Console.WriteLine(x*y*z);
+        // print the results
         Console.WriteLine(a*b*s);
-        // mutiple vars 
+        // print the results
         Console.WriteLine(i*b*p);
         // end of the program 
         }
