@@ -26,8 +26,5 @@ public class Sort
       t = y;
       x = y;
       x = t;
-      
-      
-      // sort the array
    }
 } // end of the program
