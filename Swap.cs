@@ -10,26 +10,23 @@ public class Swap
     int b = 3;
     // initialize variable c 
     int c = 9;
-    // initialize variable d
-    int d = 91;
       
     // the swap variable
     int swap = 0;
     // print the origianl value of variable a
     Console.WriteLine(a);
-      //print the origianl value of variable b
+    //print the origianl value of variable b
     Console.WriteLine(b);
-      // set the intial variable to swap
 
-// set the variable 
+    // set the variable 
     swap = a;
-      // set the value of a to the current value of b 
+    // set the value of a to the current value of b 
     a = b;
     // end the swap
     b = swap;
     // print the new a variable
     Console.WriteLine(a);
-      // print the new b variable 
+    // print the new b variable 
     Console.WriteLine(b);
   }
 } // end of program 
