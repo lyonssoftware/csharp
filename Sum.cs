@@ -21,11 +21,10 @@ class Sum
       // calculate the new sum
       sum = sum + r;
     }
-    // print the line Sum of Digits of the Number : sum
+      // print the line Sum of Digits of the Number : sum
       Console.WriteLine("Sum of Digits of the Number : "+ sum);
-    // read the next line of the program
+     // read the next line of the program
       Console.ReadLine();
-    // end
   }
   // end of the program
 }
