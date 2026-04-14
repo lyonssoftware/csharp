@@ -72,12 +72,11 @@ class Function
     Foo();
     // call the function Bar
     Bar();
-    // function with parameters
-    Addition(x,y);
-    // call the Subtract function
+    // call the function Subtract 
     Subtract(x,y);
-    // call the Divide method
+    // call the  Divide method
     Divide(x,y);
+    // call the function Multiply()
     Multiply(x,y);
     // call the Add method
     Add(x, y);
