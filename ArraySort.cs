@@ -13,7 +13,6 @@ class ArraySort
             "Aqua",
             "White",
             "Neon",
-            "Hazel",
             "Green",
             "Red",
             "Golden"
