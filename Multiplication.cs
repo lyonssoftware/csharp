@@ -36,13 +36,11 @@ Class Multiplication
         int g = s;
         // set the int f to 7
         int f = 7;
-        // set the int z to p
-        int z = p;
         
         //multiple the variables 
         Console.WriteLine(x*y);
         // multiply 3 by -1 = -3
-        Console.WriteLine(x*z);
+        Console.WriteLine(x);
         // multiply
         Console.WriteLine(x*w);
         // multiply x by i 
@@ -50,11 +48,11 @@ Class Multiplication
         //pront 
         Console.writelone(p*s);
         // print the results
-        Console.WriteLine(s*z);
+        Console.WriteLine(s);
         // print the results
         Console.WriteLine(t*y);
         // multiply 3 variables 
-        Console.WriteLine(x*y*z);
+        Console.WriteLine(x*y);
         // print the results
         Console.WriteLine(a*b*s);
         // print the results
