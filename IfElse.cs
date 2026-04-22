@@ -13,8 +13,7 @@ public class IfElse
       int d = 8, e = 3, f = 11;
       // initalize variables
       int g = 11, h = 6, i = 15;
-      // initalize variables
-      int j = 11, k = 6, l = 15;
+  
       // if the first equals the second value
       if (g == f)
       {
