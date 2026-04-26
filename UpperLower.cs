@@ -20,9 +20,6 @@ class UpperLower
     stringArray.SetValue("Black Berry", 5);
     // set value of the array 
     stringArray.SetValue("Banana", 6);
-    // set value of the array 
-    stringArray.SetValue("Banana", 7);
-    
     
   // print the lower bound of the array 
             Console.WriteLine("The Lower Bound of the Array : {0}",stringArray.GetLowerBound(0).ToString());
