@@ -17,13 +17,13 @@ class Sum
       // set r to the remainder of the number 
       r = num % 10;
       // set the new num
-      num = num / 10;
+      num = num/10;
       // calculate the new sum
       sum = sum + r;
     }
       // print the line Sum of Digits of the Number : sum
       Console.WriteLine("Sum of Digits of the Number : "+ sum);
-     // read the next line of the program
+      // read the next line of the program
       Console.ReadLine();
   }
   // end of the program
