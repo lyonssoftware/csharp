@@ -18,14 +18,12 @@ class UpperLower
     stringArray.SetValue("Cherry", 4);
     // set value of the array 
     stringArray.SetValue("Black Berry", 5);
-    // set value of the array 
-    stringArray.SetValue("Banana", 6);
     
-  // print the lower bound of the array 
-            Console.WriteLine("The Lower Bound of the Array : {0}",stringArray.GetLowerBound(0).ToString());
+    // print the lower bound of the array 
+    Console.WriteLine("The Lower Bound of the Array : {0}",stringArray.GetLowerBound(0).ToString());
     // upper bound when it hits limit
-            Console.WriteLine("The Upper Bound of the Array : {0}",stringArray.GetUpperBound(0).ToString());
+    Console.WriteLine("The Upper Bound of the Array : {0}",stringArray.GetUpperBound(0).ToString());
     // read the last line of the arraylist
-            Console.ReadLine();
-        }
- } // end of program 
+    Console.ReadLine();
+  }
+} // end of program 
