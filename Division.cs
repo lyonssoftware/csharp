@@ -35,10 +35,6 @@ Class Division
         int u = 19;
         // set the int g to 15
         int g = 15;
-        // set the int m to 6 
-        int m = 6;
-        // set the int n to 78
-        int n = 78;
        
         // print the result of divide 3 by 8 
         Console.WriteLine(x/y);
