@@ -31,10 +31,6 @@ Class Division
         int negativeNum = -12;
          // negative integer -22
         int negativeNum = -22;
-        // num
-        int u = 19;
-        // set the int g to 15
-        int g = 15;
        
         // print the result of divide 3 by 8 
         Console.WriteLine(x/y);
