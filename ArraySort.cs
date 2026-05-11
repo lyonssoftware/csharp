@@ -12,7 +12,6 @@ class ArraySort
             "Yellow",
             "Aqua",
             "White",
-            "Neon",
             "Green",
             "Red",
             "Golden"
