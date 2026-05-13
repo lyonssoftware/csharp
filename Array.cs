@@ -51,7 +51,6 @@ public class Array
       array[43] = 52;
       array[44] = 71;
       array[45] = 12;
-      array[46] = 53;
    
       // print the items in array
       Console.WriteLine(array[0]);
