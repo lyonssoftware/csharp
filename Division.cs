@@ -27,8 +27,6 @@ Class Division
         int f = e;
         // set the int a to 60
         int a = 60;
-        // negative integer -12
-        int negativeNum = -12;
        
         // print the result of divide 3 by 8 
         Console.WriteLine(x/y);
