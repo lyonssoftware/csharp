@@ -33,7 +33,8 @@ namespace check1
             }
             // else statement 
             else
-            {
+            {  
+                // enter the number
                 Console.Write("Entered Number is an Odd Number");
                 Console.Read();
             }
