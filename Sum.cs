@@ -16,7 +16,7 @@ class Sum
     {
       // set r to the remainder of the number 
       r = num % 10;
-      // set the new num
+      // get the new num
       num = num/10;
       // calculate the new sum
       sum = sum + r;
