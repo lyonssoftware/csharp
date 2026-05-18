@@ -8,12 +8,11 @@ public class BubbleSort
       }
       public static void BubbleSort (int[] data)
       {
-      // int variables to compare
+         // int variables to compare
          int i, j;
-      // int to hold the length of the array 
+         // int to hold the length of the array 
          int N = data.Length;
-         
-      // for loop to sort through the array
+         // for loop to sort through the array
          for (j=N-1; j>0; j--) {
             // iterate through the next level
             for (i=0; i<j; i++) {
@@ -22,7 +21,6 @@ public class BubbleSort
                   // if current is greater than swap the two elements
                   exchange (data, i, i + 1);
                   // exchange
-                 // end 
             }
          } // end of program
       }
