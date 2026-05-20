@@ -16,10 +16,10 @@ namespace Quicksort
             // Create an unsorted array of string elements
             string[] unsorted = { "z","e","x","c","m","q","a"};
             
-            // create an unsoted array of string elements
+            // create an unsorted array of string elements
             string[] unsorted2 = { "j","m","k","i","m","u","z"};
          
-            // create an unsoted array of string elements
+            // create an unsorted array of string elements
             string[] unsorted3 = { "q","j","k","o","m","u","n"};
  
             // Print the unsorted array
@@ -30,7 +30,6 @@ namespace Quicksort
             }
             // print out the array 
             Console.WriteLine();
-
             // Sort the array using quicksort
             Quicksort(unsorted, 0, unsorted.Length - 1);
  
@@ -48,18 +47,17 @@ namespace Quicksort
         // Quicksort method
         public static void Quicksort(IComparable[] elements, int left, int right)
         {
-// initialed rhe set 
+            // initialed rhe set 
             int i = left, j = right;
-// set the pivot 
+            // set the pivot 
             IComparable pivot = elements[(left + right) / 2];
- 
-         
+
             // while the elements are in
             while (i <= j)
             {   // while loop to compare two elements in the array
                 while (elements[i].CompareTo(pivot) < 0)
                 {
-                 // increment by 1
+                    // increment by 1
                     i++;
                 }
                 // check the the element in the array then pivot
@@ -67,19 +65,17 @@ namespace Quicksort
                 {
                     j--;
                 }
- // compare if the current 
+                // compare if the current 
                 if (i <= j)
                 {
-                    // Swa
+                    // swap 
                     IComparable tmp = elements[i];
                     elements[i] = elements[j];
                     elements[j] = tmp;
- 
                     i++;
                     j--;
                 }
             }
- 
             // Recursive calls
             if (left < j)
             {
@@ -91,6 +87,5 @@ namespace Quicksort
                 Quicksort(elements, i, right);
             }
         }
- 
     }
 }
