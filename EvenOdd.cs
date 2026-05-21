@@ -21,7 +21,6 @@ namespace check1
             int z = 10;
             // read the first int 
             Console.Write("Enter a Number : ");
-            // get the number from user
             i = int.Parse(Console.ReadLine());
             // check if int is even or odd
             if (i % 2 == 0)
