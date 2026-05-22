@@ -9,9 +9,8 @@ public class Sort
       int a = 5;
       int b = 3;
       int c = 8;
-
       // create an int array with 5 
-      Int array1 = Int{3,7, 1, 15,9};
+      int array1 = Int{3,7, 1, 15,9};
       // call the method
       Sort();
    }
