@@ -25,8 +25,6 @@ Class Division
         int k = 89;
         // set the int f to the value of e (f = 18)
         int f = e;
-        // set the int a to 60
-        int a = 60;
        
         // print the result of divide 3 by 8 
         Console.WriteLine(x/y);
