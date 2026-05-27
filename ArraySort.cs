@@ -10,7 +10,6 @@ class ArraySort
             "Orange",
             "Blue",
             "Yellow",
-            "Aqua",
             "White",
             "Green",
             "Red",
