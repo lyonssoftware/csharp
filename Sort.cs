@@ -11,6 +11,7 @@ public class Sort
       int c = 8;
       // create an int array with 5 
       int array1 = Int{3,7, 1, 15,9};
+      int array2 = Int{10, 8, 5, 7, 6};
       // call the method
       Sort();
    }
