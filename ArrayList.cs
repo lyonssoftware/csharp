@@ -8,8 +8,6 @@ public class ArrayList
       ArrayList myArrayList = new ArrayList();
       // create the second instance of ArrayList()
       ArrayList myArrayList2 = new ArrayList();
-      // create the third instance of ArrayList()
-      ArrayList myArrayList3 = new ArrayList();
       
       // add the integer 56 to the first ArrayList
       myArrayList.Add(92);
