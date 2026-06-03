@@ -6,6 +6,7 @@ class Sum
   {
     // initialize the three variables
     int num, sum = 0, r;
+    int i = 0;
     // ask the user to input int number 
     Console.WriteLine("Enter a Number : ");
     
