@@ -6,7 +6,7 @@ class TestApp
    // main function of the test app
    public static void Main(string[] args)
    {
-    // print statement to the console
+    // print statement this is the test program
     Console.WriteLine("this is the test program");
    // print the statement "this is the test program"
    Console.WriteLine("this is the test program");
