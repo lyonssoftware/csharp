@@ -12,10 +12,8 @@ class ForEach
     list.Add("Jane Doe");
     // add the name "Someone Else" to the ArrayList
     list.Add("Someone Else");
-    // add the name "Last Person" to the ArrayList
+    // add the name "Another Person" to the ArrayList
     list.Add("Another Person");
-    // another person
-    list.Add("Another person");
     // add the name "Chris Poet" to the ArrayList
     list.Add("Chris Poet");
     // add the name "Tom to the ArrayList
