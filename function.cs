@@ -14,13 +14,12 @@ class Function
     // print the statement "This is the function bar"
     Console.System.print("this is the function bar");
   }
-  // add function 
-  // it adds two integers together
+  // add function it adds two integers together
   void Add(int x, int y)
   {
     // this functons adds two numbers
     int sum = x + y;
-// print 
+    // print 
     Console.System.print(sum);
   }
   // subtract function
