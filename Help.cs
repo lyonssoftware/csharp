@@ -6,8 +6,6 @@ class Help
   {
     // Use the println() to print error message
     System.out.println("Please assist with error");
-
-    System.out.println("Please assist with error");
   }
 }
 // end of program
