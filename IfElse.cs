@@ -23,13 +23,12 @@ public class IfElse
       if (a == b)
         // print the a variable
         Console.WriteLine(a);
-      // if a is greater than c or a is equal to b 
-      if ((a > c) || (a == b))
+        // if a is greater than c or a is equal to b 
+        if ((a > c) || (a == b))
         // print the b integer
         Console.WriteLine(b);
-// check it
-      // if statement 
-      if ((a >= c) && (b <= c))
+        // if statement 
+        if ((a >= c) && (b <= c))
         // is a is greater and b is smaller than c
         Console.WriteLine(c);
       // end of program
