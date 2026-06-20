@@ -46,7 +46,7 @@ class Function
   // return type 
   int Add(int x, int y)
   {
-// set the sum of the two ints 
+    // set the sum of the two ints 
     int sum = x + y;
     // return the value of sum 
     return sum;
@@ -67,9 +67,9 @@ class Function
   {
     // variables 
     int x = 5, int y = 7;
-    // call the foofunction 
+    // call the function Foo() 
     Foo();
-    // call the function Bar
+    // call the function Bar()
     Bar();
     // call the function Subtract 
     Subtract(x,y);
