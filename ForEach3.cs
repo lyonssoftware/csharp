@@ -24,10 +24,8 @@ namespace WindowsApplication1
             // iterate through the list 
             foreach (string day in days)
             {
-            // print message 
+                // print message 
                 MessageBox.Show("The day is : " + day);
-
-// print the statement 
             }
         }
     } // end of the program
