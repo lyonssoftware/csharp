@@ -16,9 +16,6 @@ class ForEach
     list.Add("Another Person");
     // add the name "Chris Poet" to the ArrayList
     list.Add("Chris Poet");
-    // add the name "Tom to the ArrayList
-    list.Add("Tom");
-  
     
     // foreach loop to iterate through list
     foreach(string name in list)
