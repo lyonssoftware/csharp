@@ -30,6 +30,7 @@ Class Multiplication
         int s = 11;
         // initialize int to 68
         int t = 68;
+
         
         //multiple the variables 
         Console.WriteLine(x*y);
