@@ -13,7 +13,8 @@ public class BubbleSort
          // int to hold the length of the array 
          int N = data.Length;
          // for loop to sort through the array
-         for (j=N-1; j>0; j--) {
+         for (j=N-1; j>0; j--) 
+         {
             // iterate through the next level
             for (i=0; i<j; i++) {
                // check the current value of the  array with the adjacent value of array
