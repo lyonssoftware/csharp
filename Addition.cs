@@ -43,7 +43,6 @@ public class Array
       array[35] = 31;
       array[36] = 24;
       array[37] = 38;
-      array[38] = 52;
    
       // print the items in array
       Console.WriteLine(array[0]);
