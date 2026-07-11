@@ -90,8 +90,6 @@ public class Array
       Console.WriteLine(array[42]);
       Console.WriteLine(array[43]);
       Console.WriteLine(array[44]);
-      Console.WriteLine(array[45]);
-      Console.WriteLine(array[46]);
    }
    // the end of program
 }
