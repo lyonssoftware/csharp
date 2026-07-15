@@ -86,7 +86,6 @@ public class Array
       Console.WriteLine(array[39]);
       Console.WriteLine(array[40]);
       Console.WriteLine(array[41]);
-      Console.WriteLine(array[42]);
    }
    // the end of program
 }
