@@ -3,8 +3,8 @@ public class Array
 {
    public static void Main()
    {
-      // create an int array of 50 indexes 
-      int[] array = new int[50];
+      // create an int array of 40 indexes 
+      int[] array = new int[40];
       array[0] = 0;
       array[1] = 1;
       array[2] = 2;
@@ -45,8 +45,6 @@ public class Array
       array[37] = 38;
       array[38] = 52;
       array[39] = 26;
-      array[40] = 81;
-      array[41] = 9;
    
       // print the items in array
       Console.WriteLine(array[0]);
@@ -89,16 +87,6 @@ public class Array
       Console.WriteLine(array[37]);
       Console.WriteLine(array[38]);
       Console.WriteLine(array[39]);
-      Console.WriteLine(array[40]);
-      Console.WriteLine(array[41]);
-      Console.WriteLine(array[42]);
-      Console.WriteLine(array[43]);
-      Console.WriteLine(array[44]);
-      Console.WriteLine(array[45]);
-      Console.WriteLine(array[46]);
-      Console.WriteLine(array[47]);
-      Console.WriteLine(array[48]); 
-      Console.WriteLine(array[49]);  
    }
    // the end of program
 }
