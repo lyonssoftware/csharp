@@ -42,7 +42,7 @@ public class Array
       array[34] = 17;
       array[35] = 31;
       array[36] = 24;
-      array[37] = 10;
+      array[37] = 40;
       array[38] = 30;
       array[39] = 28;
    
