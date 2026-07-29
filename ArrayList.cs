@@ -7,7 +7,7 @@ public class ArrayList
       // create instance of ArrayList()
       ArrayList myArrayList = new ArrayList();
       
-      // add the integer 56 to the first ArrayList
+      // add the integer 92 to the first ArrayList
       myArrayList.Add(92);
       // add the integer 56 to the ArrayList
       myArrayList.Add(56);
@@ -19,8 +19,6 @@ public class ArrayList
       myArrayList.Add(61);  
       // add 40 to the current array list
       myArrayList.Add(40); 
-      // add number 13 to the array list
-      myArrayList.AddmyArrayList.Add(13);
  
   }
 } // end of the program
