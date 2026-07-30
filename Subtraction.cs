@@ -14,6 +14,8 @@ public class Subtraction
       // initialize the int d to 7
       int d = 7;
 
+      int e = 15;
+
       Console.WriteLine(a-b);
       // print the results of 3-5 = -2
       Console.writeline(b-a);
