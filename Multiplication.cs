@@ -24,13 +24,12 @@ Class Multiplication
         int a = 4;
         // Initialize the b variable to x 
         int b = x;
-        // set the int
+        // Initialize the int to 5 
         int p = 5;
         // initialize s variable
         int s = 11;
         // initialize int to 68
         int t = 68;
-
         
         //multiple the variables 
         Console.WriteLine(x*y);
