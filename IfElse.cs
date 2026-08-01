@@ -20,9 +20,11 @@ public class IfElse
       }
 
       // if a is equal to b then print equal
-      if (a == b)
-        // print the a variable
-        Console.WriteLine(a);
+        if (a == b)
+        {
+          // print the a variable
+          Console.WriteLine(a);
+        }
         // if a is greater than c or a is equal to b 
         if ((a > c) || (a == b))
         // print the b integer
