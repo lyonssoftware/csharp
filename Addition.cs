@@ -1,92 +1,21 @@
-Using System;
-public class Array
+// C# program showing example of ArrayList
+public class ArrayList
 {
+   // main function
    public static void Main()
    {
-      // create an int array of 40 indexes 
-      int[] array = new int[40];
-      array[0] = 0;
-      array[1] = 13;
-      array[2] = 2;
-      array[3] = 3;
-      array[4] = 4;
-      array[5] = 10;
-      array[6] = 6; 
-      array[7] = 78; 
-      array[8] = 8;
-      array[9] = 99;
-      array[10] = 10;
-      array[11] = 71;
-      array[12] = 12;
-      array[13] = 81;
-      array[14] = 14;
-      array[15] = 47; 
-      array[16] = 56;
-      array[17] = 57;
-      array[18] = 18;
-      array[19] = 20;
-      array[20] = 56;
-      array[21] = 32;
-      array[22] = 65;
-      array[23] = 3;
-      array[24] = 62;
-      array[25] = 32;
-      array[26] = 26;
-      array[27] = 52;
-      array[28] = 28;
-      array[29] = 78;
-      array[30] = 8;
-      array[31] = 11;
-      array[32] = 81;
-      array[33] = 3;
-      array[34] = 17;
-      array[35] = 31;
-      array[36] = 24;
-      array[37] = 40;
-      array[38] = 30;
-      array[39] = 28;
-   
-      // print the items in array
-      Console.WriteLine(array[0]);
-      Console.WriteLine(array[1]);
-      Console.WriteLine(array[2]);
-      Console.WriteLine(array[3]);
-      Console.WriteLine(array[4]);
-      Console.WriteLine(array[5]);
-      Console.WriteLine(array[6]);
-      Console.WriteLine(array[7]);
-      Console.WriteLine(array[8]);
-      Console.WriteLine(array[9]);
-      Console.WriteLine(array[10]);
-      Console.WriteLine(array[11]);
-      Console.WriteLine(array[12]);
-      Console.WriteLine(array[13]);
-      Console.WriteLine(array[14]);
-      Console.WriteLine(array[15]);
-      Console.WriteLine(array[16]);
-      Console.WriteLine(array[17]);
-      Console.WriteLine(array[18]);
-      Console.WriteLine(array[19]);
-      Console.WriteLine(array[20]);
-      Console.WriteLine(array[21]);
-      Console.WriteLine(array[22]);
-      Console.WriteLine(array[23]);
-      Console.WriteLine(array[24]);
-      Console.WriteLine(array[25]);
-      Console.WriteLine(array[26]);
-      Console.WriteLine(array[27]);
-      Console.WriteLine(array[28]);
-      Console.WriteLine(array[29]);
-      Console.WriteLine(array[30]);
-      Console.WriteLine(array[31]);
-      Console.WriteLine(array[32]);
-      Console.WriteLine(array[33]);
-      Console.WriteLine(array[34]);
-      Console.WriteLine(array[35]);
-      Console.WriteLine(array[36]);
-      Console.WriteLine(array[37]);
-      Console.WriteLine(array[38]);
-      Console.WriteLine(array[39]);
-   }
-   // the end of program
-}
+      // create instance of ArrayList()
+      ArrayList myArrayList = new ArrayList();
+      
+      // add the integer 92 to the first ArrayList
+      myArrayList.Add(92);
+      // add the integer 56 to the ArrayList
+      myArrayList.Add(56);
+      // add 12 to the current array list
+      myArrayList.Add(12);
+      // add 12 to the current array list
+      myArrayList.Add(89);      
+       // add 12 to the current array list
+      myArrayList.Add(61);  
+  }
+} // end of the program
