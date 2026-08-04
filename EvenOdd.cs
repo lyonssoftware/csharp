@@ -25,8 +25,7 @@ namespace check1
             if (i % 2 == 0)
             {
                // enter the number
-               Console.Write("Entered Number is an Even Number");
-               // read in value
+               Console.Write("Entered Number is an Even Number");    
                Console.Read();
             }
             // else statement 
