@@ -6,7 +6,7 @@ public class Addition
       // create an int array of 40 indexes 
       int x = 1;
       int y = 2;
-      
+      int a = 10;
       int z = x+y;
 
       Console.WriteLine(x);
