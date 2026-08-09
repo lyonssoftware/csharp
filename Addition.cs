@@ -8,7 +8,9 @@ public class Addition
       int y = 2;
       
       int z = x+y;
-      
+
+      Console.WriteLine(x);
+      Console.WriteLine(y);
       Console.WriteLine(z);
    }
    // the end of program
