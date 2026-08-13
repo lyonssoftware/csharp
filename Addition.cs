@@ -12,7 +12,7 @@ public class Addition
 
       Console.WriteLine(x);
       Console.WriteLine(y);
-      Console.WriteLine(z);
+      Console.WriteLine(z+x);
    }
    // the end of program
 }
