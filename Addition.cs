@@ -4,7 +4,7 @@ public class Addition
    public static void Main()
    {
       // create an int array of 40 indexes 
-      int x = 1;
+      int x = 7;
       int y = 2;
       int a = 10;
       int z = x;
