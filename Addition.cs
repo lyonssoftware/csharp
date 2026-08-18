@@ -3,7 +3,7 @@ public class Addition
 {
    public static void Main()
    {
-      // create an int array of 40 indexes 
+      // initialize int variables
       int x = 7;
       int y = 2;
       int a = 10;
@@ -13,7 +13,7 @@ public class Addition
       Console.WriteLine(x);
       Console.WriteLine(y);
       Console.WriteLine(z+x);
-      Console.WriteLine(+x);
+      Console.WriteLine(x+x);
    }
    // the end of program
 }
